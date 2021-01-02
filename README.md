@@ -4,1217 +4,974 @@
 
 
 #EXTM3U
-#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 01[/B][/COLOR]
-http://boxiptv.club:8080/
-#EXTINF:-1,A Fazenda 12 Opo 01
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145841
-#EXTINF:-1,A Fazenda 12 Opo 02
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145842
-#EXTINF:-1,A&E FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145847
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145595
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145596
-#EXTINF:-1,All Sports DF
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145453
-#EXTINF:-1,AMC Fullhd (h.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145848
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145597
-#EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145598
-#EXTINF:-1,Animal Planet FullHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145849
-#EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145564
-#EXTINF:-1,Animal Planet1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/14556
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145600
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145601
-#EXTINF:-1,BabyTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145371
-#EXTINF:-1,BabyTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145372
-#EXTINF:-1,Band Campinas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145192
-#EXTINF:-1,Band HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145193
-#EXTINF:-1,Band Nordeste SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145194
-#EXTINF:-1,BAND RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145244
-#EXTINF:-1,BAND RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145243
-#EXTINF:-1,BAND SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145245
-#EXTINF:-1,Band SP FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145853
-#EXTINF:-1,Band SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145195
-#EXTINF:-1,Band Sports HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145454
-#EXTINF:-1,BAND SPORTS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145455
-#EXTINF:-1,BH FM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145769
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145518
-#EXTINF:-1,BIS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145519
-#EXTINF:-1,BLACK SOUL MARQUES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145770
-#EXTINF:-1,Boomerang FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145854
-#EXTINF:-1,Boomerang HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145373
-#EXTINF:-1,BOOMERANG SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145374
-#EXTINF:-1,Bossa Nova
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145771
-#EXTINF:-1,Brega
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145772
-#EXTINF:-1,CABO BRANCO FM JO PESSOA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145773
-#EXTINF:-1,Cadillacc Music
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145774
-#EXTINF:-1,Canal 10 Foz do igu (Parana)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145248
-#EXTINF:-1,Canal Brasil SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145249
-#EXTINF:-1,Canal Futura
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145189
-#EXTINF:-1,Canal Promessas (Goias)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145250
-#EXTINF:-1,Cano Nova HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145742
-#EXTINF:-1,Cano Nova SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145743
-#EXTINF:-1,Capital TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145520
-#EXTINF:-1,Cartoon Network FullHD (H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145855
-#EXTINF:-1,Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145375
-#EXTINF:-1,CartoonNetwork SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145376
-#EXTINF:-1,CBN CAMPINA GRANDE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145775
-#EXTINF:-1,CBN RJ
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145776
-#EXTINF:-1,CBN SP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145777
-#EXTINF:-1,CBTV Now
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145251
-#EXTINF:-1,CEAK TV ESRITA SP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145744
-#EXTINF:-1,Central TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145252
-#EXTINF:-1,Chef TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145521
-#EXTINF:-1,CINE 06
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145668
-#EXTINF:-1,Cine Pipoca 01
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145698
-#EXTINF:-1,Cine Pipoca 02
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145699
-#EXTINF:-1,Cine Pipoca 03
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145700
-#EXTINF:-1,Cine Pipoca 04
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145701
-#EXTINF:-1,Cine Pipoca 05
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145702
-#EXTINF:-1,CINE SKY 01
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145674
-#EXTINF:-1,CINE SKY 02
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145675
-#EXTINF:-1,CINE SKY 03
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145676
-#EXTINF:-1,CINE SKY 04
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145677
-#EXTINF:-1,CINE SKY 05
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145678
-#EXTINF:-1,CINE SKY 06
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145679
-#EXTINF:-1,CINE SKY 07
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145680
-#EXTINF:-1,CINE SKY 08
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145681
-#EXTINF:-1,CINE SKY 09
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145682
-#EXTINF:-1,CINE SKY 10
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145683
-#EXTINF:-1,Cinemax FullHD (h.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145856
-#EXTINF:-1,Cinemax HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145602
-#EXTINF:-1,Cinemax SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145603
-#EXTINF:-1,CLASSIQUE TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145688
-#EXTINF:-1,Clube FM de Brasia
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145778
-#EXTINF:-1,Combate FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145857
-#EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145456
-#EXTINF:-1,Combate SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145457
-#EXTINF:-1,Comedy Central FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145858
-#EXTINF:-1,Comedy Central HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145522
-#EXTINF:-1,Comedy Central SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145523
-#EXTINF:-1,CONMEBOL TV 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145458
-#EXTINF:-1,CONMEBOL TV 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145459
-#EXTINF:-1,CONMEBOL TV 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145460
-#EXTINF:-1,CONMEBOL TV 4
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145461
-#EXTINF:-1,CPAD JO PESSOA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145779
-#EXTINF:-1,Cultura HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145196
-#EXTINF:-1,Cultura Par
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145253
-#EXTINF:-1,Cultura SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145197
-#EXTINF:-1,Curta HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145524
-#EXTINF:-1,Curta! SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145525
-#EXTINF:-1,DAZN 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145467
-#EXTINF:-1,Discovery Channel FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145859
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145566
-#EXTINF:-1,Discovery Channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145567
-#EXTINF:-1,Discovery Civilization FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145860
-#EXTINF:-1,HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145568
-#EXTINF:-1,HGTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145569
-#EXTINF:-1,Discovery Home & Health HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145570
-#EXTINF:-1,Discovery Home & Health SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145571
-#EXTINF:-1,Discovery Home&Health FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145861
-#EXTINF:-1,Discovery ID HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145572
-#EXTINF:-1,Discovery ID SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145573
-#EXTINF:-1,Discovery Kids FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145862
-#EXTINF:-1,Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145377
-#EXTINF:-1,Discovery Kids SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145369
-#EXTINF:-1,Discovery Science FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145863
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145574
-#EXTINF:-1,Discovery Science SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145575
-#EXTINF:-1,Discovery Theater FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145864
-#EXTINF:-1,Discovery Theater HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145576
-#EXTINF:-1,Discovery Theater SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145577
-#EXTINF:-1,Discovery Turbo FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145865
-#EXTINF:-1,Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145578
-#EXTINF:-1,Discovery Turbo SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145579
-#EXTINF:-1,Discovery World FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145866
-#EXTINF:-1,Discovery World HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145580
-#EXTINF:-1,Discovery World SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145581
-#EXTINF:-1,Disney Channel FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145867
-#EXTINF:-1,Disney Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145378
-#EXTINF:-1,DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145379
-#EXTINF:-1,DISNEY JR FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145868
-#EXTINF:-1,Disney Junior SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145380
-#EXTINF:-1,DISNEY XD FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145869
-#EXTINF:-1,DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145381
-#EXTINF:-1,Disney XD SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145382
-#EXTINF:-1,DisneyJunior HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145383
-#EXTINF:-1,DJing
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145526
-#EXTINF:-1,DJing Animation
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145527
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145528
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145529
-#EXTINF:-1,Ei Plus
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145469
-#EXTINF:-1,ELETRICA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145780
-#EXTINF:-1,ESPN 2 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145870
-#EXTINF:-1,ESPN Brasil FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145871
-#EXTINF:-1,Espn Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145470
-#EXTINF:-1,Espn Brasil SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145471
-#EXTINF:-1,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145472
-#EXTINF:-1,ESPN EXTRA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145473
-#EXTINF:-1,ESPN FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145872
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145474
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145475
-#EXTINF:-1,Espn2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145476
-#EXTINF:-1,Espn2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145477
-#EXTINF:-1,ESTAO JC POMBAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145781
-#EXTINF:-1,Estio 96.5 FM Rio de Janeiro RJ
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145782
-#EXTINF:-1,FashionTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145530
-#EXTINF:-1,Festa
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145783
-#EXTINF:-1,Film & Arts HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145604
-#EXTINF:-1,Film & Arts SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145605
-#EXTINF:-1,Fireworks
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145784
-#EXTINF:-1,FISH TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145478
-#EXTINF:-1,FISH TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145479
-#EXTINF:-1,Food Network FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145873
-#EXTINF:-1,Food Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145532
-#EXTINF:-1,Food Network SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145531
-#EXTINF:-1,FORR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145785
-#EXTINF:-1,Fox FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145874
-#EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145606
-#EXTINF:-1,FOX HITS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145533
-#EXTINF:-1,FOX Life HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145607
-#EXTINF:-1,FOX LIFE SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145608
-#EXTINF:-1,FOX Premium 1 FullHD (h.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145875
-#EXTINF:-1,Fox Premium 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145609
-#EXTINF:-1,FOX PREMIUM 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145610
-#EXTINF:-1,FOX Premium 2 FullHD (h.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145876
-#EXTINF:-1,Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145611
-#EXTINF:-1,FOX PREMIUM 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145612
-#EXTINF:-1,FOX SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145613
-#EXTINF:-1,Fox Sports 2 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145877
-#EXTINF:-1,Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145480
-#EXTINF:-1,FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145481
-#EXTINF:-1,Fox Sports FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145878
-#EXTINF:-1,Fox Sports HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145482
-#EXTINF:-1,FOX SPORTS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145483
-#EXTINF:-1,Fuego
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145786
-#EXTINF:-1,FUNK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145787
-#EXTINF:-1,Futura HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145198
-#EXTINF:-1,Futura SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145199
-#EXTINF:-1,FX FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145879
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145614
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145615
-#EXTINF:-1,Globo Anhanguera Goiania SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145324
-#EXTINF:-1,Globo Centro America SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145325
-#EXTINF:-1,Globo DF SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145326
-#EXTINF:-1,Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145327
-#EXTINF:-1,Globo EPTV Campinas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145328
-#EXTINF:-1,Globo EPTV Ribeir Preto SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145329
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FullHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145880
-#EXTINF:-1,Globo EPTV Sao Carlos SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145330
-#EXTINF:-1,Globo ES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145331
-#EXTINF:-1,GLOBO ES SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145332
-#EXTINF:-1,Globo INTER TV Cabugi RN SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145333
-#EXTINF:-1,Globo Internacional SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145334
-#EXTINF:-1,Globo InterTV Alto Litoral HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145335
-#EXTINF:-1,Globo InterTV Serra Mar SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145336
-#EXTINF:-1,Globo Itapetininga SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145337
-#EXTINF:-1,Globo Manaus HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145338
-#EXTINF:-1,GLOBO MG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145339
-#EXTINF:-1,GLOBO MG SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145340
-#EXTINF:-1,Globo News FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145881
-#EXTINF:-1,Globo Nordeste SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145342
-#EXTINF:-1,Globo NSC Blumenau SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145343
-#EXTINF:-1,Globo NSC Florianopolis HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145344
-#EXTINF:-1,Globo NSC Florianpolis FullHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145882
-#EXTINF:-1,Globo RBS Porto Alegre SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145345
-#EXTINF:-1,Globo RBS TV Pelotas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145346
-#EXTINF:-1,GLOBO RBS TV POA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145347
-#EXTINF:-1,Globo RBS TV Porto Alegre FullHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145883
-#EXTINF:-1,Globo RJ FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145884
-#EXTINF:-1,GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145348
-#EXTINF:-1,GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145349
-#EXTINF:-1,Globo RPC Parana SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145350
-#EXTINF:-1,Globo RPC TV FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145885
-#EXTINF:-1,Globo RPC TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145351
-#EXTINF:-1,Globo RPC TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145352
-#EXTINF:-1,Globo Sergipe
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145353
-#EXTINF:-1,Globo SP FullHD (H265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145886
-#EXTINF:-1,GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145354
-#EXTINF:-1,Globo SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145355
-#EXTINF:-1,Globo TV Bahia FullHD (H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145843
-#EXTINF:-1,Globo TV Bahia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145356
-#EXTINF:-1,Globo TV Bahia SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145357
-#EXTINF:-1,Globo TV Belem
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145358
-#EXTINF:-1,Globo TV Diario SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145359
-#EXTINF:-1,Globo TV Gazeta Sul ES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145360
-#EXTINF:-1,Globo TV Mirante SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145361
-#EXTINF:-1,Globo TV Morena SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145362
-#EXTINF:-1,Globo TV Tem Bauru SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145363
-#EXTINF:-1,Globo TV Tem Sorocaba SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145365
-#EXTINF:-1,Globo TV Vanguarda SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145366
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145367
-#EXTINF:-1,Globo TV Vitoria ES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145368
-#EXTINF:-1,Gloob FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145887
-#EXTINF:-1,Gloob HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145384
-#EXTINF:-1,Gloob SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145385
-#EXTINF:-1,Gloobinho HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145386
-#EXTINF:-1,Gloobinho SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145387
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145534
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145535
-#EXTINF:-1,GOSPEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145788
-#EXTINF:-1,Gospel Movie TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145689
-#EXTINF:-1,H2 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145888
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145582
-#EXTINF:-1,H2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145583
-#EXTINF:-1,HBO 2 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145889
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145652
-#EXTINF:-1,HBO 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145653
-#EXTINF:-1,HBO Extreme FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145890
-#EXTINF:-1,HBO EXTREME HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145654
-#EXTINF:-1,HBO Extreme SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145655
-#EXTINF:-1,HBO Family FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145891
-#EXTINF:-1,HBO Family HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145656
-#EXTINF:-1,HBO FAMILY SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145657
-#EXTINF:-1,HBO FullHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145892
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145658
-#EXTINF:-1,HBO Mundi FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145893
-#EXTINF:-1,HBO Mundi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145659
-#EXTINF:-1,HBO Mundi SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145660
-#EXTINF:-1,HBO Plus FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145894
-#EXTINF:-1,HBO Plus HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145661
-#EXTINF:-1,HBO Plus SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145662
-#EXTINF:-1,HBO POP FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145895
-#EXTINF:-1,HBO POP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145663
-#EXTINF:-1,HBO POP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145664
-#EXTINF:-1,HBO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145665
-#EXTINF:-1,HBO Signature FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145896
-#EXTINF:-1,HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145666
-#EXTINF:-1,HBO Signature SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145667
-#EXTINF:-1,HGTV FullHD (H265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145897
-#EXTINF:-1,HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145584
-#EXTINF:-1,HGTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145585
-#EXTINF:-1,HIP HOP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145789
-#EXTINF:-1,History Channel FullHD (H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145898
-#EXTINF:-1,History Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145586
-#EXTINF:-1,History channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145587
-#EXTINF:-1,ID Discovery FullHD (H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145899
-#EXTINF:-1,Island of Chacha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145790
-#EXTINF:-1,ITV Canal Itu Tv SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145254
-#EXTINF:-1,IURD TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145745
-#EXTINF:-1,Japi TV (Sao Paulo)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145255
-#EXTINF:-1,Jazz
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145791
-#EXTINF:-1,JOVEM PAN FM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145792
-#EXTINF:-1,Jovem Pan Serid
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145793
-#EXTINF:-1,Kids
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145794
-#EXTINF:-1,Kuriakos Kids
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145388
-#EXTINF:-1,LIBERDADE FM POMBAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145795
-#EXTINF:-1,Lifetime HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145536
-#EXTINF:-1,Lifetime SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145537
-#EXTINF:-1,Live: Libertadores 01 (Sport.TV)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145514
-#EXTINF:-1,Live: Libertadores 02 (Sport.TV)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145515
-#EXTINF:-1,Lounge
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145796
-#EXTINF:-1,Mais Globosat HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145538
-#EXTINF:-1,Mais Globosat SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145539
-#EXTINF:-1,Megapix FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145900
-#EXTINF:-1,MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145616
-#EXTINF:-1,Megapix SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145617
-#EXTINF:-1,Metal
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145797
-#EXTINF:-1,METROPOLETANA FM AO VIVO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145798
-#EXTINF:-1,Mica Clsica
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145800
-#EXTINF:-1,MPB
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145799
-#EXTINF:-1,MTV Clipes
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145540
-#EXTINF:-1,MTV FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145901
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145541
-#EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145542
-#EXTINF:-1,Multishow FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145902
-#EXTINF:-1,Multishow HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145543
-#EXTINF:-1,MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145544
-#EXTINF:-1,Mundo TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145545
-#EXTINF:-1,Music Top
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145546
-#EXTINF:-1,NAT GEO KIDS FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145903
-#EXTINF:-1,Nat Geo Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145370
-#EXTINF:-1,NAT GEO KIDS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145389
-#EXTINF:-1,Nat Geo WILD SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145588
-#EXTINF:-1,NatGeo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145589
-#EXTINF:-1,NatGeo SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145590
-#EXTINF:-1,NatGeo Wild FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145904
-#EXTINF:-1,NatGeo Wild HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145591
-#EXTINF:-1,National Geographic FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145905
-#EXTINF:-1,National Geographic HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145592
-#EXTINF:-1,NEW ROCK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145801
-#EXTINF:-1,Nick JR FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145906
-#EXTINF:-1,Nick Jr HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145390
-#EXTINF:-1,NICK JR SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145391
-#EXTINF:-1,NICKELODEON FullHD (h265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145845
-#EXTINF:-1,Nickelodeon HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145392
-#EXTINF:-1,Nickelodeon SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145393
-#EXTINF:-1,NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145746
-#EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145484
-#EXTINF:-1,Otto Music TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145547
-#EXTINF:-1,PAGODE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145802
-#EXTINF:-1,Pai Eterno SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145747
-#EXTINF:-1,Paramount Channel FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145846
-#EXTINF:-1,Paramount Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145618
-#EXTINF:-1,Paramount Channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145619
-#EXTINF:-1,Play Kids
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145394
-#EXTINF:-1,Pop Hits
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145803
-#EXTINF:-1,POP ROCK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145804
-#EXTINF:-1,PORTUGAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/146000
-#EXTINF:-1,Premiere 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145486
-#EXTINF:-1,Premiere 2 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145907
-#EXTINF:-1,Premiere 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145487
-#EXTINF:-1,Premiere 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145488
-#EXTINF:-1,Premiere 3 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145908
-#EXTINF:-1,Premiere 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145489
-#EXTINF:-1,PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145490
-#EXTINF:-1,Premiere 4 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145909
-#EXTINF:-1,Premiere 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145491
-#EXTINF:-1,Premiere 4 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145492
-#EXTINF:-1,Premiere 5 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145910
-#EXTINF:-1,Premiere 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145485
-#EXTINF:-1,PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145493
-#EXTINF:-1,Premiere 5 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145494
-#EXTINF:-1,Premiere 6 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145911
-#EXTINF:-1,Premiere 6 hd
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145495
-#EXTINF:-1,Premiere 6 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145496
-#EXTINF:-1,Premiere 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145497
-#EXTINF:-1,Premiere 7 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145498
-#EXTINF:-1,PREMIERE 8 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145499
-#EXTINF:-1,Premiere 8 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145500
-#EXTINF:-1,PREMIERE 9 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145501
-#EXTINF:-1,Premiere Clubes FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145912
-#EXTINF:-1,Premiere Clubes HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145502
-#EXTINF:-1,Premiere Clubes SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145503
-#EXTINF:-1,Prime Box Brazil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145548
-#EXTINF:-1,RECORD BA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145242
-#EXTINF:-1,RECORD BA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145241
-#EXTINF:-1,Record Campinas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145202
-#EXTINF:-1,Record Campinas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145203
-#EXTINF:-1,Record DF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145204
-#EXTINF:-1,Record DF SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145205
-#EXTINF:-1,RECORD GO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145206
-#EXTINF:-1,Record HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145207
-#EXTINF:-1,Record Itapoan HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145201
-#EXTINF:-1,Record Manaus HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145208
-#EXTINF:-1,Record MG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145209
-#EXTINF:-1,Record Nordeste HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145191
-#EXTINF:-1,Record PA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145210
-#EXTINF:-1,Record RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145211
-#EXTINF:-1,Record RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145212
-#EXTINF:-1,RECORD RS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145213
-#EXTINF:-1,Record RS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145214
-#EXTINF:-1,Record SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145215
-#EXTINF:-1,Record SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145216
-#EXTINF:-1,Record TV Vitoria SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145217
-#EXTINF:-1,RecordTV Natal TV Tropical
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145239
-#EXTINF:-1,Red Bull TV OPO 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145506
-#EXTINF:-1,Red Bull TV OPO 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145507
-#EXTINF:-1,Rede Brasil SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145257
-#EXTINF:-1,Rede Caxias (Rio de Janeiro)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145259
-#EXTINF:-1,REDE gOSPEL TV SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145748
-#EXTINF:-1,Rede Metropolitana (Minas Gerais)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145260
-#EXTINF:-1,REDE MINAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145261
-#EXTINF:-1,Rede Premium
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145262
-#EXTINF:-1,REDE RC
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145246
-#EXTINF:-1,Rede Super
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145749
-#EXTINF:-1,Rede Super HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145750
-#EXTINF:-1,Rede TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145218
-#EXTINF:-1,Rede TV Sul (Santa Catarina)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145263
-#EXTINF:-1,REDE TV! ES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145219
-#EXTINF:-1,Rede TV! Tocantins
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145220
-#EXTINF:-1,Rede Vida HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145751
-#EXTINF:-1,Rede Vida SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145752
-#EXTINF:-1,RedeTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145221
-#EXTINF:-1,RedeTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145222
-#EXTINF:-1,RedeTV! FullHD (h.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145914
-#EXTINF:-1,REGGAE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145808
-#EXTINF:-1,RetrCartoon
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145395
-#EXTINF:-1,RETRO MUSIC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145550
-#EXTINF:-1,Retro Plus
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145551
-#EXTINF:-1,RIO ATLTIDA FM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145811
-#EXTINF:-1,Rio Clube do Par690 AM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145812
-#EXTINF:-1,RIO ELDORADO FM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145813
-#EXTINF:-1,Rio Folk
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145814
-#EXTINF:-1,Rio Gospel Internacional
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145815
-#EXTINF:-1,Rio JPop
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145816
-#EXTINF:-1,RIO JUAZEIRO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145817
-#EXTINF:-1,RIO JUAZEIRO AM 1190
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145818
-#EXTINF:-1,Rio KPop
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145819
-#EXTINF:-1,Rio Latina
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145820
-#EXTINF:-1,RIO PETROLINA FM 98.3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145821
-#EXTINF:-1,Rio Pop Nacional
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145822
-#EXTINF:-1,RIO PRINCESA FM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145823
-#EXTINF:-1,Rio R&B
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145824
-#EXTINF:-1,Rio Rock
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145825
-#EXTINF:-1,Rio Romticas
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145826
-#EXTINF:-1,Rio Sertanejo Romtico
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145827
-#EXTINF:-1,RIO TRANSAMERICA FM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145828
-#EXTINF:-1,RIO TROPICAL SAT FM 102.5
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145829
-#EXTINF:-1,RIO WEB UA VIVA DE JUAZEIRO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145830
-#EXTINF:-1,RIT TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145753
-#EXTINF:-1,ROBERTO CARLOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145809
-#EXTINF:-1,ROCK CLASSICO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145810
-#EXTINF:-1,Rock TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145552
-#EXTINF:-1,SBT FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145915
-#EXTINF:-1,SBT Goias HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145223
-#EXTINF:-1,SBT MA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145190
-#EXTINF:-1,SBT Nordeste FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145916
-#EXTINF:-1,SBT Nordeste HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145224
-#EXTINF:-1,SBT RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145225
-#EXTINF:-1,SBT Santa Catarina HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145240
-#EXTINF:-1,SBT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145226
-#EXTINF:-1,SBT SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145227
-#EXTINF:-1,SBT SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145228
-#EXTINF:-1,SBT TV Cidade Verde Piaui SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145229
-#EXTINF:-1,SBT TV Jornal Pernambuco SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145230
-#EXTINF:-1,SERTANEJO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145831
-#EXTINF:-1,SERTANEJO RAIZES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145832
-#EXTINF:-1,SETE COLINAS FM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145833
-#EXTINF:-1,Sexy KpopTV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145553
-#EXTINF:-1,SMITHSONIAN CHANNEL FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145917
-#EXTINF:-1,SMOOTH JAZZ
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145834
-#EXTINF:-1,Sony FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145918
-#EXTINF:-1,Sony HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145620
-#EXTINF:-1,Sony SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145621
-#EXTINF:-1,Space FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145919
-#EXTINF:-1,Space HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145622
-#EXTINF:-1,Space SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145623
-#EXTINF:-1,SPORTV 2 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145920
-#EXTINF:-1,SporTV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145508
-#EXTINF:-1,SporTV 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145509
-#EXTINF:-1,SPORTV 3 FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145921
-#EXTINF:-1,SporTV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145510
-#EXTINF:-1,SporTV 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145511
-#EXTINF:-1,SPORTV FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145922
-#EXTINF:-1,SPORTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145512
-#EXTINF:-1,SporTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145513
-#EXTINF:-1,STUDIO DO AMOR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145835
-#EXTINF:-1,Studio Universal FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145923
-#EXTINF:-1,Studio Universal HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145624
-#EXTINF:-1,Studio Universal SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145625
-#EXTINF:-1,SUMMER TV SP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145265
-#EXTINF:-1,SUPER SOM fm
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145836
-#EXTINF:-1,Syfy FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145924
-#EXTINF:-1,Syfy HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145626
-#EXTINF:-1,Syfy SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145627
-#EXTINF:-1,TBS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145628
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145629
-#EXTINF:-1,TCM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145630
-#EXTINF:-1,TCM SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145631
-#EXTINF:-1,TECHNO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145837
-#EXTINF:-1,TECNO BREGA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145838
-#EXTINF:-1,Telecine Action FullHD (H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145925
-#EXTINF:-1,Telecine Action HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145640
-#EXTINF:-1,TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145641
-#EXTINF:-1,Telecine Cult FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145926
-#EXTINF:-1,Telecine Cult HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145642
-#EXTINF:-1,TELECINE CULT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145643
-#EXTINF:-1,Telecine Fun FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145927
-#EXTINF:-1,TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145644
-#EXTINF:-1,Telecine Fun SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145645
-#EXTINF:-1,Telecine Pipoca FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145928
-#EXTINF:-1,Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145646
-#EXTINF:-1,Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145647
-#EXTINF:-1,Telecine Premium FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145929
-#EXTINF:-1,Telecine Premium HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145648
-#EXTINF:-1,Telecine Premium SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145649
-#EXTINF:-1,Telecine Touch FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145930
-#EXTINF:-1,TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145650
-#EXTINF:-1,Telecine Touch SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145651
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145593
-#EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145594
-#EXTINF:-1,TNT FullHD (H265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145931
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145632
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145633
-#EXTINF:-1,TNT Series HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145634
-#EXTINF:-1,TNT SERIES SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145635
-#EXTINF:-1,TNT Sies FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145932
-#EXTINF:-1,Tooncast HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145396
-#EXTINF:-1,Tooncast SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145397
-#EXTINF:-1,Top Latino TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145554
-#EXTINF:-1,TopTV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145555
-#EXTINF:-1,Travel Box Brazil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145556
-#EXTINF:-1,Trilhas Sonoras
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145839
-#EXTINF:-1,TRUTV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145557
-#EXTINF:-1,TV Alternativa (TV Gazeta Maranhao)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145268
-#EXTINF:-1,TV Aparecida SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145754
-#EXTINF:-1,TV Aracati (ceara)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145270
-#EXTINF:-1,Tv Assembleia Ceara SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145271
-#EXTINF:-1,TV Birigui
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145272
-#EXTINF:-1,TV Brasil (Distrito Federal)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145273
-#EXTINF:-1,TV Brusque (SC)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145274
-#EXTINF:-1,TV Camara (Distrito Federal)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145231
-#EXTINF:-1,Tv Capital 777 SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145275
-#EXTINF:-1,TV Carioca
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145276
-#EXTINF:-1,TV Caruaru (Pernambuco)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145277
-#EXTINF:-1,TV Cidade Farropilha (Rio Grande do Sul)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145278
-#EXTINF:-1,TV COM BRASIL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145279
-#EXTINF:-1,TV Cultura (Para)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145232
-#EXTINF:-1,TV CULTURA BA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145233
-#EXTINF:-1,TV Destak
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145280
-#EXTINF:-1,Tv Destak SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145281
-#EXTINF:-1,TV Diio do Sert
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145282
-#EXTINF:-1,TV DIIO DO SERT PARAA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145247
-#EXTINF:-1,TV El Shaday (Bahia)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145283
-#EXTINF:-1,TV EParana (Cultura PR)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145234
-#EXTINF:-1,TV EVANGELIZAR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145755
-#EXTINF:-1,TV EVANGELIZAR SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145756
-#EXTINF:-1,TV Faap
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145284
-#EXTINF:-1,TV Galega (Santa Catarina)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145285
-#EXTINF:-1,TV Gazeta HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145235
-#EXTINF:-1,TV Gazeta SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145236
-#EXTINF:-1,TV Jornal do Nordeste Paraiba)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145287
-#EXTINF:-1,TV Justi
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145238
-#EXTINF:-1,TV JUSTICA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145237
-#EXTINF:-1,TV Liberdade
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145288
-#EXTINF:-1,TV Liberdade swap
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145289
-#EXTINF:-1,TV Maceio
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145290
-#EXTINF:-1,TV Manchete
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145291
-#EXTINF:-1,TV Manchete (Paraiba)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145292
-#EXTINF:-1,TV Mar (Alagoas)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145293
-#EXTINF:-1,TV MAX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145294
-#EXTINF:-1,TV Metrole
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145295
-#EXTINF:-1,TV Mon
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145296
-#EXTINF:-1,TV Natal (Rio Grande do Norte)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145297
-#EXTINF:-1,TV Novo Milenio (Bahia)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145298
-#EXTINF:-1,TV Novo Tempo SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145757
-#EXTINF:-1,TV Osasco (Sao Paulo)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145299
-#EXTINF:-1,TV Ponta da Serra
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145558
-#EXTINF:-1,TV Ponta da Serra (Rio Grande do Sul)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145300
-#EXTINF:-1,TV Pos (Minas Gerais)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145301
-#EXTINF:-1,TV Rio Novo (RubiataGoias)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145302
-#EXTINF:-1,TV Santa Cecia (SP)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145303
-#EXTINF:-1,TV Serra Verde
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145304
-#EXTINF:-1,TV Serra Verde (Ceara)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145305
-#EXTINF:-1,TV Siries
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145690
-#EXTINF:-1,TV Sim (record News ES)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145306
-#EXTINF:-1,TV Sol (Paraiba)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145307
-#EXTINF:-1,TV Terceiro Anjo
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145758
-#EXTINF:-1,TV Uni Brasilia (distrito Federal)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145308
-#EXTINF:-1,TV Universal HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145741
-#EXTINF:-1,TV Universal SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145759
-#EXTINF:-1,TV Urbana (Rio Grande do Sul)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145309
-#EXTINF:-1,TV Verdes Campos SAT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145310
-#EXTINF:-1,TV Verdes Campos SAT (Piaui)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145311
-#EXTINF:-1,TV Viana (Parana)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145312
-#EXTINF:-1,TV Vila Velha
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145313
-#EXTINF:-1,TV Vila Velha (Parana)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145314
-#EXTINF:-1,TV Visa (minas Gerais)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145316
-#EXTINF:-1,TV Vitoria (Pernambuco)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145315
-#EXTINF:-1,TV Zoom
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145317
-#EXTINF:-1,TVC 16 (Rio de Janeiro)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145318
-#EXTINF:-1,TVCine Edition
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145692
-#EXTINF:-1,TVCine Emotion
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145693
-#EXTINF:-1,TVCine Top
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145694
-#EXTINF:-1,TVE (Bahia)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145319
-#EXTINF:-1,TVE BA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145320
-#EXTINF:-1,TVE RS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145321
-#EXTINF:-1,Universal Channel FullHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145933
-#EXTINF:-1,Universal Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145636
-#EXTINF:-1,Universal Channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145637
-#EXTINF:-1,VH1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145559
-#EXTINF:-1,VH1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145560
-#EXTINF:-1,Via Morena
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145322
-#EXTINF:-1,Viva FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145934
-#EXTINF:-1,Viva HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145561
-#EXTINF:-1,Viva SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145562
-#EXTINF:-1,Warner Channel FullHD(H.265)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145935
-#EXTINF:-1,Warner Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145638
-#EXTINF:-1,Warner Channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145639
-#EXTINF:-1,Woohoo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145563
-#EXTINF:-1,Woohoo SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145517
-#EXTINF:-1,YEEAAH TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145323
-#EXTINF:-1,Young Money
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145840
-#EXTINF:-1,Zoomoo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145398
-#EXTINF:-1,Zoomoo SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://boxiptv.club:8080/amaral/123456/145399
+#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -TODOS CANAIS[/B][/COLOR]
+http://canais.servidor
+ 
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E 4k	" tvg-logo="http://cloud.icontv.in/img/aande.png" group-title="Filmes / Séries",A&E 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/1
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD	" tvg-logo="http://cloud.icontv.in/img/aande.png" group-title="Filmes / Séries",A&E FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/2
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD	" tvg-logo="http://cloud.icontv.in/img/aande.png" group-title="Filmes / Séries",A&E HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/3
+#EXTINF:-1 tvg-id="" tvg-name="ABU DABI SPORT 1 HD	" tvg-logo="http://cloud.icontv.in/img/abudabisport.png" group-title="Esportes",ABU DABI SPORT 1 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/4
+#EXTINF:-1 tvg-id="" tvg-name="ABU DABI SPORT 2 HD	" tvg-logo="http://cloud.icontv.in/img/abudabisport.png" group-title="Esportes",ABU DABI SPORT 2 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/5
+#EXTINF:-1 tvg-id="" tvg-name="ABU DABI SPORT 3 HD	" tvg-logo="http://cloud.icontv.in/img/abudabisport.png" group-title="Esportes",ABU DABI SPORT 3 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/6
+#EXTINF:-1 tvg-id="" tvg-name="ABU DABI SPORT 4 HD	" tvg-logo="http://cloud.icontv.in/img/abudabisport.png" group-title="Esportes",ABU DABI SPORT 4 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/7
+#EXTINF:-1 tvg-id="" tvg-name="ABU DABI SPORT 5 HD	" tvg-logo="http://cloud.icontv.in/img/abudabisport.png" group-title="Esportes",ABU DABI SPORT 5 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/8
+#EXTINF:-1 tvg-id="Agro Mais" tvg-name="AGRO CANAL	" tvg-logo="http://cloud.icontv.in/img/agrocanal.jpg" group-title="Canais Abertos",AGRO CANAL	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/9
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA	" tvg-logo="http://cloud.icontv.in/img/aFazendA.png" group-title="Reality",A FAZENDA	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/10
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD	" tvg-logo="http://cloud.icontv.in/img/allsports.jpg" group-title="Esportes",ALL SPORTS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/11
+#EXTINF:-1 tvg-id="AMC | FHD" tvg-name="AMC 4k	" tvg-logo="http://cloud.icontv.in/img/amc.png" group-title="Filmes / Séries",AMC 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/12
+#EXTINF:-1 tvg-id="AMC | FHD" tvg-name="AMC FHD	" tvg-logo="http://cloud.icontv.in/img/amc.png" group-title="Filmes / Séries",AMC FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/13
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD	" tvg-logo="http://cloud.icontv.in/img/amc.png" group-title="Filmes / Séries",AMC HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/14
+#EXTINF:-1 tvg-id="Animal Planet | FHD" tvg-name="ANIMAL PLANET 4K	" tvg-logo="http://cloud.icontv.in/img/animalplanet.png" group-title="Documentários",ANIMAL PLANET 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/15
+#EXTINF:-1 tvg-id="Animal Planet | FHD" tvg-name="ANIMAL PLANET FHD	" tvg-logo="http://cloud.icontv.in/img/animalplanet.png" group-title="Documentários",ANIMAL PLANET FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/16
+#EXTINF:-1 tvg-id="Animal Planet | HD" tvg-name="ANIMAL PLANET HD	" tvg-logo="http://cloud.icontv.in/img/animalplanet.png" group-title="Documentários",ANIMAL PLANET HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/17
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="APARECIDA TV HD" tvg-logo="http://cloud.icontv.in/img/aparecida.png" group-title="Canais Abertos",APARECIDA TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/18
+#EXTINF:-1 tvg-id="Arte1" tvg-name="ART1 4K	" tvg-logo="http://cloud.icontv.in/img/arte1.png" group-title="Filmes / Séries",ART1 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/19
+#EXTINF:-1 tvg-id="Arte1" tvg-name="ART1 HD	" tvg-logo="http://cloud.icontv.in/img/arte1.png" group-title="Filmes / Séries",ART1 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/20
+#EXTINF:-1 tvg-id="AXN | FHD" tvg-name="AXN 4K	" tvg-logo="http://cloud.icontv.in/img/axn.png" group-title="Filmes / Séries",AXN 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/21
+#EXTINF:-1 tvg-id="AXN | FHD" tvg-name="AXN FHD	" tvg-logo="http://cloud.icontv.in/img/axn.png" group-title="Filmes / Séries",AXN FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/22
+#EXTINF:-1 tvg-id="AXN | HD" tvg-name="AXN HD	" tvg-logo="http://c.loud.icontv.in/img/axn.png" group-title="Filmes / Séries",AXN HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/23
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABYTV 4k	" tvg-logo="http://cloud.icontv.in/img/babytv.png" group-title="Kids",BABYTV 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/24
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABYTV HD	" tvg-logo="http://cloud.icontv.in/img/babytv.png" group-title="Kids",BABYTV HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/25
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP 4K	" tvg-logo="http://cloud.icontv.in/img/bandeirantes.png" group-title="Canais Abertos",BAND SP 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/26
+#EXTINF:-1 tvg-id="Band | FHD" tvg-name="Band SP HD	" tvg-logo="http://cloud.icontv.in/img/bandeirantes.png" group-title="Canais Abertos",Band SP HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/28
+#EXTINF:-1 tvg-id="Band Campinas | HD" tvg-name="BAND CAMPINAS 4K	" tvg-logo="http://cloud.icontv.in/img/bandeirantes.png" group-title="Canais Abertos",BAND CAMPINAS 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/29
+#EXTINF:-1 tvg-id="Band Campinas | HD" tvg-name="BAND CAMPINAS HD	" tvg-logo="http://cloud.icontv.in/img/bandeirantes.png" group-title="Canais Abertos",BAND CAMPINAS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/30
+#EXTINF:-1 tvg-id="Band News | FHD" tvg-name="BAND NEWS 4K	" tvg-logo="http://cloud.icontv.in/img/bandnews.png" group-title="Notícias",BAND NEWS 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/31
+#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS FHD	" tvg-logo="http://cloud.icontv.in/img/bandnews.png" group-title="Notícias",BAND NEWS FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/32
+#EXTINF:-1 tvg-id="Band News | HD" tvg-name="BAND NEWS HD	" tvg-logo="http://cloud.icontv.in/img/bandnews.png" group-title="Notícias",BAND NEWS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/33
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND SPORT 4K	" tvg-logo="http://cloud.icontv.in/img/canalbrasilhd.png" group-title="Esportes",BAND SPORT 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/34
+#EXTINF:-1 tvg-id="Band Sports | FHD" tvg-name="BAND SPORT FHD	" tvg-logo="http://cloud.icontv.in/img/bandsportshd.png" group-title="Esportes",BAND SPORT FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/35
+#EXTINF:-1 tvg-id="Band Sports | HD" tvg-name="BAND SPORT HD	" tvg-logo="http://cloud.icontv.in/img/bandsportshd.png" group-title="Esportes",BAND SPORT HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/36
+#EXTINF:-1 tvg-id="BIS | FHD" tvg-name="BIS 4k	" tvg-logo="http://cloud.icontv.in/img/bis.png" group-title="Variedades / Músicas",BIS 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/37
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD	" tvg-logo="http://cloud.icontv.in/img/bis.png" group-title="Variedades / Músicas",BIS FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/38
+#EXTINF:-1 tvg-id="BIS | HD" tvg-name="BIS HD	" tvg-logo="http://cloud.icontv.in/img/bis.png" group-title="Variedades / Músicas",BIS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/39
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE FHD	" tvg-logo="" group-title="Canais Abertos",BOA VONTADE FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/40
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="BOA VONTADE HD	" tvg-logo="http://cloud.icontv.in/img/boavontadetv.png" group-title="Canais Abertos",BOA VONTADE HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/41
+#EXTINF:-1 tvg-id="Boomerang | FHD" tvg-name="BOOMERANG 4k	" tvg-logo="http://cloud.icontv.in/img/boomerang.png" group-title="Kids",BOOMERANG 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/42
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG FHD	" tvg-logo="http://cloud.icontv.in/img/boomerang.png" group-title="Kids",BOOMERANG FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/43
+#EXTINF:-1 tvg-id="Boomerang | FHD" tvg-name="BOOMERANG HD	" tvg-logo="http://cloud.icontv.in/img/boomerang.png" group-title="Kids",BOOMERANG HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/44
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PROMESSAS FHD	" tvg-logo="" group-title="Religioso",CANAL PROMESSAS FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/45
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="CANAL RURAL	" tvg-logo="http://cloud.icontv.in/img/canalrural.png" group-title="Canais Abertos",CANAL RURAL	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/46
+#EXTINF:-1 tvg-id="Cancao Nova" tvg-name="CANCAO NOVA FHD	" tvg-logo="http://cloud.icontv.in/img/cancaonova.png" group-title="Religioso",CANCAO NOVA FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/47
+#EXTINF:-1 tvg-id="Cancao Nova" tvg-name="CANCAO NOVA HD	" tvg-logo="http://cloud.icontv.in/img/cancaonova.png" group-title="Religioso",CANCAO NOVA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/48
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI 4K	" tvg-logo="" group-title="Canais Abertos",CANAL DO BOI 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/49
+#EXTINF:-1 tvg-id="" tvg-name="CNT" tvg-logo="http://cloud.icontv.in/img/cnt.png" group-title="Canais Abertos",CNT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/50
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA 4K	" tvg-logo="http://cloud.icontv.in/img/curta.png" group-title="Variedades / Músicas",CURTA 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/51
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA HD	" tvg-logo="http://cloud.icontv.in/img/curta.png" group-title="Variedades / Músicas",CURTA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/52
+#EXTINF:-1 tvg-id="Canal Brasil | FHD" tvg-name="CANAL BRASIL FHD	" tvg-logo="http://cloud.icontv.in/img/canalbrasil.png" group-title="Canais Abertos",CANAL BRASIL FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/53
+#EXTINF:-1 tvg-id="Canal Brasil | FHD" tvg-name="CANAL BRASIL HD	" tvg-logo="http://cloud.icontv.in/img/canalbrasilhd.png" group-title="Canais Abertos",CANAL BRASIL HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/54
+#EXTINF:-1 tvg-id="Cartoon Network | FHD" tvg-name="CARTOON 4K	" tvg-logo="http://cloud.icontv.in/img/cartoonhd.png" group-title="Kids",CARTOON 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/55
+#EXTINF:-1 tvg-id="Cartoon Network | FHD" tvg-name="CARTOON FHD	" tvg-logo="http://cloud.icontv.in/img/cartoonhd.png" group-title="Kids",CARTOON FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/56
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON HD	" tvg-logo="http://cloud.icontv.in/img/cartoonhd.png" group-title="Kids",CARTOON HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/57
+#EXTINF:-1 tvg-id="Chef TV" tvg-name="CHEF TV HD	" tvg-logo="http://cloud.icontv.in/img/cheftv.png" group-title="Variedades / Músicas",CHEF TV HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/58
+#EXTINF:-1 tvg-id="Cinemax | FHD" tvg-name="CINEMAX 4K	" tvg-logo="http://cloud.icontv.in/img/cinemax.png" group-title="Filmes / Séries",CINEMAX 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/59
+#EXTINF:-1 tvg-id="Cinemax | FHD" tvg-name="CINEMAX FHD	" tvg-logo="http://cloud.icontv.in/img/cinemax.png" group-title="Filmes / Séries",CINEMAX FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/60
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1	" tvg-logo="http://cloud.icontv.in/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 1	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/61
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2	" tvg-logo="http://cloud.icontv.in/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 2	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/62
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3	" tvg-logo="http://cloud.icontv.in/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 3	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/63
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4	" tvg-logo="http://cloud.icontv.in/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 4	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/64
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5	" tvg-logo="http://cloud.icontv.in/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 5	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/65
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6	" tvg-logo="http://cloud.icontv.in/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 6	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/66
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7	" tvg-logo="http://cloud.icontv.in/img/cinesky.png" group-title="Filmes / Séries",CINE SKY 7	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/67
+#EXTINF:-1 tvg-id="Combate | FHD" tvg-name="COMBATE 4K	" tvg-logo="http://cloud.icontv.in/img/combatehd.png" group-title="Esportes",COMBATE 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/68
+#EXTINF:-1 tvg-id="Combate | FHD" tvg-name="COMBATE FHD	" tvg-logo="http://cloud.icontv.in/img/combatehd.png" group-title="Esportes",COMBATE FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/69
+#EXTINF:-1 tvg-id="Combate | FHD" tvg-name="COMBATE HD	" tvg-logo="http://cloud.icontv.in/img/combatehd.png" group-title="Esportes",COMBATE HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/70
+#EXTINF:-1 tvg-id="Comedy Central | FHD" tvg-name="COMEDY CENTRAL 4K	" tvg-logo="http://cloud.icontv.in/img/comedycentralhd.png" group-title="Comédia",COMEDY CENTRAL 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/71
+#EXTINF:-1 tvg-id="Comedy Central | FHD" tvg-name="COMEDY CENTRAL FHD	" tvg-logo="http://cloud.icontv.in/img/comedycentralhd.png" group-title="Comédia",COMEDY CENTRAL FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/72
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 01 FHD	" tvg-logo="" group-title="Esportes",CONMEBOL 01 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/73
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL FHD 1	" tvg-logo="" group-title="Esportes",CONMEBOL FHD 1	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/74
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 02 FHD	" tvg-logo="" group-title="Esportes",CONMEBOL 02 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/76
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL FHD 2	" tvg-logo="" group-title="Esportes",CONMEBOL FHD 2	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/77
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL FHD 2*" tvg-logo="" group-title="Esportes",CONMEBOL FHD 2*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/78
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 03 FHD	" tvg-logo="" group-title="Esportes",CONMEBOL 03 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/79
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL FHD 3	" tvg-logo="" group-title="Esportes",CONMEBOL FHD 3	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/80
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 04 FHD	" tvg-logo="" group-title="Esportes",CONMEBOL 04 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/81
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL FHD 4	" tvg-logo="" group-title="Esportes",CONMEBOL FHD 4	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/82
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL FHD 4*" tvg-logo="" group-title="Esportes",CONMEBOL FHD 4*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/83
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN BRASIL 4K	" tvg-logo="http://cloud.icontv.in/img/cnnBrasil.png" group-title="Notícias",CNN BRASIL 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/85
+#EXTINF:-1 tvg-id="CNN Brasil | FHD" tvg-name="CNN BRASIL FHD	" tvg-logo="http://cloud.icontv.in/img/cnnBrasil.png" group-title="Notícias",CNN BRASIL FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/86
+#EXTINF:-1 tvg-id="CNN Brasil | FHD" tvg-name="CNN BRASIL HD	" tvg-logo="http://cloud.icontv.in/img/cnnBrasil.png" group-title="Notícias",CNN BRASIL HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/87
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN INTERNACIONAL	" tvg-logo="http://cloud.icontv.in/img/cnninternacional.png" group-title="Notícias",CNN INTERNACIONAL	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/88
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="CULTURA 4K	" tvg-logo="http://cloud.icontv.in/img/tvcultura.png" group-title="Canais Abertos",CULTURA 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/89
+#EXTINF:-1 tvg-id="Cultura" tvg-name="CULTURA HD	" tvg-logo="http://cloud.icontv.in/img/tvcultura.png" group-title="Canais Abertos",CULTURA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/90
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01	" tvg-logo="http://cloud.icontv.in/img/dazn.png" group-title="Esportes",DAZN 01	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/91
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02	" tvg-logo="http://cloud.icontv.in/img/dazn.png" group-title="Esportes",DAZN 02	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/92
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03	" tvg-logo="http://cloud.icontv.in/img/dazn.png" group-title="Esportes",DAZN 03	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/93
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4K	" tvg-logo="http://cloud.icontv.in/img/dazn.png" group-title="Esportes",DAZN 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/94
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV 4k	" tvg-logo="http://cloud.icontv.in/img/hgtv.jpg" group-title="Documentários",HGTV 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/95
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD	" tvg-logo="http://cloud.icontv.in/img/hgtv.jpg" group-title="Documentários",HGTV HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/96
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV	" tvg-logo="http://cloud.icontv.in/img/dogtv.png" group-title="Variedades / Músicas",DOG TV	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/97
+#EXTINF:-1 tvg-id="Discovery Channel | FHD" tvg-name="DISCOVERY CHANNEL 4K	" tvg-logo="http://cloud.icontv.in/img/discoverychannelhd.png" group-title="Documentários",DISCOVERY CHANNEL 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/98
+#EXTINF:-1 tvg-id="Discovery Channel | FHD" tvg-name="DISCOVERY CHANNEL FHD	" tvg-logo="http://cloud.icontv.in/img/discoverychannelhd.png" group-title="Documentários",DISCOVERY CHANNEL FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/99
+#EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-name="DISCOVERY CHANNEL HD	" tvg-logo="http://cloud.icontv.in/img/discoverychannelhd.png" group-title="Documentários",DISCOVERY CHANNEL HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/100
+#EXTINF:-1 tvg-id="Discovery Civilization | HD" tvg-name="DISCOVERY CIVILIZATION 4K	" tvg-logo="http://cloud.icontv.in/img/discoverycivilization.png" group-title="Documentários",DISCOVERY CIVILIZATION 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/101
+#EXTINF:-1 tvg-id="Discovery Civilization | FHD" tvg-name="DISCOVERY CIVILIZATION FHD	" tvg-logo="http://cloud.icontv.in/img/discoverycivilization.png" group-title="Documentários",DISCOVERY CIVILIZATION FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/102
+#EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-name="DISCOVERY CIVILIZATION HD	" tvg-logo="http://cloud.icontv.in/img/discoverycivilization.png" group-title="Documentários",DISCOVERY CIVILIZATION HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/103
+#EXTINF:-1 tvg-id="Discovery Theater | HD" tvg-name="Disc Theater 4k	" tvg-logo="http://cloud.icontv.in/img/discoverytheaterhd.png" group-title="Documentários",Disc Theater 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/104
+#EXTINF:-1 tvg-id="Discovery Theater | FHD" tvg-name="Disc Theater FHD	" tvg-logo="http://cloud.icontv.in/img/discoverytheaterhd.png" group-title="Documentários",Disc Theater FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/105
+#EXTINF:-1 tvg-id="Discovery Theater | HD" tvg-name="Disc Theater HD	" tvg-logo="http://cloud.icontv.in/img/discoverytheaterhd.png" group-title="Documentários",Disc Theater HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/106
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY H&H 4K	" tvg-logo="http://cloud.icontv.in/img/discoveryhandhhd.png" group-title="Documentários",DISCOVERY H&H 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/107
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY H&H FHD	" tvg-logo="http://cloud.icontv.in/img/discoveryhandhhd.png" group-title="Documentários",DISCOVERY H&H FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/108
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY H&H HD	" tvg-logo="http://cloud.icontv.in/img/discoveryhandhhd.png" group-title="Documentários",DISCOVERY H&H HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/109
+#EXTINF:-1 tvg-id="Discovery Kids | HD" tvg-name="DISCOVERY KIDS 4K	" tvg-logo="http://cloud.icontv.in/img/discoverykids.png" group-title="Documentários",DISCOVERY KIDS 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/110
+#EXTINF:-1 tvg-id="Discovery Kids | HD" tvg-name="DISCOVERY KIDS FHD	" tvg-logo="http://cloud.icontv.in/img/discoverykids.png" group-title="Documentários",DISCOVERY KIDS FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/111
+#EXTINF:-1 tvg-id="Discovery Kids | HD" tvg-name="DISCOVERY KIDS HD	" tvg-logo="http://cloud.icontv.in/img/discoverykids.png" group-title="Documentários",DISCOVERY KIDS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/112
+#EXTINF:-1 tvg-id="Discovery Science | FHD" tvg-name="DISCOVERY SCIENCE 4K	" tvg-logo="http://cloud.icontv.in/img/discoveryscience.png" group-title="Documentários",DISCOVERY SCIENCE 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/113
+#EXTINF:-1 tvg-id="Discovery Science | FHD" tvg-name="DISCOVERY SCIENCE FHD	" tvg-logo="http://cloud.icontv.in/img/discoveryscience.png" group-title="Documentários",DISCOVERY SCIENCE FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/114
+#EXTINF:-1 tvg-id="Discovery Science | FHD" tvg-name="DISCOVERY SCIENCE HD	" tvg-logo="http://cloud.icontv.in/img/discoveryscience.png" group-title="Documentários",DISCOVERY SCIENCE HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/115
+#EXTINF:-1 tvg-id="Discovery Turbo | HD" tvg-name="Disc Turbo 4k	" tvg-logo="http://cloud.icontv.in/img/discoveryturbohd.png" group-title="Documentários",Disc Turbo 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/116
+#EXTINF:-1 tvg-id="Discovery Turbo | FHD" tvg-name="Disc Turbo FHD	" tvg-logo="http://cloud.icontv.in/img/discoveryturbohd.png" group-title="Documentários",Disc Turbo FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/117
+#EXTINF:-1 tvg-id="Discovery Turbo | FHD" tvg-name="Disc Turbo HD	" tvg-logo="http://cloud.icontv.in/img/discoveryturbohd.png" group-title="Documentários",Disc Turbo HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/118
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Disc World 4k	" tvg-logo="http://cloud.icontv.in/img/discoveryworldhd.png" group-title="Documentários",Disc World 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/119
+#EXTINF:-1 tvg-id="" tvg-name="Disc World FHD	" tvg-logo="http://cloud.icontv.in/img/discoveryworldhd.png" group-title="Documentários",Disc World FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/120
+#EXTINF:-1 tvg-id="" tvg-name="Disc World HD	" tvg-logo="http://cloud.icontv.in/img/discoveryworldhd.png" group-title="Documentários",Disc World HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/121
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel 4k	" tvg-logo="http://cloud.icontv.in/img/disneychannel.png" group-title="Kids",Disney Channel 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/122
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel HD	" tvg-logo="disney" group-title="Kids",Disney Channel HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/123
+#EXTINF:-1 tvg-id="Disney Junior | FHD" tvg-name="Disney JR 4k	" tvg-logo="http://cloud.icontv.in/img/disneyjunior.png" group-title="Kids",Disney JR 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/124
+#EXTINF:-1 tvg-id="Disney Junior | HD" tvg-name="Disney JR HD	" tvg-logo="http://cloud.icontv.in/img/disneyjunior.png" group-title="Kids",Disney JR HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/125
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD 4k	" tvg-logo="http://cloud.icontv.in/img/disneyxd.png" group-title="Kids",Disney XD 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/126
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD HD	" tvg-logo="http://cloud.icontv.in/img/disneyxd.png" group-title="Kids",Disney XD HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/127
+#EXTINF:-1 tvg-id="" tvg-name="Play Kids 4k	" tvg-logo="http://cloud.icontv.in/img/playkids-logo.png" group-title="Kids",Play Kids 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/128
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS HD	" tvg-logo="http://cloud.icontv.in/img/ei.png" group-title="Esportes",EIPLUS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/129
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS" tvg-logo="http://cloud.icontv.in/img/ei.png" group-title="Esportes",EIPLUS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/130
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2 HD	" tvg-logo="http://cloud.icontv.in/img/ei.png" group-title="Esportes",EIPLUS 2 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/132
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 2 HD*" tvg-logo="http://cloud.icontv.in/img/ei.png" group-title="Esportes",EIPLUS 2 HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/133
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 3 HD	" tvg-logo="http://cloud.icontv.in/img/ei.png" group-title="Esportes",EIPLUS 3 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/134
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 3 HD*" tvg-logo="http://cloud.icontv.in/img/eiplus.png" group-title="Esportes",EIPLUS 3 HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/135
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 4 HD	" tvg-logo="http://cloud.icontv.in/img/eiplus.png" group-title="Esportes",EIPLUS 4 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/136
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 5 HD	" tvg-logo="http://cloud.icontv.in/img/eiplus.png" group-title="Esportes",EIPLUS 5 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/137
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 6 HD	" tvg-logo="http://cloud.icontv.in/img/eiplus.png" group-title="Esportes",EIPLUS 6 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/138
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 7 HD	" tvg-logo="http://cloud.icontv.in/img/eiplus.png" group-title="Esportes",EIPLUS 7 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/139
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 8 HD	" tvg-logo="http://cloud.icontv.in/img/eiplus.png" group-title="Esportes",EIPLUS 8 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/140
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 9 HD	" tvg-logo="http://cloud.icontv.in/img/eiplus.png" group-title="Esportes",EIPLUS 9 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/141
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 10 HD	" tvg-logo="http://cloud.icontv.in/img/eiplus.png" group-title="Esportes",EIPLUS 10 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/142
+#EXTINF:-1 tvg-id="E!" tvg-name="E! 4k	" tvg-logo="http://cloud.icontv.in/img/ei.png" group-title="Variedades / Músicas",E! 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/143
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD	" tvg-logo="http://cloud.icontv.in/img/ei.png" group-title="Variedades / Músicas",E! HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/144
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo 4K	" tvg-logo="http://cloud.icontv.in/img/esporteinterativo.png" group-title="Esportes",Esporte Interativo 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/145
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo HD	" tvg-logo="http://cloud.icontv.in/img/esporteinterativo.png" group-title="Esportes",Esporte Interativo HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/146
+#EXTINF:-1 tvg-id="ESPN Extra | FHD" tvg-name="Espn Extra 4k	" tvg-logo="http://cloud.icontv.in/img/espn-extra.png" group-title="Esportes",Espn Extra 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/147
+#EXTINF:-1 tvg-id="ESPN Extra | HD" tvg-name="Espn extra HD	" tvg-logo="http://cloud.icontv.in/img/espn-extra.png" group-title="Esportes",Espn extra HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/148
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 4K	" tvg-logo="http://cloud.icontv.in/img/espn.png" group-title="Esportes",ESPN 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/149
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K*" tvg-logo="http://cloud.icontv.in/img/espn.png" group-title="Esportes",ESPN 4K*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/150
+#EXTINF:-1 tvg-id="ESPN | FHD" tvg-name="Espn HD	" tvg-logo="http://cloud.icontv.in/img/espn.png" group-title="Esportes",Espn HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/151
+#EXTINF:-1 tvg-id="ESPN | FHD" tvg-name="Espn HD*" tvg-logo="http://cloud.icontv.in/img/espn.png" group-title="Esportes",Espn HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/152
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 4K	" tvg-logo="http://cloud.icontv.in/img/espn2.png" group-title="Esportes",ESPN 2 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/153
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD	" tvg-logo="http://cloud.icontv.in/img/espn2.png" group-title="Esportes",ESPN 2 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/154
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD	" tvg-logo="http://cloud.icontv.in/img/espn2.png" group-title="Esportes",ESPN 2 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/155
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil 4k	" tvg-logo="http://cloud.icontv.in/img/espnbrasil.png" group-title="Esportes",Espn Brasil 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/156
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL FHD	" tvg-logo="http://cloud.icontv.in/img/espnbrasil.png" group-title="Esportes",ESPN BRASIL FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/157
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil HD	" tvg-logo="http://cloud.icontv.in/img/espnbrasil.png" group-title="Esportes",Espn Brasil HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/158
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="EUROCHANNEL HD	" tvg-logo="http://cloud.icontv.in/img/eurochannel.png" group-title="Esportes",EUROCHANNEL HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/159
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV HD	" tvg-logo="http://cloud.icontv.in/img/fashiontv.png" group-title="Variedades / Músicas",FASHION TV HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/160
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="Fish 4k	" tvg-logo="http://cloud.icontv.in/img/fishtv.png" group-title="Esportes",Fish 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/161
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="Fishtv FHD	" tvg-logo="http://cloud.icontv.in/img/fishtv.png" group-title="Esportes",Fishtv FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/162
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network 4k	" tvg-logo="http://cloud.icontv.in/img/foodnetworkhd.png" group-title="Variedades / Músicas",Food Network 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/163
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network FHD	" tvg-logo="http://cloud.icontv.in/img/foodnetworkhd.png" group-title="Variedades / Músicas",Food Network FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/164
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD" tvg-logo="http://cloud.icontv.in/img/foodnetworkhd.png" group-title="Variedades / Músicas",Food Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/165
+#EXTINF:-1 tvg-id="Fox | FHD" tvg-name="Fox 4k	" tvg-logo="http://cloud.icontv.in/img/fox.png" group-title="Filmes / Séries",Fox 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/166
+#EXTINF:-1 tvg-id="Fox | FHD" tvg-name="FOX FHD	" tvg-logo="http://cloud.icontv.in/img/fox.png" group-title="Filmes / Séries",FOX FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/167
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox HD	" tvg-logo="http://cloud.icontv.in/img/foxhd.png" group-title="Filmes / Séries",Fox HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/168
+#EXTINF:-1 tvg-id="Film&Arts" tvg-name="FILM & ARTS 4k	" tvg-logo="http://cloud.icontv.in/img/filmandarts.png" group-title="Filmes / Séries",FILM & ARTS 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/169
+#EXTINF:-1 tvg-id="Film&Arts" tvg-name="FILM & ARTS FHD	" tvg-logo="http://cloud.icontv.in/img/filmandarts.png" group-title="Filmes / Séries",FILM & ARTS FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/170
+#EXTINF:-1 tvg-id="Film&Arts" tvg-name="FILM & ARTS HD	" tvg-logo="http://cloud.icontv.in/img/filmandarts.png" group-title="Filmes / Séries",FILM & ARTS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/171
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life 4k	" tvg-logo="http://cloud.icontv.in/img/foxlifehd.png" group-title="Filmes / Séries",Fox Life 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/172
+#EXTINF:-1 tvg-id="FOX Life | HD" tvg-name="FOX LIFE FHD	" tvg-logo="http://cloud.icontv.in/img/foxlife.png" group-title="Filmes / Séries",FOX LIFE FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/173
+#EXTINF:-1 tvg-id="FOX Life | HD" tvg-name="Fox Life HD	" tvg-logo="http://cloud.icontv.in/img/foxlife.png" group-title="Filmes / Séries",Fox Life HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/174
+#EXTINF:-1 tvg-id="Fox Sports | HD" tvg-name="FOX SPORTS 4K	" tvg-logo="http://cloud.icontv.in/img/foxsports.png" group-title="Esportes",FOX SPORTS 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/175
+#EXTINF:-1 tvg-id="Fox Sports | HD" tvg-name="FOX SPORTS 4K*" tvg-logo="http://cloud.icontv.in/img/foxsports.png" group-title="Esportes",FOX SPORTS 4K*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/176
+#EXTINF:-1 tvg-id="FoxSports | FHD" tvg-name="FOX SPORT FHD	" tvg-logo="http://cloud.icontv.in/img/foxsports.png" group-title="Esportes",FOX SPORT FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/177
+#EXTINF:-1 tvg-id="FoxSports | FHD" tvg-name="Fox Sport HD	" tvg-logo="http://cloud.icontv.in/img/foxsports.png" group-title="Esportes",Fox Sport HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/178
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 4K	" tvg-logo="http://cloud.icontv.in/img/foxsports2.png" group-title="Esportes",FOX SPORTS 2 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/179
+#EXTINF:-1 tvg-id="FoxSports 2 | HD" tvg-name="FOX SPORTS 2 4K*" tvg-logo="http://cloud.icontv.in/img/foxsports2.png" group-title="Esportes",FOX SPORTS 2 4K*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/180
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sport 2 FHD	" tvg-logo="http://cloud.icontv.in/img/foxsports2.png" group-title="Esportes",Fox Sport 2 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/181
+#EXTINF:-1 tvg-id="FoxSports 2 | HD" tvg-name="Fox Sport 2 HD	" tvg-logo="http://cloud.icontv.in/img/foxsports2.png" group-title="Esportes",Fox Sport 2 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/182
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 4k	" tvg-logo="http://cloud.icontv.in/img/foxp1.png" group-title="Filmes / Séries",Fox Premium 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/183
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM FHD	" tvg-logo="http://cloud.icontv.in/img/foxp1.png" group-title="Filmes / Séries",FOX PREMIUM FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/184
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium HD	" tvg-logo="http://cloud.icontv.in/img/foxp1.png" group-title="Filmes / Séries",Fox Premium HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/185
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 4k	" tvg-logo="http://cloud.icontv.in/img/foxp2.png" group-title="Filmes / Séries",Fox Premium 2 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/186
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 HD	" tvg-logo="http://cloud.icontv.in/img/foxp2.png" group-title="Filmes / Séries",Fox Premium 2 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/187
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura 4k	" tvg-logo="http://cloud.icontv.in/img/futura.png" group-title="Canais Abertos",Futura 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/188
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD	" tvg-logo="http://cloud.icontv.in/img/futura.png" group-title="Canais Abertos",Futura HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/189
+#EXTINF:-1 tvg-id="FX" tvg-name="FX 4k	" tvg-logo="http://cloud.icontv.in/img/fx.png" group-title="Filmes / Séries",FX 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/190
+#EXTINF:-1 tvg-id="FX | FHD" tvg-name="FX FHD	" tvg-logo="http://cloud.icontv.in/img/fx.png" group-title="Filmes / Séries",FX FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/191
+#EXTINF:-1 tvg-id="FX | FHD" tvg-name="FX HD	" tvg-logo="http://cloud.icontv.in/img/fx.png" group-title="Filmes / Séries",FX HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/192
+#EXTINF:-1 tvg-id="Globo SJRP" tvg-name="GLOBO SJRP	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO SJRP	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/193
+#EXTINF:-1 tvg-id="Globo Goiania" tvg-name="GLOBO TV ANHANGUERA GOIANIA	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV ANHANGUERA GOIANIA	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/194
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV VERDES MARES FORTALEZA	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/195
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS 4k	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO EPTV CAMPINAS 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/196
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo EPTV CAMPINAS HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",Globo EPTV CAMPINAS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/197
+#EXTINF:-1 tvg-id="Globo Ribeirao Preto" tvg-name="GLOBO Ribeirão Preto	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO Ribeirão Preto	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/198
+#EXTINF:-1 tvg-id="Globo São Carlos" tvg-name="GLOBO SAO CARLOS	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO SAO CARLOS	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/199
+#EXTINF:-1 tvg-id="Globo Bauru" tvg-name="GLOBO TV TEM BAURU	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV TEM BAURU	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/200
+#EXTINF:-1 tvg-id="Globo RJ | HD" tvg-name="GLOBO RIO FHD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO RIO FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/201
+#EXTINF:-1 tvg-id="Globo RJ | HD" tvg-name="GLOBO RIO 4K" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO RIO 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/202
+#EXTINF:-1 tvg-id="Globo SP | HD" tvg-name="Globo SP 4k	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",Globo SP 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/203
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP FHD" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",Globo SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/204
+#EXTINF:-1 tvg-id="Globo SP | HD" tvg-name="Globo SP HD" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",Globo SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/205
+#EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="GLOBO NSC BLUMENAU	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO NSC BLUMENAU	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/206
+#EXTINF:-1 tvg-id="Globo Curitiba | HD" tvg-name="GLOBO CURITIBA HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO CURITIBA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/207
+#EXTINF:-1 tvg-id="RBS | HD" tvg-name="RBS TV 4K	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",RBS TV 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/208
+#EXTINF:-1 tvg-id="RBS | HD" tvg-name="RBS TV HD" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",RBS TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/209
+#EXTINF:-1 tvg-id="Globo Sorocaba" tvg-name="GLOBO TV TEM SOROCABA	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV TEM SOROCABA	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/210
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV TRIBUNA SANTOS	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/211
+#EXTINF:-1 tvg-id="Globo Santa Cruz | HD" tvg-name="GLOBO SANTA CRUZ	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO SANTA CRUZ	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/212
+#EXTINF:-1 tvg-id="Globo Vanguarda dos Campos" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV VANGUARDA S. J. DOS CAMPOS	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/213
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO NSC FLORIANOPOLIS 4K" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO NSC FLORIANOPOLIS 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/214
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO NSC FLORIANOPOLIS FHD" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO NSC FLORIANOPOLIS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/215
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/216
+#EXTINF:-1 tvg-id="Globo Sergipe | HD" tvg-name="GLOBO SERGIPE	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO SERGIPE	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/217
+#EXTINF:-1 tvg-id="Globo BA" tvg-name="GLOBO BAHIA HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO BAHIA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/218
+#EXTINF:-1 tvg-id="Globo Sergipe | HD" tvg-name="GLOBO TV VERDES MARES HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV VERDES MARES HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/219
+#EXTINF:-1 tvg-id="Globo Santos" tvg-name="GLOBO TV TRIBUNA SANTOS HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV TRIBUNA SANTOS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/220
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasilia 4K" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",Globo Brasilia 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/221
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasilia FHD" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",Globo Brasilia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/222
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasilia HD" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",Globo Brasilia HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/223
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS 4K" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO MINAS 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/224
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS FHD" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO MINAS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/225
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO Nordeste 4K	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO Nordeste 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/226
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO Nordeste FHD" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO Nordeste FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/227
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO 4K	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/228
+#EXTINF:-1 tvg-id="Globo Manaus" tvg-name="GLOBO ALAGOAS	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO ALAGOAS	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/229
+#EXTINF:-1 tvg-id="Globo Belém" tvg-name="GLOBO BELEM HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO BELEM HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/230
+#EXTINF:-1 tvg-id="Globo Cuiaba" tvg-name="GLOBO MATO GROSSO HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO MATO GROSSO HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/231
+#EXTINF:-1 tvg-id="Globo Manaus" tvg-name="GLOBO MANAUS HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO MANAUS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/232
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO JOINVILLE HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO JOINVILLE HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/233
+#EXTINF:-1 tvg-id="Globo Goiania" tvg-name="GLOBO GOIANIA HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO GOIANIA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/234
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO VITORIA HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO VITORIA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/235
+#EXTINF:-1 tvg-id="Globo RJ | HD" tvg-name="GLOBO TV MORENA FHD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV MORENA FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/236
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO TV MIRANTE	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV MIRANTE	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/237
+#EXTINF:-1 tvg-id="Globo RJ | HD" tvg-name="GLOBO TV DIARIO HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV DIARIO HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/238
+#EXTINF:-1 tvg-id="Globo São Jose do Rio Preto" tvg-name="GLOBO EPTV SAO JOSE HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO EPTV SAO JOSE HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/239
+#EXTINF:-1 tvg-id="InterTVserraMar.br" tvg-name="GLOBO SERRA MAR	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO SERRA MAR	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/240
+#EXTINF:-1 tvg-id="TVSaoLuisHD" tvg-name="GLOBO SAO LUIS MA HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO SAO LUIS MA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/241
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO SALVADOR HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO SALVADOR HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/242
+#EXTINF:-1 tvg-id="TVAmazonia" tvg-name="GLOBO REDE AMAZONICA HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO REDE AMAZONICA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/243
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RECIFE HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO RECIFE HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/244
+#EXTINF:-1 tvg-id="Band RJ | HD" tvg-name="GLOBO PORTO VELHO HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO PORTO VELHO HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/245
+#EXTINF:-1 tvg-id="Globo Porto Alegre" tvg-name="GLOBO PORTO ALEGRE HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO PORTO ALEGRE HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/246
+#EXTINF:-1 tvg-id="Globo Porto Alegre" tvg-name="GLOBO PORTO ALEGRE HD*" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO PORTO ALEGRE HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/247
+#EXTINF:-1 tvg-id="Band RJ | HD" tvg-name="GLOBO GAZETA SUL ALEGRE ES HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO GAZETA SUL ALEGRE ES HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/248
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO FLORIANOPOLIS FHD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO FLORIANOPOLIS FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/249
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO FLORIANOPOLIS 4K	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO FLORIANOPOLIS 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/250
+#EXTINF:-1 tvg-id="Globo Minas | FHD" tvg-name="GLOBO EPTV SUL DE MINAS FHD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO EPTV SUL DE MINAS FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/251
+#EXTINF:-1 tvg-id="RedeClube" tvg-name="GLOBO CLUBE PI HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO CLUBE PI HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/252
+#EXTINF:-1 tvg-id="Globo Cuiaba" tvg-name="GLOBO CENTRO AMERICA CUIABA	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO CENTRO AMERICA CUIABA	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/253
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="GLOBO BRASILIA HD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO BRASILIA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/254
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO CABUGI	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO CABUGI	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/255
+#EXTINF:-1 tvg-id="Globo Tv Rio Sul RJ | HD" tvg-name="GLOBO TV RIO SUL	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TV RIO SUL	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/256
+#EXTINF:-1 tvg-id="Band RJ | HD" tvg-name="GLOBO TAUBATE	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO TAUBATE	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/257
+#EXTINF:-1 tvg-id="EPTVCentralHD.br" tvg-name="GLOBO EPTV CENTRAL	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO EPTV CENTRAL	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/258
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="GLOBO BRASILIA FHD	" tvg-logo="http://cloud.icontv.in/img/globo.png" group-title="Globos",GLOBO BRASILIA FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/259
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS 4K" tvg-logo="" group-title="Notícias",GLOBO NEWS 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/260
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD	" tvg-logo="http://cloud.icontv.in/img/globonewshd.png" group-title="Notícias",GLOBO NEWS FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/261
+#EXTINF:-1 tvg-id="Globo News | FHD" tvg-name="Globo News HD	" tvg-logo="http://cloud.icontv.in/img/globonewshd.png" group-title="Notícias",Globo News HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/262
+#EXTINF:-1 tvg-id="" tvg-name="Gloob 4k" tvg-logo="http://cloud.icontv.in/img/gloobhd.png" group-title="Kids",Gloob 4k
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/263
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://cloud.icontv.in/img/gloobhd.png" group-title="Kids",Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/264
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FHD	" tvg-logo="http://cloud.icontv.in/img/gloobinho.png" group-title="Kids",GLOOBINHO FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/265
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT 4k	" tvg-logo="http://cloud.icontv.in/img/gnthd.png" group-title="Variedades / Músicas",GNT 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/266
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD	" tvg-logo="http://cloud.icontv.in/img/gnthd.png" group-title="Variedades / Músicas",GNT HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/267
+#EXTINF:-1 tvg-id="TV Gazeta | HD" tvg-name="GAZETA 4K	" tvg-logo="http://cloud.icontv.in/img/tvgazeta.png" group-title="Canais Abertos",GAZETA 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/268
+#EXTINF:-1 tvg-id="H2 | FHD" tvg-name="H2 4k	" tvg-logo="http://cloud.icontv.in/img/h2hd.png" group-title="Documentários",H2 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/269
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 FHD	" tvg-logo="http://cloud.icontv.in/img/h2hd.png" group-title="Documentários",H2 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/270
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD	" tvg-logo="http://cloud.icontv.in/img/h2hd.png" group-title="Documentários",H2 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/271
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 4K	" tvg-logo="http://cloud.icontv.in/img/hbohd.png" group-title="Filmes / Séries",HBO 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/272
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 4K*" tvg-logo="http://cloud.icontv.in/img/hbohd.png" group-title="Filmes / Séries",HBO 4K*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/273
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HBO FHD	" tvg-logo="http://cloud.icontv.in/img/hbohd.png" group-title="Filmes / Séries",HBO FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/274
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD	" tvg-logo="http://cloud.icontv.in/img/hbohd.png" group-title="Filmes / Séries",HBO HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/275
+#EXTINF:-1 tvg-id="HBO 2 | HD" tvg-name="HBO 2 4k	" tvg-logo="http://cloud.icontv.in/img/hbo2hd.png" group-title="Filmes / Séries",HBO 2 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/276
+#EXTINF:-1 tvg-id="HBO2 | FHD" tvg-name="HBO 2 FHD	" tvg-logo="http://cloud.icontv.in/img/hbo2hd.png" group-title="Filmes / Séries",HBO 2 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/277
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD	" tvg-logo="hbo2" group-title="Filmes / Séries",HBO 2 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/278
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO+ FHD" tvg-logo="http://cloud.icontv.in/img/hbo+.png" group-title="Filmes / Séries",HBO+ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/279
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO + HD	" tvg-logo="http://cloud.icontv.in/img/hbo+.png" group-title="Filmes / Séries",HBO + HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/280
+#EXTINF:-1 tvg-id="HBO Family | FHD" tvg-name="HBO Family 4k	" tvg-logo="http://cloud.icontv.in/img/hbofamilyhd.png" group-title="Filmes / Séries",HBO Family 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/281
+#EXTINF:-1 tvg-id="HBO Family | HD" tvg-name="HBO FAMILY FHD	" tvg-logo="http://cloud.icontv.in/img/hbofamilyhd.png" group-title="Filmes / Séries",HBO FAMILY FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/282
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="Hbo Family HD	" tvg-logo="http://cloud.icontv.in/img/hbofamilyhd.png" group-title="Filmes / Séries",Hbo Family HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/283
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus 4k	" tvg-logo="http://cloud.icontv.in/img/hboplus.png" group-title="Filmes / Séries",HBO Plus 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/284
+#EXTINF:-1 tvg-id="HBO Plus | HD" tvg-name="HBO Plus HD	" tvg-logo="http://cloud.icontv.in/img/hboplus.png" group-title="Filmes / Séries",HBO Plus HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/285
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-name="HBO MUNDI 4k	" tvg-logo="http://cloud.icontv.in/img/hbo-mundi.png" group-title="Filmes / Séries",HBO MUNDI 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/286
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-name="HBO MUNDI FHD	" tvg-logo="http://cloud.icontv.in/img/hbo-mundi.png" group-title="Filmes / Séries",HBO MUNDI FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/287
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-name="HBO MUNDI HD	" tvg-logo="http://cloud.icontv.in/img/hbo-mundi.png" group-title="Filmes / Séries",HBO MUNDI HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/288
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP 4K	" tvg-logo="http://cloud.icontv.in/img/hbo-pop.png" group-title="Filmes / Séries",HBO POP 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/289
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP FHD	" tvg-logo="http://cloud.icontv.in/img/hbo-pop.png" group-title="Filmes / Séries",HBO POP FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/290
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP HD	" tvg-logo="http://cloud.icontv.in/img/hbo-pop.png" group-title="Filmes / Séries",HBO POP HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/291
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREME 4K	" tvg-logo="http://cloud.icontv.in/img/hbo-XTREME.png" group-title="Filmes / Séries",HBO XTREME 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/292
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREME FHD	" tvg-logo="http://cloud.icontv.in/img/hbo-XTREME.png" group-title="Filmes / Séries",HBO XTREME FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/293
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREME HD	" tvg-logo="http://cloud.icontv.in/img/hbo-XTREME.png" group-title="Filmes / Séries",HBO XTREME HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/294
+#EXTINF:-1 tvg-id="HBO Signature | FHD" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://cloud.icontv.in/img/hbosignaturehd.png" group-title="Filmes / Séries",HBO SIGNATURE 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/295
+#EXTINF:-1 tvg-id="HBO Signature | FHD" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://cloud.icontv.in/img/hbosignaturehd.png" group-title="Filmes / Séries",HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/296
+#EXTINF:-1 tvg-id="HBO Signature | HD" tvg-name="HBO SIGNATURE HD" tvg-logo="http://cloud.icontv.in/img/hbosignaturehd.png" group-title="Filmes / Séries",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/297
+#EXTINF:-1 tvg-id="History channel | HD" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://cloud.icontv.in/img/historychannelhd.png" group-title="Documentários",HISTORY CHANNEL 4K
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/298
+#EXTINF:-1 tvg-id="History channel | FHD" tvg-name="HISTORY CHANNEL FHD	" tvg-logo="http://cloud.icontv.in/img/historychannelhd.png" group-title="Documentários",HISTORY CHANNEL FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/299
+#EXTINF:-1 tvg-id="History channel | HD" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://cloud.icontv.in/img/historychannelhd.png" group-title="Documentários",HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/300
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery" tvg-name="ID 4k	" tvg-logo="http://cloud.icontv.in/img/idhd.png" group-title="Documentários",ID 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/301
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery | FHD" tvg-name="ID FHD	" tvg-logo="http://cloud.icontv.in/img/idhd.png" group-title="Documentários",ID FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/302
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery  | HD" tvg-name="ID HD	" tvg-logo="http://cloud.icontv.in/img/idhd.png" group-title="Documentários",ID HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/303
+#EXTINF:-1 tvg-id="Lifetime | FHD" tvg-name="Lifetime 4k	" tvg-logo="http://cloud.icontv.in/img/lifetimehd.png" group-title="Filmes / Séries",Lifetime 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/304
+#EXTINF:-1 tvg-id="Lifetime | HD" tvg-name="Lifetime HD	" tvg-logo="http://cloud.icontv.in/img/lifetimehd.png" group-title="Filmes / Séries",Lifetime HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/305
+#EXTINF:-1 tvg-id="" tvg-name="Loading 4K	" tvg-logo="http://cloud.icontv.in/img/loading.png" group-title="Documentários",Loading 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/306
+#EXTINF:-1 tvg-id="" tvg-name="Loading FHD	" tvg-logo="http://cloud.icontv.in/img/loading.png" group-title="Documentários",Loading FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/307
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="Globosat 4k	" tvg-logo="http://cloud.icontv.in/img/maisglobosat.png" group-title="Variedades / Músicas",Globosat 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/308
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="Globosat HD	" tvg-logo="http://cloud.icontv.in/img/maisglobosat.png" group-title="Variedades / Músicas",Globosat HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/309
+#EXTINF:-1 tvg-id="Mega TV" tvg-name="MEGA TV	" tvg-logo="http://cloud.icontv.in/img/mega.png" group-title="Canais Abertos",MEGA TV	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/310
+#EXTINF:-1 tvg-id="Max | FHD" tvg-name="Max 4k	" tvg-logo="http://cloud.icontv.in/img/maxhd.png" group-title="Filmes / Séries",Max 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/311
+#EXTINF:-1 tvg-id="Max | FHD" tvg-name="MAX HD	" tvg-logo="http://cloud.icontv.in/img/maxhd.png" group-title="Filmes / Séries",MAX HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/312
+#EXTINF:-1 tvg-id="MAX Prime | HD" tvg-name="Max Prime 4k	" tvg-logo="http://cloud.icontv.in/img/maxprimehd.png" group-title="Filmes / Séries",Max Prime 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/313
+#EXTINF:-1 tvg-id="MAX Prime | HD" tvg-name="Max Prime HD	" tvg-logo="http://cloud.icontv.in/img/maxprimehd.png" group-title="Filmes / Séries",Max Prime HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/314
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box 4k	" tvg-logo="http://cloud.icontv.in/img/primeboxbrasil.png" group-title="Filmes / Séries",Prime Box 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/315
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box HD	" tvg-logo="http://cloud.icontv.in/img/primeboxbrasil.png" group-title="Filmes / Séries",Prime Box HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/316
+#EXTINF:-1 tvg-id="MAX UP | HD" tvg-name="Max Up 4k	" tvg-logo="http://cloud.icontv.in/img/maxuphd.png" group-title="Filmes / Séries",Max Up 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/317
+#EXTINF:-1 tvg-id="MAX UP | HD" tvg-name="Max Up HD	" tvg-logo="http://cloud.icontv.in/img/maxuphd.png" group-title="Filmes / Séries",Max Up HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/318
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="Max up	" tvg-logo="http://cloud.icontv.in/img/maxup.png" group-title="Filmes / Séries",Max up	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/319
+#EXTINF:-1 tvg-id="Megapix | HD" tvg-name="Megapix 4k	" tvg-logo="http://cloud.icontv.in/img/megapixhd.png" group-title="Filmes / Séries",Megapix 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/320
+#EXTINF:-1 tvg-id="Megapix | FHD" tvg-name="MEGAPIX FHD	" tvg-logo="http://cloud.icontv.in/img/megapixhd.png" group-title="Filmes / Séries",MEGAPIX FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/321
+#EXTINF:-1 tvg-id="Megapix | HD" tvg-name="Megapix HD	" tvg-logo="http://cloud.icontv.in/img/megapixhd.png" group-title="Filmes / Séries",Megapix HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/322
+#EXTINF:-1 tvg-id="MTV | FHD" tvg-name="MTV 4k	" tvg-logo="http://cloud.icontv.in/img/mtvhd.png" group-title="Variedades / Músicas",MTV 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/323
+#EXTINF:-1 tvg-id="MTV | FHD" tvg-name="MTV FHD	" tvg-logo="http://cloud.icontv.in/img/mtvhd.png" group-title="Variedades / Músicas",MTV FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/324
+#EXTINF:-1 tvg-id="MTV | HD" tvg-name="MTV HD	" tvg-logo="http://cloud.icontv.in/img/mtvhd.png" group-title="Variedades / Músicas",MTV HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/325
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE FHD	" tvg-logo="http://cloud.icontv.in/img/mtvlivehd.png" group-title="Variedades / Músicas",MTV LIVE FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/326
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD	" tvg-logo="http://cloud.icontv.in/img/mtvlivehd.png" group-title="Variedades / Músicas",MTV LIVE HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/327
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW 4K	" tvg-logo="http://cloud.icontv.in/img/multishowhd.png" group-title="Variedades / Músicas",MULTISHOW 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/328
+#EXTINF:-1 tvg-id="Multishow | FHD" tvg-name="MULTISHOW FHD	" tvg-logo="http://cloud.icontv.in/img/multishowhd.png" group-title="Variedades / Músicas",MULTISHOW FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/329
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD	" tvg-logo="http://cloud.icontv.in/img/multishowhd.png" group-title="Variedades / Músicas",Multishow HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/330
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATGEO 4K	" tvg-logo="http://cloud.icontv.in/img/natgeohd.png" group-title="Documentários",NATGEO 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/331
+#EXTINF:-1 tvg-id="NatGeo Wild | FHD" tvg-name="NatGeo Wild 4k	" tvg-logo="http://cloud.icontv.in/img/natgeowild.png" group-title="Documentários",NatGeo Wild 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/332
+#EXTINF:-1 tvg-id="NatGeo Wild | FHD" tvg-name="NATGEO WILD FHD	" tvg-logo="http://cloud.icontv.in/img/natgeowild.png" group-title="Documentários",NATGEO WILD FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/333
+#EXTINF:-1 tvg-id="NatGeo Wild | HD" tvg-name="NatGeo Wild HD	" tvg-logo="http://cloud.icontv.in/img/natgeowild.png" group-title="Documentários",NatGeo Wild HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/334
+#EXTINF:-1 tvg-id="NatGeo | FHD" tvg-name="National Geographic 4k	" tvg-logo="http://cloud.icontv.in/img/natgeohd.png" group-title="Documentários",National Geographic 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/335
+#EXTINF:-1 tvg-id="NatGeo | FHD" tvg-name="National Geographic FHD	" tvg-logo="http://cloud.icontv.in/img/natgeohd.png" group-title="Documentários",National Geographic FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/336
+#EXTINF:-1 tvg-id="NatGeo | HD" tvg-name="National Geographic HD	" tvg-logo="http://cloud.icontv.in/img/natgeohd.png" group-title="Documentários",National Geographic HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/337
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids 4k	" tvg-logo="http://cloud.icontv.in/img/natgeokids.png" group-title="Kids",NatGeo Kids 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/338
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Kids HD	" tvg-logo="http://cloud.icontv.in/img/natgeokids.png" group-title="Kids",Natgeo Kids HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/339
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK 4k	" tvg-logo="http://cloud.icontv.in/img/nhk.png" group-title="Notícias",NHK 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/340
+#EXTINF:-1 tvg-id="NickJr | HD" tvg-name="Nick Jr 4k	" tvg-logo="http://cloud.icontv.in/img/nickjr.png" group-title="Kids",Nick Jr 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/341
+#EXTINF:-1 tvg-id="NickJr | HD" tvg-name="Nick Jr FHD	" tvg-logo="http://cloud.icontv.in/img/nickjr.png" group-title="Kids",Nick Jr FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/342
+#EXTINF:-1 tvg-id="NickJr | HD" tvg-name="Nick Jr HD	" tvg-logo="http://cloud.icontv.in/img/nickjr.png" group-title="Kids",Nick Jr HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/343
+#EXTINF:-1 tvg-id="Nickelodeon | FHD" tvg-name="Nickelodeon 4k	" tvg-logo="http://cloud.icontv.in/img/nickelodeon.png" group-title="Kids",Nickelodeon 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/344
+#EXTINF:-1 tvg-id="Nickelodeon | FHD" tvg-name="NICKELODEON FHD	" tvg-logo="http://cloud.icontv.in/img/nickelodeonhd.png" group-title="Kids",NICKELODEON FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/345
+#EXTINF:-1 tvg-id="Nickelodeon | HD" tvg-name="Nickelodeon HD	" tvg-logo="http://cloud.icontv.in/img/nickelodeonhd.png" group-title="Kids",Nickelodeon HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/346
+#EXTINF:-1 tvg-id="OFF | FHD" tvg-name="OFF 4k	" tvg-logo="http://cloud.icontv.in/img/offhd.png" group-title="Esportes",OFF 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/347
+#EXTINF:-1 tvg-id="OFF | HD" tvg-name="OFF HD	" tvg-logo="http://cloud.icontv.in/img/offhd.png" group-title="Esportes",OFF HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/348
+#EXTINF:-1 tvg-id="" tvg-name="PAI ETERNO HD	" tvg-logo="" group-title="Religioso",PAI ETERNO HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/349
+#EXTINF:-1 tvg-id="Paramount | FHD" tvg-name="Paramount 4k	" tvg-logo="http://cloud.icontv.in/img/paramounthd.png" group-title="Filmes / Séries",Paramount 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/350
+#EXTINF:-1 tvg-id="Paramount | HD" tvg-name="Paramount HD	" tvg-logo="http://cloud.icontv.in/img/paramounthd.png" group-title="Filmes / Séries",Paramount HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/351
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV HD	" tvg-logo="http://cloud.icontv.in/img/plustv.png" group-title="Variedades / Músicas",PLAY TV HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/352
+#EXTINF:-1 tvg-id="" tvg-name="IDEAL TV	" tvg-logo="" group-title="Canais Abertos",IDEAL TV	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/353
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS HD	" tvg-logo="http://cloud.icontv.in/img/playkids-logo.png" group-title="Kids",PLAYKIDS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/354
+#EXTINF:-1 tvg-id="Polishop" tvg-name="POLISHOP HD	" tvg-logo="http://cloud.icontv.in/img/polishop.png" group-title="Canais Abertos",POLISHOP HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/355
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premier Clubes 4k	" tvg-logo="http://cloud.icontv.in/img/premiereClubes.png" group-title="Esportes",Premier Clubes 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/356
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES FHD	" tvg-logo="http://cloud.icontv.in/img/premiereClubes.png" group-title="Esportes",PREMIERE CLUBES FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/357
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premier Clubes HD	" tvg-logo="http://cloud.icontv.in/img/premiereClubes.png" group-title="Esportes",Premier Clubes HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/358
+#EXTINF:-1 tvg-id="Premiere 1" tvg-name="Premier 1 4K	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 1 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/359
+#EXTINF:-1 tvg-id="Premiere 1 | HD" tvg-name="Premier 1 HD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 1 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/360
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premier 2 4K	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 2 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/361
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 FHD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",PREMIERE 2 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/362
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premier 2 HD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 2 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/363
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premier 3 4K	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 3 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/364
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 FHD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",PREMIERE 3 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/365
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premier 3 HD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 3 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/366
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premier 4 4K	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 4 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/367
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 FHD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",PREMIERE 4 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/368
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premier 4 HD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 4 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/369
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premier 5 4K	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 5 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/370
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 FHD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",PREMIERE 5 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/371
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premier 5 HD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 5 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/372
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premier 6 4k	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 6 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/373
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 FHD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",PREMIERE 6 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/374
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premier 6 HD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 6 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/375
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premier 7 4K	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 7 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/376
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 FHD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",PREMIERE 7 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/377
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premier 7 HD	" tvg-logo="http://cloud.icontv.in/img/premiere.png" group-title="Esportes",Premier 7 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/378
+#EXTINF:-1 tvg-id="Record TV" tvg-name="Record HD	" tvg-logo="http://cloud.icontv.in/img/recordhd.png" group-title="Canais Abertos",Record HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/379
+#EXTINF:-1 tvg-id="Record TV" tvg-name="RECORD RIO 4K	" tvg-logo="http://cloud.icontv.in/img/recordhd.png" group-title="Canais Abertos",RECORD RIO 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/380
+#EXTINF:-1 tvg-id="Record TV | FHD" tvg-name="Record SP 4K	" tvg-logo="http://cloud.icontv.in/img/recordhd.png" group-title="Canais Abertos",Record SP 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/381
+#EXTINF:-1 tvg-id="Record TV | FHD" tvg-name="Record Brasilia 4k	" tvg-logo="http://cloud.icontv.in/img/recordhd.png" group-title="Canais Abertos",Record Brasilia 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/382
+#EXTINF:-1 tvg-id="Record BH | HD" tvg-name="RECORD BAHIA	" tvg-logo="http://cloud.icontv.in/img/recordhd.png" group-title="Canais Abertos",RECORD BAHIA	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/383
+#EXTINF:-1 tvg-id="Record RS | HD" tvg-name="RECORD RS HD	" tvg-logo="http://cloud.icontv.in/img/recordhd.png" group-title="Canais Abertos",RECORD RS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/384
+#EXTINF:-1 tvg-id="Record TV" tvg-name="Record 4k	" tvg-logo="http://cloud.icontv.in/img/recordhd.png" group-title="Canais Abertos",Record 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/385
+#EXTINF:-1 tvg-id="RecordTV | HD" tvg-name="Record 4k*" tvg-logo="http://cloud.icontv.in/img/recordhd.png" group-title="Canais Abertos",Record 4k*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/386
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida 4K	" tvg-logo="http://cloud.icontv.in/img/redevida.png" group-title="Religioso",Rede Vida 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/387
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida FHD" tvg-logo="http://cloud.icontv.in/img/redevida.png" group-title="Religioso",Rede Vida FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/388
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida HD" tvg-logo="http://cloud.icontv.in/img/redevida.png" group-title="Religioso",Rede Vida HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/389
+#EXTINF:-1 tvg-id="" tvg-name="VEM E VE TV	" tvg-logo="" group-title="Religioso",VEM E VE TV	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/390
+#EXTINF:-1 tvg-id="Rede TV | HD" tvg-name="REDE TV 4K	" tvg-logo="http://cloud.icontv.in/img/redetv.png" group-title="Canais Abertos",REDE TV 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/391
+#EXTINF:-1 tvg-id="Rede TV | FHD" tvg-name="REDE TV FHD" tvg-logo="http://cloud.icontv.in/img/redetv.png" group-title="Canais Abertos",REDE TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/392
+#EXTINF:-1 tvg-id="Rede TV | HD" tvg-name="REDE TV HD" tvg-logo="http://cloud.icontv.in/img/redetv.png" group-title="Canais Abertos",REDE TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/393
+#EXTINF:-1 tvg-id="" tvg-name="REDE PAI ETERNO	" tvg-logo="" group-title="Religioso",REDE PAI ETERNO	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/394
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV HD	" tvg-logo="" group-title="Variedades / Músicas",TOP TV HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/395
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR	" tvg-logo="" group-title="Religioso",TV EVANGELIZAR	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/396
+#EXTINF:-1 tvg-id="Record Minas | HD" tvg-name="Record Minas 4K	" tvg-logo="http://cloud.icontv.in/img/recordhd.png" group-title="Canais Abertos",Record Minas 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/397
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="RATIMBUM 4K	" tvg-logo="http://cloud.icontv.in/img/tvratimbum.png" group-title="Kids",RATIMBUM 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/398
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="RATIMBUM FHD	" tvg-logo="http://cloud.icontv.in/img/tvratimbum.png" group-title="Kids",RATIMBUM FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/399
+#EXTINF:-1 tvg-id="" tvg-name="RATIMBUM HD	" tvg-logo="http://cloud.icontv.in/img/tvratimbum.png" group-title="Kids",RATIMBUM HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/400
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV	" tvg-logo="http://cloud.icontv.in/img/redbulltv.png" group-title="Esportes",REDBULL TV	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/401
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITAILIA HD	" tvg-logo="http://cloud.icontv.in/img/rai.png" group-title="Canais Abertos",RAI ITAILIA HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/402
+#EXTINF:-1 tvg-id="" tvg-name="RAI INTERNATIONAL HD	" tvg-logo="http://cloud.icontv.in/img/rai.png" group-title="Canais Abertos",RAI INTERNATIONAL HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/403
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS HD	" tvg-logo="http://cloud.icontv.in/img/redegenesis.png" group-title="Religioso",REDE GENESIS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/404
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT 4K	" tvg-logo="http://cloud.icontv.in/img/sbt.png" group-title="Canais Abertos",SBT 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/405
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FHD" tvg-logo="http://cloud.icontv.in/img/sbt.png" group-title="Canais Abertos",SBT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/406
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://cloud.icontv.in/img/sbt.png" group-title="Canais Abertos",SBT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/407
+#EXTINF:-1 tvg-id="Canal Sony | FHD" tvg-name="Sony 4k	" tvg-logo="http://cloud.icontv.in/img/sonyhd.png" group-title="Filmes / Séries",Sony 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/408
+#EXTINF:-1 tvg-id="Canal Sony | FHD" tvg-name="Sony FHD	" tvg-logo="http://cloud.icontv.in/img/sonyhd.png" group-title="Filmes / Séries",Sony FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/409
+#EXTINF:-1 tvg-id="Canal Sony | HD" tvg-name="Sony HD	" tvg-logo="http://cloud.icontv.in/img/sonyhd.png" group-title="Filmes / Séries",Sony HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/410
+#EXTINF:-1 tvg-id="Space | FHD" tvg-name="Space 4k	" tvg-logo="http://cloud.icontv.in/img/spacehd.png" group-title="Filmes / Séries",Space 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/411
+#EXTINF:-1 tvg-id="Space | FHD" tvg-name="SPACE FHD	" tvg-logo="http://cloud.icontv.in/img/spacehd.png" group-title="Filmes / Séries",SPACE FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/412
+#EXTINF:-1 tvg-id="Space | HD" tvg-name="Space HD	" tvg-logo="http://cloud.icontv.in/img/spacehd.png" group-title="Filmes / Séries",Space HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/413
+#EXTINF:-1 tvg-id="Sportv | FHD" tvg-name="SPORTV 4K	" tvg-logo="http://cloud.icontv.in/img/sportvhd.png" group-title="Esportes",SPORTV 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/414
+#EXTINF:-1 tvg-id="Sportv | FHD" tvg-name="SPORTV FHD	" tvg-logo="http://cloud.icontv.in/img/sportvhd.png" group-title="Esportes",SPORTV FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/415
+#EXTINF:-1 tvg-id="SporTV | HD" tvg-name="Sportv HD	" tvg-logo="http://cloud.icontv.in/img/sportvhd.png" group-title="Esportes",Sportv HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/416
+#EXTINF:-1 tvg-id="SporTV2 | FHD" tvg-name="Sportv 2 4k	" tvg-logo="http://cloud.icontv.in/img/sportv2hd.png" group-title="Esportes",Sportv 2 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/417
+#EXTINF:-1 tvg-id="SporTV2 | FHD" tvg-name="SPORTV 2 FHD	" tvg-logo="http://cloud.icontv.in/img/sportv2hd.png" group-title="Esportes",SPORTV 2 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/418
+#EXTINF:-1 tvg-id="SporTV 2 | HD" tvg-name="Sportv 2 HD	" tvg-logo="http://cloud.icontv.in/img/sportv2hd.png" group-title="Esportes",Sportv 2 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/419
+#EXTINF:-1 tvg-id="SporTV3 | FHD" tvg-name="Sportv 3 4k	" tvg-logo="http://cloud.icontv.in/img/sportv3hd.png" group-title="Esportes",Sportv 3 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/420
+#EXTINF:-1 tvg-id="SporTV3 | FHD" tvg-name="SPORTV 3 FHD	" tvg-logo="http://cloud.icontv.in/img/sportv3hd.png" group-title="Esportes",SPORTV 3 FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/421
+#EXTINF:-1 tvg-id="SporTV 3 | HD" tvg-name="Sportv 3 HD	" tvg-logo="http://cloud.icontv.in/img/sportv3hd.png" group-title="Esportes",Sportv 3 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/422
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 4K " tvg-logo="http://cloud.icontv.in/img/sportv4_g5.png" group-title="Esportes",SPORTV 4 4K 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/423
+#EXTINF:-1 tvg-id="" tvg-name="SERIE C MC (01)	" tvg-logo="http://cloud.icontv.in/img/mycujoo.png" group-title="Esportes",SERIE C MC (01)	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/424
+#EXTINF:-1 tvg-id="" tvg-name="SERIE C MC (02)	" tvg-logo="http://cloud.icontv.in/img/mycujoo.png" group-title="Esportes",SERIE C MC (02)	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/425
+#EXTINF:-1 tvg-id="" tvg-name="SERIE C MC (03)	" tvg-logo="http://cloud.icontv.in/img/mycujoo.png" group-title="Esportes",SERIE C MC (03)	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/426
+#EXTINF:-1 tvg-id="Studio Universal | HD" tvg-name="Studio Universal 4k	" tvg-logo="http://cloud.icontv.in/img/studiouniversalhd.png" group-title="Filmes / Séries",Studio Universal 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/427
+#EXTINF:-1 tvg-id="Studio Universal | FHD" tvg-name="STUDIO UNIVERSAL FHD	" tvg-logo="http://cloud.icontv.in/img/studiouniversal.png" group-title="Filmes / Séries",STUDIO UNIVERSAL FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/428
+#EXTINF:-1 tvg-id="Studio Universal | HD" tvg-name="Studio Universal HD	" tvg-logo="http://cloud.icontv.in/img/studiouniversal.png" group-title="Filmes / Séries",Studio Universal HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/429
+#EXTINF:-1 tvg-id="SYFY | FHD" tvg-name="Syfy 4k	" tvg-logo="http://cloud.icontv.in/img/syfy.png" group-title="Filmes / Séries",Syfy 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/430
+#EXTINF:-1 tvg-id="SYFY | FHD" tvg-name="SYFY FHD	" tvg-logo="http://cloud.icontv.in/img/syfy.png" group-title="Filmes / Séries",SYFY FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/431
+#EXTINF:-1 tvg-id="SYFY | HD" tvg-name="Syfy HD	" tvg-logo="http://cloud.icontv.in/img/syfy.png" group-title="Filmes / Séries",Syfy HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/432
+#EXTINF:-1 tvg-id="TBS | FHD" tvg-name="TBS 4K	" tvg-logo="http://cloud.icontv.in/img/tbs.png" group-title="Filmes / Séries",TBS 4K	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/433
+#EXTINF:-1 tvg-id="TBS | HD" tvg-name="TBS HD	" tvg-logo="http://cloud.icontv.in/img/tbs.png" group-title="Filmes / Séries",TBS HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/434
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIVESP	" tvg-logo="" group-title="Canais Abertos",TV UNIVESP	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/435
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM 4k	" tvg-logo="http://cloud.icontv.in/img/tcm.png" group-title="Filmes / Séries",TCM 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/436
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FHD	" tvg-logo="http://cloud.icontv.in/img/tcm.png" group-title="Filmes / Séries",TCM FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/437
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD	" tvg-logo="http://cloud.icontv.in/img/tcm.png" group-title="Filmes / Séries",TCM HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/438
+#EXTINF:-1 tvg-id="Telecine Premium | FHD" tvg-name="TC Premium 4k	" tvg-logo="http://cloud.icontv.in/img/TCPremium.png" group-title="Filmes / Séries",TC Premium 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/439
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TC Premium HD	" tvg-logo="http://cloud.icontv.in/img/TCPremium.png" group-title="Filmes / Séries",TC Premium HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/440
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TC Premium HD*" tvg-logo="http://cloud.icontv.in/img/TCPremium.png" group-title="Filmes / Séries",TC Premium HD*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/441
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-name="TC Action 4k	" tvg-logo="http://cloud.icontv.in/img/TCAction.png" group-title="Filmes / Séries",TC Action 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/442
+#EXTINF:-1 tvg-id="Telecine Action | FHD" tvg-name="TELECINE ACTION FHD	" tvg-logo="http://cloud.icontv.in/img/TCAction.png" group-title="Filmes / Séries",TELECINE ACTION FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/443
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-name="TC Action HD	" tvg-logo="http://cloud.icontv.in/img/TCAction.png" group-title="Filmes / Séries",TC Action HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/444
+#EXTINF:-1 tvg-id="Telecine Touch | FHD" tvg-name="TC Touch 4k	" tvg-logo="http://cloud.icontv.in/img/TCTouch.png" group-title="Filmes / Séries",TC Touch 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/445
+#EXTINF:-1 tvg-id="Telecine Touch | FHD" tvg-name="TELECINE TOUCH FHD	" tvg-logo="http://cloud.icontv.in/img/TCTouch.png" group-title="Filmes / Séries",TELECINE TOUCH FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/446
+#EXTINF:-1 tvg-id="Telecine Pipoca | FHD" tvg-name="TC Touch HD	" tvg-logo="http://cloud.icontv.in/img/TCTouch.png" group-title="Filmes / Séries",TC Touch HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/447
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="TC Pipoca 4k	" tvg-logo="http://cloud.icontv.in/img/TCPipoca.png" group-title="Filmes / Séries",TC Pipoca 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/448
+#EXTINF:-1 tvg-id="Telecine Pipoca | FHD" tvg-name="TELECINE PIPOCA FHD	" tvg-logo="http://cloud.icontv.in/img/TCPipoca.png" group-title="Filmes / Séries",TELECINE PIPOCA FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/449
+#EXTINF:-1 tvg-id="Telecine Pipoca | FHD" tvg-name="TC Pipoca HD	" tvg-logo="http://cloud.icontv.in/img/TCPipoca.png" group-title="Filmes / Séries",TC Pipoca HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/450
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="TC Cult 4k	" tvg-logo="http://cloud.icontv.in/img/TCCult.png" group-title="Filmes / Séries",TC Cult 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/451
+#EXTINF:-1 tvg-id="Telecine Cult | FHD" tvg-name="TELECINE CULT FHD	" tvg-logo="http://cloud.icontv.in/img/TCCult.png" group-title="Filmes / Séries",TELECINE CULT FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/452
+#EXTINF:-1 tvg-id="Telecine Cult | HD" tvg-name="TC Cult HD	" tvg-logo="http://cloud.icontv.in/img/TCCult.png" group-title="Filmes / Séries",TC Cult HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/453
+#EXTINF:-1 tvg-id="Telecine Fun | FHD" tvg-name="TC Fun 4k	" tvg-logo="http://cloud.icontv.in/img/TCFun.png" group-title="Filmes / Séries",TC Fun 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/454
+#EXTINF:-1 tvg-id="Telecine Fun | FHD" tvg-name="TELECINE FUN FHD	" tvg-logo="http://cloud.icontv.in/img/TCFun.png" group-title="Filmes / Séries",TELECINE FUN FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/455
+#EXTINF:-1 tvg-id="Telecine Fun | HD" tvg-name="TC Fun HD	" tvg-logo="http://cloud.icontv.in/img/TCFun.png" group-title="Filmes / Séries",TC Fun HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/456
+#EXTINF:-1 tvg-id="TLC | FHD" tvg-name="TLC 4k	" tvg-logo="http://cloud.icontv.in/img/tlchd.png" group-title="Filmes / Séries",TLC 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/457
+#EXTINF:-1 tvg-id="TLC | FHD" tvg-name="TLC FHD	" tvg-logo="http://cloud.icontv.in/img/tlchd.png" group-title="Filmes / Séries",TLC FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/458
+#EXTINF:-1 tvg-id="TLC | HD" tvg-name="TLC HD	" tvg-logo="http://cloud.icontv.in/img/tlchd.png" group-title="Filmes / Séries",TLC HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/459
+#EXTINF:-1 tvg-id="TNT | FHD" tvg-name="TNT 4k	" tvg-logo="http://cloud.icontv.in/img/tnthd.png" group-title="Filmes / Séries",TNT 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/460
+#EXTINF:-1 tvg-id="TNT | FHD" tvg-name="TNT 4k*" tvg-logo="http://cloud.icontv.in/img/tnthd.png" group-title="Filmes / Séries",TNT 4k*
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/461
+#EXTINF:-1 tvg-id="TNT | FHD" tvg-name="TNT FHD	" tvg-logo="http://cloud.icontv.in/img/tnthd.png" group-title="Filmes / Séries",TNT FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/462
+#EXTINF:-1 tvg-id="TNT | HD" tvg-name="TNT HD	" tvg-logo="http://cloud.icontv.in/img/tnthd.png" group-title="Filmes / Séries",TNT HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/463
+#EXTINF:-1 tvg-id="TNT Series | FHD" tvg-name="TNT Series 4k	" tvg-logo="http://cloud.icontv.in/img/tntserieshd.png" group-title="Filmes / Séries",TNT Series 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/464
+#EXTINF:-1 tvg-id="TNT Series | FHD" tvg-name="TNT Series FHD	" tvg-logo="http://cloud.icontv.in/img/tntseries.png" group-title="Filmes / Séries",TNT Series FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/465
+#EXTINF:-1 tvg-id="TNT Series | HD" tvg-name="TNT Series HD	" tvg-logo="http://cloud.icontv.in/img/tntserieshd.png" group-title="Filmes / Séries",TNT Series HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/466
+#EXTINF:-1 tvg-id="" tvg-name="TV VITORIA ES HD	" tvg-logo="" group-title="Canais Abertos",TV VITORIA ES HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/467
+#EXTINF:-1 tvg-id="TV Gazeta | HD" tvg-name="TV GAZETA	" tvg-logo="http://cloud.icontv.in/img/tvgazeta.png" group-title="Canais Abertos",TV GAZETA	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/468
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV JUSTICA	" tvg-logo="http://cloud.icontv.in/img/tvjustica.png" group-title="Canais Abertos",TV JUSTICA	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/469
+#EXTINF:-1 tvg-id="TruTV" tvg-name="Trutv" tvg-logo="http://cloud.icontv.in/img/trutv.png" group-title="Comédia",Trutv
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/470
+#EXTINF:-1 tvg-id="Universal TV | FHD" tvg-name="Universal Channel 4k	" tvg-logo="http://cloud.icontv.in/img/universalchannelhd.png" group-title="Filmes / Séries",Universal Channel 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/471
+#EXTINF:-1 tvg-id="Universal TV | HD" tvg-name="Universal Channel HD	" tvg-logo="http://cloud.icontv.in/img/universalchannelhd.png" group-title="Filmes / Séries",Universal Channel HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/472
+#EXTINF:-1 tvg-id="" tvg-name="VH1 4k	" tvg-logo="http://cloud.icontv.in/img/vh1hd.png" group-title="Variedades / Músicas",VH1 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/473
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD	" tvg-logo="http://cloud.icontv.in/img/vh1hd.png" group-title="Variedades / Músicas",VH1 HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/474
+#EXTINF:-1 tvg-id="Viva | HD" tvg-name="Viva 4k	" tvg-logo="http://cloud.icontv.in/img/vivahd.png" group-title="Canais Abertos",Viva 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/475
+#EXTINF:-1 tvg-id="Viva | HD" tvg-name="VIVA FHD	" tvg-logo="http://cloud.icontv.in/img/vivahd.png" group-title="Canais Abertos",VIVA FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/476
+#EXTINF:-1 tvg-id="Viva | HD" tvg-name="Viva HD	" tvg-logo="http://cloud.icontv.in/img/vivahd.png" group-title="Canais Abertos",Viva HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/477
+#EXTINF:-1 tvg-id="Warner TV | FHD" tvg-name="Warner Channel 4k	" tvg-logo="http://cloud.icontv.in/img/warnerchannelhd.png" group-title="Filmes / Séries",Warner Channel 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/478
+#EXTINF:-1 tvg-id="Warner TV | FHD" tvg-name="WARNER CHANNEL FHD	" tvg-logo="http://cloud.icontv.in/img/warnerchannelhd.png" group-title="Filmes / Séries",WARNER CHANNEL FHD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/479
+#EXTINF:-1 tvg-id="Warner TV | HD" tvg-name="Warner Channel HD	" tvg-logo="http://cloud.icontv.in/img/warnerchannelhd.png" group-title="Filmes / Séries",Warner Channel HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/480
+#EXTINF:-1 tvg-id="Woohoo | FHD" tvg-name="Woohoo 4k	" tvg-logo="http://cloud.icontv.in/img/woohoo.png" group-title="Esportes",Woohoo 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/481
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo HD	" tvg-logo="http://cloud.icontv.in/img/woohoo.png" group-title="Esportes",Woohoo HD	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/482
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo 4k	" tvg-logo="http://cloud.icontv.in/img/Zoomoo_logo.png" group-title="Kids",Zoomoo 4k	
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/483
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="http://cloud.icontv.in/img/Zoomoo_logo.png" group-title="Kids",Zoomoo HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://minhalista.org:8080/071278/071278/484
+
+
+
+
+
+
+
+
