@@ -9,58 +9,7 @@
 #EXTM3U
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 01[/B][/COLOR]
 http://canais.servidor
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT HD" tvg-logo="https://img2.gratispng.com/20180628/rgw/kisspng-eurosport-2-logo-television-eurosport-1-bein-sports-1-5b3583a659f9e5.7369616915302337663686.jpg" group-title="CANAIS | DE PORTUGAL",PT: EUROSPORT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="https://4.bp.blogspot.com/-wvc-EwwkOlQ/Xv5002x0JWI/AAAAAAAAGhg/eNscRZ4W0i4HTYDVbafsWtSn_5WBUOx-wCK4BGAYYCw/s1600/SPORT%2BTV%2B1.png" group-title="CANAIS | DE PORTUGAL",SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD" tvg-logo="https://2.bp.blogspot.com/-8MDD_LlrW8Q/Xv500096YuI/AAAAAAAAGhs/iiOwdOxdL68XkJNIJd5MhQDnHAv4NmQEwCK4BGAYYCw/s1600/SPORT%2BTV%2B2.png" group-title="CANAIS | DE PORTUGAL",SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD" tvg-logo="https://3.bp.blogspot.com/-Np9DoMo-5uE/Xv500wVbVwI/AAAAAAAAGhk/glZXLX-6m6cRHtSQ9bfoAblwO7LXzoQSQCK4BGAYYCw/s1600/SPORT%2BTV%2B3.png" group-title="CANAIS | DE PORTUGAL",SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD" tvg-logo="https://1.bp.blogspot.com/-r4Wvts4p2Ok/Xv500wFVd5I/AAAAAAAAGho/KRsSYSPJjqIW6BSJ_W3um9PoiPP5jKvJACK4BGAYYCw/s1600/SPORT%2BTV%2B4.png" group-title="CANAIS | DE PORTUGAL",SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD" tvg-logo="https://1.bp.blogspot.com/-Go9iV0iEIU4/Xv5006XVhuI/AAAAAAAAGhw/WFvJ0dY80Bo_3dlh3yYAvtHbi9_Af6INQCK4BGAYYCw/s1600/SPORT%2BTV%2B5.png" group-title="CANAIS | DE PORTUGAL",SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://pbs.twimg.com/profile_images/761964542721163265/5pZ4B4xU_400x400.jpg" group-title="CANAIS | DE PORTUGAL",NBA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="CANAIS | DE PORTUGAL",SPORT TV NBA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTenecfWQMEc8q_xDeuGx33wkZ-6lMai52RKA&usqp=CAU" group-title="CANAIS | DE PORTUGAL",TV CINE 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjNF4yoR95GfJtS8OWXiQyE0U5PX71Q5wTIA&usqp=CAU" group-title="CANAIS | DE PORTUGAL",TV CINE 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE 3" tvg-logo="" group-title="CANAIS | DE PORTUGAL",TV CINE 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE 4" tvg-logo="" group-title="CANAIS | DE PORTUGAL",TV CINE 4
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA HD" tvg-logo="https://www.wetheitalians.com/storage/app/uploads/public/585/73c/51c/58573c51c9b55301641104.png" group-title="CANAIS | DE PORTUGAL",RAI ITALIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria" tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/646362/1003665741.jpg?v=636967609948900000" group-title="CANAIS | 24HS SHOWS",Simone e Simaria
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Forró" tvg-logo="https://1.bp.blogspot.com/-HYqnA12CRuc/XXJ3d259c5I/AAAAAAAAQDc/Q-TmsZSsGg8-lCCNVOO37AFNlzwbfzudgCLcBGAs/s1600/Kellysson%2BGrava%25C3%25A7%25C3%25B5es%25C2%25AE%2Bon%2BInstagram_%2B_--OU%25C3%2587A%2BAGORA%2B-%2528JPG%2529.jpg" group-title="CANAIS | 24HS SHOWS",Cavaleiros do Forró
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Felipe Araújo" tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/12110050/1004129330.jpg?v=637142251769900000" group-title="CANAIS | 24HS SHOWS",Felipe Araújo
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fernando & Sorocaba" tvg-logo="https://planetacountry.com.br/wp-content/uploads/2019/09/fernandoesorocaba-1080x1080.jpg" group-title="CANAIS | 24HS SHOWS",Fernando & Sorocaba
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Henrique & Juliano" tvg-logo="https://lojasaraiva.vteximg.com.br/arquivos/ids/1765101/1001812169.jpg?v=637005134983830000" group-title="CANAIS | 24HS SHOWS",Henrique & Juliano
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Marília Mendonça" tvg-logo="https://i2.wp.com/tabelaesportiva.com/wp-content/uploads/2020/04/Mar%C3%ADlia-Mendon%C3%A7a.jpeg?fit=1030%2C1280&ssl=1" group-title="CANAIS | 24HS SHOWS",Live Marília Mendonça
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live show com Juliana e Bond do forró" tvg-logo="https://images.suamusica.com.br/bQRmJBaNIc42RISA9hk5eROd2uE=/300x300/19199749/2814016/cd_cover.jpg" group-title="CANAIS | 24HS SHOWS",Live show com Juliana e Bond do forró
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV ALVORADA SERTANEJA" tvg-logo="https://2.bp.blogspot.com/-ofKWc03Obdg/Xk7MqLdHORI/AAAAAAAACgc/1kQBCPVcByc4k88bbVkuSMeBsy5jkWO1ACPcBGAYYCw/s320/2020-02-20%2B14.04.20.png" group-title="CANAIS | 24HS SHOWS",TV ALVORADA SERTANEJA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/27462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Covid" tvg-logo="https://i.imgur.com/35nhaXC.png" group-title="CANAIS | COVID - 19",Covid
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/53906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Covid-19" tvg-logo="https://i.imgur.com/35nhaXC.png" group-title="CANAIS | COVID - 19",Covid-19
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/53907.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COVID-19 ³" tvg-logo="https://i.imgur.com/35nhaXC.png" group-title="CANAIS | COVID - 19",COVID-19 ³
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/53908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN News HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espnews.png" group-title="CANAIS | USA",ESPN News HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/53958.m3u8
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba HD" tvg-name="GLOBO RPC TV HD" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="CANAIS | GLOBO",GLOBO RPC TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/139690.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZONAS HD" tvg-logo="http://jserverstv.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO AMAZONAS HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/139693.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA GOIANIA SD" tvg-logo="http://jserverstv.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO ANHANGUERA GOIANIA SD
@@ -91,8 +40,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&strea
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/139715.m3u8
 #EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO HD 2 RJ Dual Audio" tvg-logo="http://jserverstv.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO HD 2 RJ Dual Audio
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/139716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL SD" tvg-logo="http://jserverstv.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/139717.m3u8
 #EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS HD" tvg-logo="http://jserverstv.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://dns.fastuhd.online:80/live/dirceu56/56dirceu/139719.m3u8
 #EXTINF:-1 tvg-id="Globo Minas FHD" tvg-name="GLOBO MINAS HD" tvg-logo="http://jserverstv.xyz:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO MINAS HD
