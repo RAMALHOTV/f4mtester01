@@ -7,2082 +7,1945 @@
 
 
 
+
+
+
 #EXTM3U #EXTINF:-1, [B][COLOR yellow] RAMALHOTV[/B][/COLOR] [B][COLOR lime] -SERVIDOR 01[/B][/COLOR] 
 http://canais.servidor
 
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71760
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71762
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71763
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71765
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | 4K [FHDR]",AgroMais 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103532
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71764
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71766
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71767
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71769
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | 4K [FHDR]",AMC 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90646
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71768
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71770
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71771
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71773
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | 4K [FHDR]",Animal Planet 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71774
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71772
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71775
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71776
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71778
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | 4K [FHDR]",Arte 1 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103531
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71777
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71779
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71780
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71782
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | 4K [FHDR]",AXN 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90645
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71781
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Legendados",AXN FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90716
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71783
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Legendados",AXN HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90715
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71784
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Legendados",AXN SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90714
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band BA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72620
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71786
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71785
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71787
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71788
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71790
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | 4K [FHDR]",Band News 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103526
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71789
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71791
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Notícias",Band News SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71792
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104943
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/79311
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72597
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71802
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | 4K [FHDR]",Band Sports 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103525
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71801
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71803
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71804
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/79312
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",BBC SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71805
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71807
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | 4K [FHDR]",BIS 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103527
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71806
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71808
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71809
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Bloomberg SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71810
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/boavontade.png" group-title="Canais | Religiosos",Boa Vontade TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71811
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71813
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | 4K [FHDR]",Boomerang 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90644
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71812
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71814
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71815
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96514
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | 4K [FHDR]",Campeonato Carioca 1 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103520
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96513
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96515
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96516
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96518
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | 4K [FHDR]",Campeonato Carioca 2 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103519
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96517
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96519
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96520
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71817
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | 4K [FHDR]",Canal Brasil 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103518
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71816
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71818
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71819
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | 4K [FHDR]",Canal do Boi 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103516
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71820
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71821
-#EXTINF:-1 tvg-logo="http://a5.vc/bK3" group-title="Canais | Abertos",Canal do Boi SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71822
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canalrural.png" group-title="Canais | Abertos",Canal Rural SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71823
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71825
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | 4K [FHDR]",Canal Sony 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103517
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71824
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Legendados",Canal Sony FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90713
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71826
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Legendados",Canal Sony HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90712
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71827
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Legendados",Canal Sony SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90711
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71829
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | 4K [FHDR]",Cartoon Network 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71830
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71828
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71831
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71832
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71834
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | 4K [FHDR]",Cinemax 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90643
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71833
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71835
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71836
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72994
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72995
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72996
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72997
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72998
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72999
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73000
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 8 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73001
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 9 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73002
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 10 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73003
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71838
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | 4K [FHDR]",CNN Brasil 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71798
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71837
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71839
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71840
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN International SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71841
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71843
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | 4K [FHDR]",Combate 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71844
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71842
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71845
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71846
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71848
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | 4K [FHDR]",Comedy Central 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90642
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71847
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71849
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71850
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72978
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 1 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103524
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72977
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72979
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72980
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72982
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 2 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103523
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72981
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72983
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72984
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72986
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 3 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103522
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72985
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72987
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72988
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72990
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 4 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103521
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72989
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72991
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72992
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Copa Catarinense 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96011
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Copa Catarinense 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96012
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Copa Catarinense 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96013
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 1 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96506
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | 4K [FHDR]",Copa do Nordeste 1 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103515
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96505
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96507
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96508
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96510
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | 4K [FHDR]",Copa do Nordeste 2 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103514
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96509
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96511
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96512
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/101617
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/101618
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/101619
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/101620
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | PPV",Copa do Nordeste 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/101621
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71852
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | 4K [FHDR]",Cultura 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103513
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71851
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71853
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Abertos",Cultura SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71854
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71856
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | 4K [FHDR]",Curta! 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103512
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71855
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71857
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71858
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71860
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72630
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71861
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71859
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71863
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71864
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71862
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71865
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71866
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71868
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | 4K [FHDR]",Discovery H&H 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90251
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71867
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71869
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71870
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71872
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | 4K [FHDR]",Discovery Kids 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90250
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71871
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71873
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71874
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71876
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | 4K [FHDR]",Discovery Science 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103511
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71875
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71877
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71878
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71880
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | 4K [FHDR]",Discovery Theater 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103510
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71879
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71881
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71882
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71884
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | 4K [FHDR]",Discovery Turbo 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90641
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71883
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71885
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71886
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71888
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | 4K [FHDR]",Discovery World 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103509
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71887
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71889
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71890
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71892
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | 4K [FHDR]",Disney Channel 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103508
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71891
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71893
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71894
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71896
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | 4K [FHDR]",Disney Junior 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103507
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71895
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71897
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71898
-#EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",Disney XD SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71899
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",DOG TV FHD [H265] 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104909
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Dog TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/76922
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Dog TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/76923
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Dog TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104908
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",DW (Deutsch+) SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104940
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71901
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | 4K [FHDR]",E! 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103506
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71900
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71902
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71903
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71908
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73254
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73255
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73256
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73257
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73258
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73259
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | 4K [FHDR]",ESPN2 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103504
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71907
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71909
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71910
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71912
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | 4K [FHDR]",ESPN 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71921
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | 4K [FHDR]",ESPN Brasil 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90640
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71911
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71913
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71914
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71916
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | 4K [FHDR]",ESPN Extra 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103505
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Extra FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71915
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71917
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71918
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71920
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71919
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71922
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71923
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71904
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71905
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71906
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/76671
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/76672
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/76673
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104913
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104910
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104911
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104912
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73005
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 2 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/79316
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 3 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/79317
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71925
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | 4K [FHDR]",Fashion TV 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103503
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71924
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71926
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71927
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD [H265] 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104920
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104914
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104915
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104916
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71929
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | 4K [FHDR]",Fish TV 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103502
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71928
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71930
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71931
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71933
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | 4K [FHDR]",Food Network 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103501
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71932
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71934
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71935
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Formula 1 TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/98395
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71958
-#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | 4K [FHDR]",FOX 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90249
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | 4K [FHDR]",Fox Sports 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71959
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71957
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71960
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71961
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71953
-#EXTINF:-1 tvg-logo="" group-title="Canais | Estados Unidos",US: Fox Sports FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103236
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | 4K [FHDR]",Fox Sports 2 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71954
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71952
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71955
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71956
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104942
-#EXTINF:-1 tvg-logo="" group-title="Canais | Estados Unidos",US: Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103237
-#EXTINF:-1 tvg-logo="" group-title="Canais | 4K [FHDR]",France 24 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103500
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104906
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104907
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104941
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71963
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | 4K [FHDR]",Futura 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103499
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71962
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71964
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71965
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71967
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | 4K [FHDR]",FX 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90639
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71966
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",FX FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90710
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71968
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",FX HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90709
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71969
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",FX SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90708
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71973
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71974
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71975
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71976
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71977
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71978
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97590
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72589
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72591
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97594
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97593
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72592
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71979
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71980
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71981
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71982
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71983
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71984
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71985
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71986
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71987
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo InterTV Costa Branca HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93581
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo InterTV Costa Branca SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93585
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71988
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71989
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71990
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71991
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71992
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71993
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo InterTV Planicie HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93586
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo InterTV Planicie SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93587
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71994
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71995
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71996
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71970
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71971
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71972
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71998
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | 4K [FHDR]",Globo News 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90248
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71997
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71999
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Notícias",Globo News SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72000
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72001
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72002
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72003
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72004
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72005
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72006
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72007
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72008
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72009
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72010
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72011
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72012
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Joinville FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91034
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Joinville HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91033
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Joinville SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91032
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72013
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72014
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72015
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72617
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72618
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/100023
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72016
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72017
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72018
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Boa Vista HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93588
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Boa Vista SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93589
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Macapa HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93590
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Macapa SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93591
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72019
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72020
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72021
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Porto Velho HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93592
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Porto Velho SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93593
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Rio Branco HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93594
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Rio Branco SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93595
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72022
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72023
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72024
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72025
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72026
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72027
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72028
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72029
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72030
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Curitiba FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72625
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Curitiba HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72626
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Curitiba SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72627
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72032
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72033
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72034
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96887
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96888
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96889
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72036
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72037
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72038
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104938
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72040
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72041
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72042
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72043
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72044
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72045
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Asa Branca FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102554
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Asa Branca HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102555
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Asa Branca SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102556
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72046
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72047
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72048
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72049
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72050
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72051
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72052
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72053
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72054
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Diario Mogi das Cruzes FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97595
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Diario Mogi das Cruzes HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97596
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Diario Mogi das Cruzes SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97597
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93596
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira Presidente Prudente FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97587
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira Presidente Prudente HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97588
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira Presidente Prudente SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97589
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93597
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72055
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72056
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72057
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72058
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72059
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72060
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72061
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72062
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72063
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72064
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72065
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72066
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72067
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72068
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72069
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberlandia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93598
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberlandia SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93599
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72070
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72071
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72072
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Cocais HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93600
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Cocais SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93601
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Imperatriz HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93602
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Imperatriz SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93603
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72073
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72074
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72075
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72076
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72077
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72078
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72079
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72081
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72082
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72083
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72084
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72085
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72086
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72087
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72088
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72089
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72090
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72091
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72092
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72093
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72094
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Bauru FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91431
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Bauru HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91432
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Bauru SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72616
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Itapetininga FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91435
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Itapetininga HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91436
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Itapetininga SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91437
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91433
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91434
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72622
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Sorocaba FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91438
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Sorocaba HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91439
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sorocaba SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72623
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97592
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93604
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72596
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/97591
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72624
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda Taubate FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/100375
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda Taubate HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93605
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda Taubate SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/93606
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | 4K [FHDR]",Globo TV Verdes Mares 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72080
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV Verdes Mares Cariri FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91440
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV Verdes Mares Cariri HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91441
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV Verdes Mares Cariri SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91442
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72095
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72096
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72097
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72099
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | 4K [FHDR]",Gloob 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103498
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72098
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72100
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90630
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | 4K [FHDR]",Gloobinho 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103497
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90631
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90629
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90628
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72101
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72103
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | 4K [FHDR]",GNT 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90638
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72102
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72104
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72105
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72107
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | 4K [FHDR]",H2 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90245
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72106
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72108
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72109
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72111
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | 4K [FHDR]",HBO 2 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90246
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72110
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72112
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72113
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72115
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | 4K [FHDR]",HBO 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90247
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | 4K [FHDR]",HBO Family 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90637
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72114
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72116
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72117
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72119
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72118
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Legendados",HBO FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90698
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72120
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Legendados",HBO HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90697
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72122
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | 4K [FHDR]",HBO MUNDI 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103496
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72121
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90695
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72123
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90694
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72124
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90693
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72126
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | 4K [FHDR]",HBO Plus 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90635
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72125
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | Legendados",HBO Plus FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90692
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72127
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | Legendados",HBO Plus HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90691
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72128
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | Legendados",HBO Plus SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90690
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72130
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | 4K [FHDR]",HBO POP 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103495
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72129
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90689
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72131
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90688
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72132
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90687
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72133
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Legendados",HBO SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90696
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72135
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | 4K [FHDR]",HBO Signature 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103494
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72134
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Legendados",HBO Signature FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90686
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72136
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Legendados",HBO Signature HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90685
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72137
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Legendados",HBO Signature SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90684
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72139
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | 4K [FHDR]",HBO Xtreme 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90636
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72138
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90683
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72140
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90682
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72141
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90681
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72143
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | 4K [FHDR]",HGTV 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103493
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72142
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72144
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72145
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72147
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | 4K [FHDR]",History 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90244
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72146
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72148
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72149
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72151
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | 4K [FHDR]",ID 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90243
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72150
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72152
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72153
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72155
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | 4K [FHDR]",Lifetime 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103492
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72154
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72156
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72157
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Liga Futsal 2021 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73006
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72159
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | 4K [FHDR]",Like 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103491
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72158
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72160
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72161
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104923
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104921
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104922
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/89700
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Love Nature FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73004
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72163
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | 4K [FHDR]",Mais na Tela 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103488
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72162
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72164
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72165
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72167
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | 4K [FHDR]",Megapix 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72168
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72166
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Legendados",Megapix FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90680
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72169
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Legendados",Megapix HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90679
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72170
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Legendados",Megapix SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90678
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104933
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104924
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104925
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104926
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72172
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | 4K [FHDR]",MTV 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103490
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72171
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72173
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72175
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | 4K [FHDR]",MTV LIVE 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103489
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72174
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72176
-#EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",MTV Live SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72177
-#EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",MTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72178
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72180
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | 4K [FHDR]",Multishow 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72181
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72179
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72182
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72183
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72185
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | 4K [FHDR]",Music Box Brazil 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103487
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72184
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72186
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72187
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/75026
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/77583
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/77584
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72189
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | 4K [FHDR]",Nat Geo Kids 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103486
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72188
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72190
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais | Infantis",Nat Geo Kids SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72191
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Documentários",Nat Geo Wild FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72193
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | 4K [FHDR]",Nat Geo Wild 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90242
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Documentários",Nat Geo Wild FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72192
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Documentários",Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72194
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais | Documentários",Nat Geo Wild SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72195
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72197
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | 4K [FHDR]",National Geographic 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72198
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72196
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72199
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72200
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",NHK SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/91990
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72206
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | 4K [FHDR]",Nickelodeon 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90241
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72205
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72207
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72208
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72202
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | 4K [FHDR]",Nick Jr. 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103485
-#EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72201
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72203
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72204
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72210
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | 4K [FHDR]",OFF 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90240
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72209
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72211
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72212
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72216
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | 4K [FHDR]",Pai Eterno 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103484
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72213
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72214
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72215
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72218
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | 4K [FHDR]",Paramount Channel 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90634
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72217
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72219
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72220
-#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Canais | 4K [FHDR]",Playboy 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103483
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Polishop TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104927
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72263
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72264
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72262
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72265
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72266
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72238
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 2 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103482
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72237
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72239
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72240
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72242
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 3 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103481
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72241
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72243
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72244
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72246
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 4 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103480
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72245
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72247
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72248
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72250
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 5 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103479
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72249
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72251
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72252
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72254
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 6 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103478
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72253
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72255
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72256
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72258
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 7 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103477
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72257
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72259
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72260
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 8 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72261
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72268
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | 4K [FHDR]",Prime Box Brazil 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103476
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72267
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72269
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72270
-#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72271
-#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72272
-#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72273
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV BA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72976
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Belem FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102254
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Belem HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96523
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV Belem SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73262
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Brasilia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72629
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Brasilia SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96524
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72275
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV GO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102253
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV GO HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72278
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV GO SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72279
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior RJ FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102255
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102256
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102257
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102258
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102259
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102260
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Itapoan HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72284
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Itapoan SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72285
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Litoral/Vale do Paraiba FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102261
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Litoral/Vale do Paraiba HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102262
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Litoral/Vale do Paraiba SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102263
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV MG FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102252
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV MG HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72619
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV MG SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96525
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RJ HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72594
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RJ SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96526
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102251
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72974
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72975
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Sao Jose do Rio Preto FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102264
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Sao Jose do Rio Preto HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102265
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Sao Jose do Rio Preto SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/102266
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72595
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/77654
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72973
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/96522
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104932
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104929
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104930
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104931
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Seculo 21 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104928
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72298
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72297
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72299
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72300
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72294
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | 4K [FHDR]",Rede Vida 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103475
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72293
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72295
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72296
-#EXTINF:-1 tvg-logo="http://a5.vc/4Ve" group-title="Canais | Religiosos",RIT TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72301
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72303
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72305
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72306
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT RS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/75028
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SP FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104939
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/77963
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72598
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/77964
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT TV Alterosa HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72621
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Shoptime SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72311
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sic.png" group-title="Canais | Variedades",SIC Internacional SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72312
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72314
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | 4K [FHDR]",Smithsonian 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103473
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72313
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72315
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72316
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72318
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | 4K [FHDR]",Space 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90633
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72317
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Legendados",Space FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90677
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72319
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Legendados",Space HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90676
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72320
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Legendados",Space SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90675
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72330
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | 4K [FHDR]",SporTV3 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103471
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | 4K [FHDR]",SporTV 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72331
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72329
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72332
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72333
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72322
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | 4K [FHDR]",SporTV 2 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103472
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72321
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72323
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72324
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72326
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72325
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72327
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72328
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71937
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71936
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Legendados",Star Channel FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90707
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71938
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Legendados",Star Channel HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90706
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71951
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Legendados",Star Channel SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90705
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71948
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | 4K [FHDR]",Star Hits 2 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103470
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71947
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Legendados",Star Hits 2 FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90701
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71949
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Legendados",Star Hits 2 HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90700
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Filmes e Séries",Star Hits 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71950
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Canais | Legendados",Star Hits 2 SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90699
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71944
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | 4K [FHDR]",Star Hits 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103469
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71943
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Legendados",Star Hits FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90704
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71945
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Legendados",Star Hits HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90703
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Filmes e Séries",Star Hits SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71946
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Canais | Legendados",Star Hits SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90702
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Variedades",Star Life FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71940
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | 4K [FHDR]",Star Life 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103468
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Variedades",Star Life FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71939
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Variedades",Star Life HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71941
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais | Variedades",Star Life SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/71942
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72335
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | 4K [FHDR]",Studio Universal 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103467
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72334
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72336
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72337
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72339
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | 4K [FHDR]",SYFY 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103474
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72338
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72340
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72341
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72343
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | 4K [FHDR]",TBS 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103466
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72342
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72344
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72345
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73251
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73252
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM SD 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73253
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72347
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | 4K [FHDR]",Telecine Action 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90239
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72346
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Legendados",Telecine Action FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90668
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72348
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Legendados",Telecine Action HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90667
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72349
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Legendados",Telecine Action SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90666
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72351
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | 4K [FHDR]",Telecine Cult 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103456
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72350
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Legendados",Telecine Cult FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90665
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72352
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Legendados",Telecine Cult HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90664
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72353
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Legendados",Telecine Cult SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90663
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72355
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | 4K [FHDR]",Telecine Fun 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103455
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72354
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Legendados",Telecine Fun FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90662
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72356
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Legendados",Telecine Fun HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90661
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72357
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Legendados",Telecine Fun SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90660
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72359
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | 4K [FHDR]",Telecine Pipoca 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90238
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72358
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90659
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72360
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Legendados",Telecine Pipoca HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90658
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72361
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Legendados",Telecine Pipoca SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90657
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72363
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | 4K [FHDR]",Telecine Premium 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90237
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72362
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Legendados",Telecine Premium FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90656
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72364
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Legendados",Telecine Premium HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90655
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72365
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Legendados",Telecine Premium SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90654
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72367
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | 4K [FHDR]",Telecine Touch 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103454
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72366
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Legendados",Telecine Touch FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90653
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72368
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Legendados",Telecine Touch HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90652
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72369
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Legendados",Telecine Touch SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90651
-#EXTINF:-1 tvg-logo="http://a5.vc/uYJ" group-title="Canais | Abertos",Terra Viva SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72370
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72372
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | 4K [FHDR]",TLC 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103465
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72371
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72373
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72374
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72376
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | 4K [FHDR]",TNT 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72377
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72375
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Legendados",TNT FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90674
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72378
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Legendados",TNT HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90673
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72379
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Legendados",TNT SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90672
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72381
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | 4K [FHDR]",TNT Series 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72382
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72380
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Legendados",TNT Series FHD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90671
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72383
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Legendados",TNT Series HD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90670
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72384
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Legendados",TNT Series SD [LEG]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90669
-#EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis",Tooncast SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72385
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72387
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | 4K [FHDR]",Trace Brazuca 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103453
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72386
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72388
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72389
-#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72391
-#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | 4K [FHDR]",Travel Box Brazil 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103452
-#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72390
-#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72392
-#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72393
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Canais | Documentários",TruTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/76668
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Canais | Documentários",TruTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/76669
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="Canais | Documentários",TruTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/76670
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",TV5 Monde SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72418
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72395
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | 4K [FHDR]",TV Aparecida 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103464
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72394
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72396
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72397
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Aratu SBT Bahia HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/73260
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72398
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72400
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | 4K [FHDR]",TV Brasil 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103463
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72399
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72401
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72402
-#EXTINF:-1 tvg-logo="http://a5.vc/kpT" group-title="Canais | Abertos",TV Camara SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72403
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/cancaonova.png" group-title="Canais | Religiosos",TV Cancao Nova SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72404
-#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/92667
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | 4K [FHDR]",TV Cidade - RECORDTV 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103462
-#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/92666
-#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/92668
-#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/92669
-#EXTINF:-1 tvg-logo="https://imgur.com/E6gPoqS" group-title="Canais | 4K [FHDR]",TV Diario 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103461
-#EXTINF:-1 tvg-logo="https://imgur.com/E6gPoqS" group-title="Canais | Abertos",TV Diario Fortaleza FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/92670
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Diario Fortaleza HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72593
-#EXTINF:-1 tvg-logo="https://imgur.com/E6gPoqS" group-title="Canais | Abertos",TV Diario Fortaleza SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/92671
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Evangelizar SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72628
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104919
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104917
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72406
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Notícias",TV Gazeta SP SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/104918
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Guarapari FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/79313
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Guarapari HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/79314
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Guarapari SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/79315
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",TV Jangadeiro - SBT FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/100417
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | 4K [FHDR]",TV Jangadeiro - SBT 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103460
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Jangadeiro - SBT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/100416
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",TV Jangadeiro - SBT HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/100418
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",TV Jangadeiro - SBT SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/100419
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Justiça SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/77620
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72409
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | 4K [FHDR]",TV Novo Tempo 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103459
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72408
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72410
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72411
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72413
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72412
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72414
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72415
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | 4K [FHDR]",TV Ra Tim Bum 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103458
-#EXTINF:-1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos",TV Senado SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72416
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/100422
-#EXTINF:-1 tvg-logo="" group-title="Canais | 4K [FHDR]",TV Uniao 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/103457
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/100420
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/100423
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/100424
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",TV WA SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72417
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD [H265]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72420
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | 4K [FHDR]",Universal TV 4K FHDR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/90632
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72419
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72421
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://b5.vc:80/Rebeca123/Rebeca321/72422
+#EXTINF:-1,Warner Channel HD+
+http://163.172.103.202:8880/287994003710/287994003710/16765
+#EXTINF:-1,A&E HD+
+http://163.172.103.202:8880/287994003710/287994003710/16691
+#EXTINF:-1,AMC HD+
+http://163.172.103.202:8880/287994003710/287994003710/16692
+#EXTINF:-1,Animal Planet HD+
+http://163.172.103.202:8880/287994003710/287994003710/16693
+#EXTINF:-1,Arte 1 HD+
+http://163.172.103.202:8880/287994003710/287994003710/16694
+#EXTINF:-1,AXN HD+
+http://163.172.103.202:8880/287994003710/287994003710/16695
+#EXTINF:-1,Band News HD+
+http://163.172.103.202:8880/287994003710/287994003710/16696
+#EXTINF:-1,Band SP HD+
+http://163.172.103.202:8880/287994003710/287994003710/16697
+#EXTINF:-1,Band Sports HD+
+http://163.172.103.202:8880/287994003710/287994003710/16698
+#EXTINF:-1,Boomerang HD+
+http://163.172.103.202:8880/287994003710/287994003710/16699
+#EXTINF:-1,Canal Sony HD+
+http://163.172.103.202:8880/287994003710/287994003710/16700
+#EXTINF:-1,Cartoon Network HD+
+http://163.172.103.202:8880/287994003710/287994003710/16701
+#EXTINF:-1,Cinemax HD+
+http://163.172.103.202:8880/287994003710/287994003710/16702
+#EXTINF:-1,Combate HD+
+http://163.172.103.202:8880/287994003710/287994003710/16703
+#EXTINF:-1,Comedy Central HD+
+http://163.172.103.202:8880/287994003710/287994003710/16704
+#EXTINF:-1,Discovery Channel HD+
+http://163.172.103.202:8880/287994003710/287994003710/16705
+#EXTINF:-1,Discovery H&H HD+
+http://163.172.103.202:8880/287994003710/287994003710/16706
+#EXTINF:-1,Discovery Kids HD+
+http://163.172.103.202:8880/287994003710/287994003710/16707
+#EXTINF:-1,Discovery Science HD+
+http://163.172.103.202:8880/287994003710/287994003710/16708
+#EXTINF:-1,Discovery Theater HD+
+http://163.172.103.202:8880/287994003710/287994003710/16709
+#EXTINF:-1,Discovery TLC HD+
+http://163.172.103.202:8880/287994003710/287994003710/16710
+#EXTINF:-1,Discovery Turbo HD+
+http://163.172.103.202:8880/287994003710/287994003710/16711
+#EXTINF:-1,Discovery World HD+
+http://163.172.103.202:8880/287994003710/287994003710/16712
+#EXTINF:-1,Disney Channel HD+
+http://163.172.103.202:8880/287994003710/287994003710/16713
+#EXTINF:-1,Disney Junior HD+
+http://163.172.103.202:8880/287994003710/287994003710/16714
+#EXTINF:-1,Disney XD HD+
+http://163.172.103.202:8880/287994003710/287994003710/16715
+#EXTINF:-1,ESPN 2 HD+
+http://163.172.103.202:8880/287994003710/287994003710/16716
+#EXTINF:-1,ESPN Brasil HD+
+http://163.172.103.202:8880/287994003710/287994003710/16717
+#EXTINF:-1,ESPN HD+
+http://163.172.103.202:8880/287994003710/287994003710/16718
+#EXTINF:-1,Food Network HD+
+http://163.172.103.202:8880/287994003710/287994003710/16719
+#EXTINF:-1,STAR CHANNEL HD+
+http://163.172.103.202:8880/287994003710/287994003710/16720
+#EXTINF:-1,Fox Life HD+
+http://163.172.103.202:8880/287994003710/287994003710/16721
+#EXTINF:-1,STAR HITS 1 HD+
+http://163.172.103.202:8880/287994003710/287994003710/16722
+#EXTINF:-1,STAR HITS 2 HD+
+http://163.172.103.202:8880/287994003710/287994003710/16723
+#EXTINF:-1,Fox Sports 2 HD+
+http://163.172.103.202:8880/287994003710/287994003710/16724
+#EXTINF:-1,Fox Sports HD+
+http://163.172.103.202:8880/287994003710/287994003710/16725
+#EXTINF:-1,FX HD+
+http://163.172.103.202:8880/287994003710/287994003710/16726
+#EXTINF:-1,Globo News HD+
+http://163.172.103.202:8880/287994003710/287994003710/16727
+#EXTINF:-1,Globo Nordeste HD+
+http://163.172.103.202:8880/287994003710/287994003710/16728
+#EXTINF:-1,Globo RJ HD+
+http://163.172.103.202:8880/287994003710/287994003710/16729
+#EXTINF:-1,Globo SP HD+
+http://163.172.103.202:8880/287994003710/287994003710/16730
+#EXTINF:-1,Globo TV Bahia HD+
+http://163.172.103.202:8880/287994003710/287994003710/16731
+#EXTINF:-1,Gloob HD+
+http://163.172.103.202:8880/287994003710/287994003710/16732
+#EXTINF:-1,H2 HD+
+http://163.172.103.202:8880/287994003710/287994003710/16733
+#EXTINF:-1,HGTV HD+
+http://163.172.103.202:8880/287994003710/287994003710/16734
+#EXTINF:-1,History Channel HD+
+http://163.172.103.202:8880/287994003710/287994003710/16735
+#EXTINF:-1,ID Investigao Discovery HD+
+http://163.172.103.202:8880/287994003710/287994003710/16736
+#EXTINF:-1,Mais Globosat HD+
+http://163.172.103.202:8880/287994003710/287994003710/16737
+#EXTINF:-1,MTV HD+
+http://163.172.103.202:8880/287994003710/287994003710/16738
+#EXTINF:-1,MTV Live HD+
+http://163.172.103.202:8880/287994003710/287994003710/16739
+#EXTINF:-1,Multishow HD+
+http://163.172.103.202:8880/287994003710/287994003710/16740
+#EXTINF:-1,Nat Geo Kids HD+
+http://163.172.103.202:8880/287994003710/287994003710/16741
+#EXTINF:-1,Nat Geo Wild HD+
+http://163.172.103.202:8880/287994003710/287994003710/16742
+#EXTINF:-1,National Geographic HD+
+http://163.172.103.202:8880/287994003710/287994003710/16743
+#EXTINF:-1,Nick Jr HD+
+http://163.172.103.202:8880/287994003710/287994003710/16744
+#EXTINF:-1,Nickelodeon HD+
+http://163.172.103.202:8880/287994003710/287994003710/16745
+#EXTINF:-1,Paramount Channel HD+
+http://163.172.103.202:8880/287994003710/287994003710/16746
+#EXTINF:-1,Record News HD+
+http://163.172.103.202:8880/287994003710/287994003710/16747
+#EXTINF:-1,Record SP HD+
+http://163.172.103.202:8880/287994003710/287994003710/16748
+#EXTINF:-1,SBT SP HD+
+http://163.172.103.202:8880/287994003710/287994003710/16749
+#EXTINF:-1,Space HD+
+http://163.172.103.202:8880/287994003710/287994003710/16750
+#EXTINF:-1,SporTV 2 HD+
+http://163.172.103.202:8880/287994003710/287994003710/16751
+#EXTINF:-1,SporTV 3 HD+
+http://163.172.103.202:8880/287994003710/287994003710/16752
+#EXTINF:-1,SporTV HD+
+http://163.172.103.202:8880/287994003710/287994003710/16753
+#EXTINF:-1,Studio Universal HD+
+http://163.172.103.202:8880/287994003710/287994003710/16754
+#EXTINF:-1,SyFy HD+
+http://163.172.103.202:8880/287994003710/287994003710/16755
+#EXTINF:-1,Telecine Fun HD+
+http://163.172.103.202:8880/287994003710/287994003710/16756
+#EXTINF:-1,Telecine Pipoca HD+
+http://163.172.103.202:8880/287994003710/287994003710/16757
+#EXTINF:-1,Telecine Premium HD+
+http://163.172.103.202:8880/287994003710/287994003710/16758
+#EXTINF:-1,Telecine Touch HD+
+http://163.172.103.202:8880/287994003710/287994003710/16759
+#EXTINF:-1,TNT HD+
+http://163.172.103.202:8880/287994003710/287994003710/16760
+#EXTINF:-1,TNT Sies HD+
+http://163.172.103.202:8880/287994003710/287994003710/16761
+#EXTINF:-1,Tooncast HD+
+http://163.172.103.202:8880/287994003710/287994003710/16762
+#EXTINF:-1,Universal Channel HD+
+http://163.172.103.202:8880/287994003710/287994003710/16763
+#EXTINF:-1,Viva HD+
+http://163.172.103.202:8880/287994003710/287994003710/16764
+#EXTINF:-1,BR: A&E HD
+http://163.172.103.202:8880/287994003710/287994003710/30883
+#EXTINF:-1,BR: AMC HD
+http://163.172.103.202:8880/287994003710/287994003710/30884
+#EXTINF:-1,BR: ANIMAL PLANET HD
+http://163.172.103.202:8880/287994003710/287994003710/30885
+#EXTINF:-1,BR: ARTE 1 HD
+http://163.172.103.202:8880/287994003710/287994003710/30886
+#EXTINF:-1,BR: AXN HD
+http://163.172.103.202:8880/287994003710/287994003710/30887
+#EXTINF:-1,BR: BABY TV HD
+http://163.172.103.202:8880/287994003710/287994003710/30888
+#EXTINF:-1,BR: BAND NEWS HD
+http://163.172.103.202:8880/287994003710/287994003710/30889
+#EXTINF:-1,BR: BAND SP HD
+http://163.172.103.202:8880/287994003710/287994003710/30890
+#EXTINF:-1,BR: BAND SPORTS HD
+http://163.172.103.202:8880/287994003710/287994003710/30891
+#EXTINF:-1,BR: BIS HD
+http://163.172.103.202:8880/287994003710/287994003710/30892
+#EXTINF:-1,BR: BOOMERANG HD
+http://163.172.103.202:8880/287994003710/287994003710/30893
+#EXTINF:-1,BR: BOOMERANG SD
+http://163.172.103.202:8880/287994003710/287994003710/30894
+#EXTINF:-1,BR: Can??o Nova
+http://163.172.103.202:8880/287994003710/287994003710/30895
+#EXTINF:-1,BR: CARTOON NETWORK HD
+http://163.172.103.202:8880/287994003710/287994003710/30896
+#EXTINF:-1,BR: CINEMAX HD
+http://163.172.103.202:8880/287994003710/287994003710/30897
+#EXTINF:-1,BR: CINE 1
+http://163.172.103.202:8880/287994003710/287994003710/30898
+#EXTINF:-1,BR: CINE 2
+http://163.172.103.202:8880/287994003710/287994003710/30899
+#EXTINF:-1,BR: CINE 3
+http://163.172.103.202:8880/287994003710/287994003710/30900
+#EXTINF:-1,BR: CINE 4
+http://163.172.103.202:8880/287994003710/287994003710/30901
+#EXTINF:-1,BR: CINE 5
+http://163.172.103.202:8880/287994003710/287994003710/30902
+#EXTINF:-1,BR: CINE 6
+http://163.172.103.202:8880/287994003710/287994003710/30903
+#EXTINF:-1,BR: CINE 7
+http://163.172.103.202:8880/287994003710/287994003710/30904
+#EXTINF:-1,BR: CINE 8
+http://163.172.103.202:8880/287994003710/287994003710/30905
+#EXTINF:-1,BR: COMBATE HD
+http://163.172.103.202:8880/287994003710/287994003710/30906
+#EXTINF:-1,BR: COMEDY CENTRAL HD
+http://163.172.103.202:8880/287994003710/287994003710/30907
+#EXTINF:-1,BR: CAMPEONATO CARIOCA 1 HD
+http://163.172.103.202:8880/287994003710/287994003710/30908
+#EXTINF:-1,BR: CAMPEONATO CARIOCA 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30909
+#EXTINF:-1,BR: COPA LIBERTADORES 1 HD
+http://163.172.103.202:8880/287994003710/287994003710/30910
+#EXTINF:-1,BR COPA LIBERTADORES 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30911
+#EXTINF:-1,BR: COPA DO NORDESTE 1 HD
+http://163.172.103.202:8880/287994003710/287994003710/30912
+#EXTINF:-1,BR: COPA DO NORDESTE 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30913
+#EXTINF:-1,BR: CAMPEONATO BAIANO 2021
+http://163.172.103.202:8880/287994003710/287994003710/30914
+#EXTINF:-1,BR: CAMPEONATO BAIANO 2021 2
+http://163.172.103.202:8880/287994003710/287994003710/30915
+#EXTINF:-1,BR: CAMPEONATO SERGIPANO HD
+http://163.172.103.202:8880/287994003710/287994003710/30916
+#EXTINF:-1,BR: CULTURA HD
+http://163.172.103.202:8880/287994003710/287994003710/30917
+#EXTINF:-1,BR: CURTA! HD
+http://163.172.103.202:8880/287994003710/287994003710/30918
+#EXTINF:-1,BR: DAZN 1 HD
+http://163.172.103.202:8880/287994003710/287994003710/30919
+#EXTINF:-1,BR: DAZN 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30920
+#EXTINF:-1,BR: DISCOVERY CHANNEL HD
+http://163.172.103.202:8880/287994003710/287994003710/30921
+#EXTINF:-1,BR: DISCOVERY CHANNEL SD
+http://163.172.103.202:8880/287994003710/287994003710/30922
+#EXTINF:-1,BR: DISCOVERY HOME & HEALTH HD
+http://163.172.103.202:8880/287994003710/287994003710/30923
+#EXTINF:-1,BR: DISCOVERY KIDS HD
+http://163.172.103.202:8880/287994003710/287994003710/30924
+#EXTINF:-1,BR: DISCOVERY SCIENCE HD
+http://163.172.103.202:8880/287994003710/287994003710/30925
+#EXTINF:-1,BR: DISCOVERY THEATER HD
+http://163.172.103.202:8880/287994003710/287994003710/30926
+#EXTINF:-1,BR: DISCOVERY TLC HD
+http://163.172.103.202:8880/287994003710/287994003710/30927
+#EXTINF:-1,BR: DISCOVERY TURBO HD
+http://163.172.103.202:8880/287994003710/287994003710/30928
+#EXTINF:-1,BR: DISCOVERY WORLD HD
+http://163.172.103.202:8880/287994003710/287994003710/30929
+#EXTINF:-1,BR: DISNEY CHANNEL HD
+http://163.172.103.202:8880/287994003710/287994003710/30930
+#EXTINF:-1,BR: DISNEY JR HD
+http://163.172.103.202:8880/287994003710/287994003710/30931
+#EXTINF:-1,BR: DISNEY XD HD
+http://163.172.103.202:8880/287994003710/287994003710/30932
+#EXTINF:-1,BR: E! HD
+http://163.172.103.202:8880/287994003710/287994003710/30933
+#EXTINF:-1,BR: EI PLUS 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30934
+#EXTINF:-1,BR: EI PLUS 3 HD
+http://163.172.103.202:8880/287994003710/287994003710/30935
+#EXTINF:-1,BR: EI PLUS 4 HD
+http://163.172.103.202:8880/287994003710/287994003710/30936
+#EXTINF:-1,BR: ESPN  HD
+http://163.172.103.202:8880/287994003710/287994003710/30937
+#EXTINF:-1,BR: ESPN 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30938
+#EXTINF:-1,BR: ESPN BRASIL HD
+http://163.172.103.202:8880/287994003710/287994003710/30939
+#EXTINF:-1,BR: FISH TV HD
+http://163.172.103.202:8880/287994003710/287994003710/30940
+#EXTINF:-1,BR: FOOD NETWORK HD
+http://163.172.103.202:8880/287994003710/287994003710/30941
+#EXTINF:-1,BR: FOX HD
+http://163.172.103.202:8880/287994003710/287994003710/30942
+#EXTINF:-1,BR: FOX LIFE HD
+http://163.172.103.202:8880/287994003710/287994003710/30943
+#EXTINF:-1,BR: FOX PREMIUM 1 HD
+http://163.172.103.202:8880/287994003710/287994003710/30944
+#EXTINF:-1,BR: FOX PREMIUM 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30945
+#EXTINF:-1,BR: FOX SPORTS 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30946
+#EXTINF:-1,BR: FOX SPORTS HD
+http://163.172.103.202:8880/287994003710/287994003710/30947
+#EXTINF:-1,BR: FUTURA HD
+http://163.172.103.202:8880/287994003710/287994003710/30948
+#EXTINF:-1,BR: FX HD
+http://163.172.103.202:8880/287994003710/287994003710/30949
+#EXTINF:-1,BR: GLOBO EPTV CAMPINAS HD
+http://163.172.103.202:8880/287994003710/287994003710/30950
+#EXTINF:-1,BR: GLOBO MINAS HD
+http://163.172.103.202:8880/287994003710/287994003710/30951
+#EXTINF:-1,BR: GLOBO NEWS HD
+http://163.172.103.202:8880/287994003710/287994003710/30952
+#EXTINF:-1,BR: GLOBO NORDESTE HD
+http://163.172.103.202:8880/287994003710/287994003710/30953
+#EXTINF:-1,BR: GLOBO NSC FLORIANOPOLIS HD
+http://163.172.103.202:8880/287994003710/287994003710/30954
+#EXTINF:-1,BR: GLOBO RJ HD
+http://163.172.103.202:8880/287994003710/287994003710/30955
+#EXTINF:-1,BR: GLOBO RPC TV HD
+http://163.172.103.202:8880/287994003710/287994003710/30956
+#EXTINF:-1,BR: GLOBO SP HD
+http://163.172.103.202:8880/287994003710/287994003710/30957
+#EXTINF:-1,BR: Globo TV Sergipe HD
+http://163.172.103.202:8880/287994003710/287994003710/30958
+#EXTINF:-1,BR: GLOBOSAT HD
+http://163.172.103.202:8880/287994003710/287994003710/30959
+#EXTINF:-1,BR: GLOOB HD
+http://163.172.103.202:8880/287994003710/287994003710/30960
+#EXTINF:-1,BR: GNT HD
+http://163.172.103.202:8880/287994003710/287994003710/30961
+#EXTINF:-1,BR: H2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30962
+#EXTINF:-1,BR: HBO + PLUS HD
+http://163.172.103.202:8880/287994003710/287994003710/30963
+#EXTINF:-1,BR: HBO 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30964
+#EXTINF:-1,BR: HBO FAMILY HD
+http://163.172.103.202:8880/287994003710/287994003710/30965
+#EXTINF:-1,BR: HBO HD
+http://163.172.103.202:8880/287994003710/287994003710/30966
+#EXTINF:-1,BR: HBO MUNDI HD
+http://163.172.103.202:8880/287994003710/287994003710/30967
+#EXTINF:-1,BR: HBO POP HD
+http://163.172.103.202:8880/287994003710/287994003710/30968
+#EXTINF:-1,BR: HBO SIGNATURE HD
+http://163.172.103.202:8880/287994003710/287994003710/30969
+#EXTINF:-1,BR: HBO XTREME HD
+http://163.172.103.202:8880/287994003710/287994003710/30970
+#EXTINF:-1,BR: HGTV HD
+http://163.172.103.202:8880/287994003710/287994003710/30971
+#EXTINF:-1,BR: HISTORY CHANNEL HD
+http://163.172.103.202:8880/287994003710/287994003710/30972
+#EXTINF:-1,BR: ID - INVESTIGA?AO DISCOVERY HD
+http://163.172.103.202:8880/287994003710/287994003710/30973
+#EXTINF:-1,BR: LIFETIME HD
+http://163.172.103.202:8880/287994003710/287994003710/30974
+#EXTINF:-1,BR: MEGAPIX HD
+http://163.172.103.202:8880/287994003710/287994003710/30975
+#EXTINF:-1,BR: MTV HD
+http://163.172.103.202:8880/287994003710/287994003710/30976
+#EXTINF:-1,BR: MULTISHOW HD
+http://163.172.103.202:8880/287994003710/287994003710/30977
+#EXTINF:-1,BR: NATGEO KIDS HD
+http://163.172.103.202:8880/287994003710/287994003710/30978
+#EXTINF:-1,BR: NATGEO WILD HD
+http://163.172.103.202:8880/287994003710/287994003710/30979
+#EXTINF:-1,BR: NATIONAL GEOGRAPHIC HD
+http://163.172.103.202:8880/287994003710/287994003710/30980
+#EXTINF:-1,BR: NICK JR HD
+http://163.172.103.202:8880/287994003710/287994003710/30981
+#EXTINF:-1,BR: NICKELODEON HD
+http://163.172.103.202:8880/287994003710/287994003710/30982
+#EXTINF:-1,BR: OFF HD
+http://163.172.103.202:8880/287994003710/287994003710/30983
+#EXTINF:-1,BR: PARAMOUNT CHANNEL HD
+http://163.172.103.202:8880/287994003710/287994003710/30984
+#EXTINF:-1,BR: PREMIERE 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/30985
+#EXTINF:-1,BR: PREMIERE 3 HD
+http://163.172.103.202:8880/287994003710/287994003710/30986
+#EXTINF:-1,BR: PREMIERE 4 HD
+http://163.172.103.202:8880/287994003710/287994003710/30987
+#EXTINF:-1,BR: PREMIERE 5 HD
+http://163.172.103.202:8880/287994003710/287994003710/30988
+#EXTINF:-1,BR: PREMIERE CLUBES HD
+http://163.172.103.202:8880/287994003710/287994003710/30989
+#EXTINF:-1,BR: RECORD CAMPINAS HD
+http://163.172.103.202:8880/287994003710/287994003710/30990
+#EXTINF:-1,BR: RECORD NEWS HD
+http://163.172.103.202:8880/287994003710/287994003710/30991
+#EXTINF:-1,BR: RECORD NORDESTE HD
+http://163.172.103.202:8880/287994003710/287994003710/30992
+#EXTINF:-1,BR: Record RJ
+http://163.172.103.202:8880/287994003710/287994003710/30993
+#EXTINF:-1,BR: RECORD SP HD
+http://163.172.103.202:8880/287994003710/287994003710/30994
+#EXTINF:-1,BR: REDE TV HD
+http://163.172.103.202:8880/287994003710/287994003710/30995
+#EXTINF:-1,BR: REDE VIDA HD
+http://163.172.103.202:8880/287994003710/287994003710/30996
+#EXTINF:-1,BR: SBT GOIAS HD
+http://163.172.103.202:8880/287994003710/287994003710/30997
+#EXTINF:-1,BR: SBT HD
+http://163.172.103.202:8880/287994003710/287994003710/30998
+#EXTINF:-1,BR: SBT NORDESTE HD
+http://163.172.103.202:8880/287994003710/287994003710/30999
+#EXTINF:-1,BR: Sbt RJ HD
+http://163.172.103.202:8880/287994003710/287994003710/31000
+#EXTINF:-1,BR: SONY HD
+http://163.172.103.202:8880/287994003710/287994003710/31001
+#EXTINF:-1,BR: SPACE HD
+http://163.172.103.202:8880/287994003710/287994003710/31002
+#EXTINF:-1,BR: SPORTV 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31003
+#EXTINF:-1,BR: SPORTV 3 HD
+http://163.172.103.202:8880/287994003710/287994003710/31004
+#EXTINF:-1,BR: SPORTV HD
+http://163.172.103.202:8880/287994003710/287994003710/31005
+#EXTINF:-1,BR: STUDIO UNIVERSAL HD
+http://163.172.103.202:8880/287994003710/287994003710/31006
+#EXTINF:-1,BR: SYFY HD
+http://163.172.103.202:8880/287994003710/287994003710/31007
+#EXTINF:-1,BR: TELECINE ACTION HD
+http://163.172.103.202:8880/287994003710/287994003710/31008
+#EXTINF:-1,BR: TELECINE CULT HD
+http://163.172.103.202:8880/287994003710/287994003710/31009
+#EXTINF:-1,BR: TELECINE FUN HD
+http://163.172.103.202:8880/287994003710/287994003710/31010
+#EXTINF:-1,BR: TELECINE PIPOCA HD
+http://163.172.103.202:8880/287994003710/287994003710/31011
+#EXTINF:-1,BR: TELECINE PREMIUM HD
+http://163.172.103.202:8880/287994003710/287994003710/31012
+#EXTINF:-1,BR: TELECINE TOUCH HD
+http://163.172.103.202:8880/287994003710/287994003710/31013
+#EXTINF:-1,BR: TNT HD
+http://163.172.103.202:8880/287994003710/287994003710/31014
+#EXTINF:-1,BR: TNT ESTADIO 1 HD
+http://163.172.103.202:8880/287994003710/287994003710/31015
+#EXTINF:-1,BR: TNT ESTADIO 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31016
+#EXTINF:-1,BR: TNT S?RIES HD
+http://163.172.103.202:8880/287994003710/287994003710/31017
+#EXTINF:-1,BR: TOONCAST HD
+http://163.172.103.202:8880/287994003710/287994003710/31018
+#EXTINF:-1,BR: UNIVERSAL CHANNEL HD
+http://163.172.103.202:8880/287994003710/287994003710/31019
+#EXTINF:-1,BR: VASCO TV HD
+http://163.172.103.202:8880/287994003710/287994003710/31020
+#EXTINF:-1,BR: VH1 HD
+http://163.172.103.202:8880/287994003710/287994003710/31021
+#EXTINF:-1,BR: VIVA HD
+http://163.172.103.202:8880/287994003710/287994003710/31022
+#EXTINF:-1,BR: WARNER CHANNEL HD
+http://163.172.103.202:8880/287994003710/287994003710/31023
+#EXTINF:-1,BR: WOOHOO HD
+http://163.172.103.202:8880/287994003710/287994003710/31024
+#EXTINF:-1,BR: ZOOMOO HD
+http://163.172.103.202:8880/287994003710/287994003710/31025
+#EXTINF:-1,BR:AXN  FULL HD
+http://163.172.103.202:8880/287994003710/287994003710/31026
+#EXTINF:-1,BR:Band RJ HD
+http://163.172.103.202:8880/287994003710/287994003710/31027
+#EXTINF:-1,BR:CNN Brasil HD
+http://163.172.103.202:8880/287994003710/287994003710/31028
+#EXTINF:-1,ANIMAL PLANET 4K
+http://163.172.103.202:8880/287994003710/287994003710/31029
+#EXTINF:-1,BAND 4K
+http://163.172.103.202:8880/287994003710/287994003710/31030
+#EXTINF:-1,CARTOON NETWORK 4K
+http://163.172.103.202:8880/287994003710/287994003710/31031
+#EXTINF:-1,COMBATE 4K
+http://163.172.103.202:8880/287994003710/287994003710/31032
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://163.172.103.202:8880/287994003710/287994003710/31033
+#EXTINF:-1,ESPN 4K
+http://163.172.103.202:8880/287994003710/287994003710/31034
+#EXTINF:-1,FOX SPORTS 2 4K
+http://163.172.103.202:8880/287994003710/287994003710/31035
+#EXTINF:-1,FOX SPORTS 4K
+http://163.172.103.202:8880/287994003710/287994003710/31036
+#EXTINF:-1,GAZETA 4K
+http://163.172.103.202:8880/287994003710/287994003710/31037
+#EXTINF:-1,GLOBO 4K
+http://163.172.103.202:8880/287994003710/287994003710/31038
+#EXTINF:-1,HBO
+http://163.172.103.202:8880/287994003710/287994003710/31039
+#EXTINF:-1,MEGAPIX 4K
+http://163.172.103.202:8880/287994003710/287994003710/31040
+#EXTINF:-1,MULTISHOW 4K
+http://163.172.103.202:8880/287994003710/287994003710/31041
+#EXTINF:-1,PREMIERE CLUBES
+http://163.172.103.202:8880/287994003710/287994003710/31042
+#EXTINF:-1,RECORDTV 4K
+http://163.172.103.202:8880/287994003710/287994003710/31043
+#EXTINF:-1,REDE TV 4K
+http://163.172.103.202:8880/287994003710/287994003710/31044
+#EXTINF:-1,SBT 4K
+http://163.172.103.202:8880/287994003710/287994003710/31045
+#EXTINF:-1,SPACE 4K
+http://163.172.103.202:8880/287994003710/287994003710/31046
+#EXTINF:-1,SPORTV 4K
+http://163.172.103.202:8880/287994003710/287994003710/31047
+#EXTINF:-1,STAR CHANNEL
+http://163.172.103.202:8880/287994003710/287994003710/31048
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://163.172.103.202:8880/287994003710/287994003710/31049
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://163.172.103.202:8880/287994003710/287994003710/31050
+#EXTINF:-1,TNT 4K
+http://163.172.103.202:8880/287994003710/287994003710/31051
+#EXTINF:-1,TNT SERIES 4K
+http://163.172.103.202:8880/287994003710/287994003710/31052
+#EXTINF:-1,BAND RJ HD²
+http://163.172.103.202:8880/287994003710/287994003710/31053
+#EXTINF:-1,BAND RJ*
+http://163.172.103.202:8880/287994003710/287994003710/31054
+#EXTINF:-1,BAND RJ HD³
+http://163.172.103.202:8880/287994003710/287994003710/31055
+#EXTINF:-1,BAND RJ SD
+http://163.172.103.202:8880/287994003710/287994003710/31056
+#EXTINF:-1,SÉRIES ANTIGAS CANAL 29
+http://163.172.103.202:8880/287994003710/287994003710/31057
+#EXTINF:-1,TV ALTIORA
+http://163.172.103.202:8880/287994003710/287994003710/31058
+#EXTINF:-1,BAND CAMPINAS ¹
+http://163.172.103.202:8880/287994003710/287994003710/31059
+#EXTINF:-1,BAND FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31060
+#EXTINF:-1,BAND HD
+http://163.172.103.202:8880/287994003710/287994003710/31061
+#EXTINF:-1,BAND PA (RBATV)
+http://163.172.103.202:8880/287994003710/287994003710/31062
+#EXTINF:-1,CANAL BRASIL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31063
+#EXTINF:-1,CANAL DO BOI
+http://163.172.103.202:8880/287994003710/287994003710/31064
+#EXTINF:-1,CINE TRIANON TV
+http://163.172.103.202:8880/287994003710/287994003710/31065
+#EXTINF:-1,CLASSIQUE TV
+http://163.172.103.202:8880/287994003710/287994003710/31066
+#EXTINF:-1,CLASSIQUE TV 2
+http://163.172.103.202:8880/287994003710/287994003710/31067
+#EXTINF:-1,CTV
+http://163.172.103.202:8880/287994003710/287994003710/31068
+#EXTINF:-1,GAZETA ¹ SP
+http://163.172.103.202:8880/287994003710/287994003710/31069
+#EXTINF:-1,GOSPEL CARTOON
+http://163.172.103.202:8880/287994003710/287994003710/31070
+#EXTINF:-1,REDE TV FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31071
+#EXTINF:-1,REDE TV HD
+http://163.172.103.202:8880/287994003710/287994003710/31072
+#EXTINF:-1,REDE TV RS TV PAMPA
+http://163.172.103.202:8880/287994003710/287994003710/31073
+#EXTINF:-1,REDE TV SUL1
+http://163.172.103.202:8880/287994003710/287994003710/31074
+#EXTINF:-1,SBT
+http://163.172.103.202:8880/287994003710/287994003710/31075
+#EXTINF:-1,SBT FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31076
+#EXTINF:-1,SBT RJ ¹
+http://163.172.103.202:8880/287994003710/287994003710/31077
+#EXTINF:-1,SBT TV ALTEROSA HD
+http://163.172.103.202:8880/287994003710/287994003710/31078
+#EXTINF:-1,SBT TV JANGADEIRO HD
+http://163.172.103.202:8880/287994003710/287994003710/31079
+#EXTINF:-1,SBT TV SERRA DOURADA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31080
+#EXTINF:-1,TV AGUA BOA
+http://163.172.103.202:8880/287994003710/287994003710/31081
+#EXTINF:-1,TV ARATU HD
+http://163.172.103.202:8880/287994003710/287994003710/31082
+#EXTINF:-1,TV CULTURA
+http://163.172.103.202:8880/287994003710/287994003710/31083
+#EXTINF:-1,TV CULTURA HD
+http://163.172.103.202:8880/287994003710/287994003710/31084
+#EXTINF:-1,TV DIARIO FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31085
+#EXTINF:-1,TV DIGITAL BIRIGUI
+http://163.172.103.202:8880/287994003710/287994003710/31086
+#EXTINF:-1,TV GAZETA
+http://163.172.103.202:8880/287994003710/287994003710/31087
+#EXTINF:-1,TV GAZETA NORTE MINEIRA
+http://163.172.103.202:8880/287994003710/287994003710/31088
+#EXTINF:-1,Tv Itapetininga
+http://163.172.103.202:8880/287994003710/287994003710/31089
+#EXTINF:-1,TV JAPI
+http://163.172.103.202:8880/287994003710/287994003710/31090
+#EXTINF:-1,TV JORNAL DO NORDESTE
+http://163.172.103.202:8880/287994003710/287994003710/31091
+#EXTINF:-1,TV JUSTIÇA
+http://163.172.103.202:8880/287994003710/287994003710/31092
+#EXTINF:-1,TV LIBERDADE 2
+http://163.172.103.202:8880/287994003710/287994003710/31093
+#EXTINF:-1,TV LIBERDADE ONLINE
+http://163.172.103.202:8880/287994003710/287994003710/31094
+#EXTINF:-1,TV MANCHETE
+http://163.172.103.202:8880/287994003710/287994003710/31095
+#EXTINF:-1,TV MONTANHA BRANCA
+http://163.172.103.202:8880/287994003710/287994003710/31096
+#EXTINF:-1,TV NOVA ONDA
+http://163.172.103.202:8880/287994003710/287994003710/31097
+#EXTINF:-1,TV SERIES(Anos 60,70,80e90)
+http://163.172.103.202:8880/287994003710/287994003710/31098
+#EXTINF:-1,TV SERRA VERDE
+http://163.172.103.202:8880/287994003710/287994003710/31099
+#EXTINF:-1,TV SERTÃO
+http://163.172.103.202:8880/287994003710/287994003710/31100
+#EXTINF:-1,TV UNIÃO DE NATAL
+http://163.172.103.202:8880/287994003710/287994003710/31101
+#EXTINF:-1,TVE BA HD
+http://163.172.103.202:8880/287994003710/287994003710/31102
+#EXTINF:-1,WEB TV PROGRESSO
+http://163.172.103.202:8880/287994003710/287994003710/31103
+#EXTINF:-1,ANIMAL PLANET FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31104
+#EXTINF:-1,ANIMAL PLANET HD
+http://163.172.103.202:8880/287994003710/287994003710/31105
+#EXTINF:-1,DISCOVERY CHANNEL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31106
+#EXTINF:-1,DISCOVERY HOME & HEALTH FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31107
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://163.172.103.202:8880/287994003710/287994003710/31108
+#EXTINF:-1,DISCOVERY ID FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31109
+#EXTINF:-1,DISCOVERY ID HD
+http://163.172.103.202:8880/287994003710/287994003710/31110
+#EXTINF:-1,DISCOVERY SCIENCE FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31111
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://163.172.103.202:8880/287994003710/287994003710/31112
+#EXTINF:-1,DISCOVERY THEATHER FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31113
+#EXTINF:-1,DISCOVERY TURBO FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31114
+#EXTINF:-1,DISCOVERY TURBO HD
+http://163.172.103.202:8880/287994003710/287994003710/31115
+#EXTINF:-1,DISCOVERY WORLD FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31116
+#EXTINF:-1,DISCOVERY WORLD HD
+http://163.172.103.202:8880/287994003710/287994003710/31117
+#EXTINF:-1,H2 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31118
+#EXTINF:-1,H2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31119
+#EXTINF:-1,HGTV FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31120
+#EXTINF:-1,HGTV HD
+http://163.172.103.202:8880/287994003710/287994003710/31121
+#EXTINF:-1,HISTORY FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31122
+#EXTINF:-1,HISTORY HD
+http://163.172.103.202:8880/287994003710/287994003710/31123
+#EXTINF:-1,NATGEO FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31124
+#EXTINF:-1,NATGEO HD
+http://163.172.103.202:8880/287994003710/287994003710/31125
+#EXTINF:-1,NATGEO WILD FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31126
+#EXTINF:-1,NATGEO WILD HD
+http://163.172.103.202:8880/287994003710/287994003710/31127
+#EXTINF:-1,SMITHSONIAN HD
+http://163.172.103.202:8880/287994003710/287994003710/31128
+#EXTINF:-1,TLC FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31129
+#EXTINF:-1,TRAVEL BOX BRAZIL
+http://163.172.103.202:8880/287994003710/287994003710/31130
+#EXTINF:-1,ALL SPORTS TV²
+http://163.172.103.202:8880/287994003710/287994003710/31131
+#EXTINF:-1,ALL SPORTS
+http://163.172.103.202:8880/287994003710/287994003710/31132
+#EXTINF:-1,BAND SPORTS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31133
+#EXTINF:-1,BAND SPORTS HD
+http://163.172.103.202:8880/287994003710/287994003710/31134
+#EXTINF:-1,BAND SPORTS HD*
+http://163.172.103.202:8880/287994003710/287994003710/31135
+#EXTINF:-1,COMBATE FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31136
+#EXTINF:-1,COMBATE HD
+http://163.172.103.202:8880/287994003710/287994003710/31137
+#EXTINF:-1,COMBATE HD*
+http://163.172.103.202:8880/287994003710/287994003710/31138
+#EXTINF:-1,ESPN 2 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31139
+#EXTINF:-1,ESPN 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31140
+#EXTINF:-1,ESPN 2 HD+
+http://163.172.103.202:8880/287994003710/287994003710/31141
+#EXTINF:-1,ESPN BRASIL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31142
+#EXTINF:-1,ESPN BRASIL HD
+http://163.172.103.202:8880/287994003710/287994003710/31143
+#EXTINF:-1,ESPN BRASIL HD+
+http://163.172.103.202:8880/287994003710/287994003710/31144
+#EXTINF:-1,ESPN EXTRA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31145
+#EXTINF:-1,ESPN EXTRA HD
+http://163.172.103.202:8880/287994003710/287994003710/31146
+#EXTINF:-1,ESPN EXTRA HD+
+http://163.172.103.202:8880/287994003710/287994003710/31147
+#EXTINF:-1,ESPN FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31148
+#EXTINF:-1,ESPN HD
+http://163.172.103.202:8880/287994003710/287994003710/31149
+#EXTINF:-1,ESPN HD+
+http://163.172.103.202:8880/287994003710/287994003710/31150
+#EXTINF:-1,FISH TV FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31151
+#EXTINF:-1,FISH TV HD
+http://163.172.103.202:8880/287994003710/287994003710/31152
+#EXTINF:-1,FOX SPORTS 2 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31153
+#EXTINF:-1,FOX SPORTS 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31154
+#EXTINF:-1,FOX SPORTS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31155
+#EXTINF:-1,FOX SPORTS HD
+http://163.172.103.202:8880/287994003710/287994003710/31156
+#EXTINF:-1,FOX SPORTS HD*
+http://163.172.103.202:8880/287994003710/287994003710/31157
+#EXTINF:-1,GOLF CHANNEL HD
+http://163.172.103.202:8880/287994003710/287994003710/31158
+#EXTINF:-1,OFF FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31159
+#EXTINF:-1,OFF HD
+http://163.172.103.202:8880/287994003710/287994003710/31160
+#EXTINF:-1,OFF HD*
+http://163.172.103.202:8880/287994003710/287994003710/31161
+#EXTINF:-1,SPORTV 2 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31162
+#EXTINF:-1,SPORTV 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31163
+#EXTINF:-1,SPORTV 2 HD*
+http://163.172.103.202:8880/287994003710/287994003710/31164
+#EXTINF:-1,SPORTV 3 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31165
+#EXTINF:-1,SPORTV 3 HD
+http://163.172.103.202:8880/287994003710/287994003710/31166
+#EXTINF:-1,SPORTV 3 HD*
+http://163.172.103.202:8880/287994003710/287994003710/31167
+#EXTINF:-1,SPORTV FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31168
+#EXTINF:-1,SPORTV HD
+http://163.172.103.202:8880/287994003710/287994003710/31169
+#EXTINF:-1,SPORTV HD*
+http://163.172.103.202:8880/287994003710/287994003710/31170
+#EXTINF:-1,WOOHOO FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31171
+#EXTINF:-1,WOOHOO HD
+http://163.172.103.202:8880/287994003710/287994003710/31172
+#EXTINF:-1,BOTAFOGO TV 01 HD
+http://163.172.103.202:8880/287994003710/287994003710/31173
+#EXTINF:-1,BOTAFOGO TV 01 SD
+http://163.172.103.202:8880/287994003710/287994003710/31174
+#EXTINF:-1,BOTAFOGO TV 02 HD
+http://163.172.103.202:8880/287994003710/287994003710/31175
+#EXTINF:-1,BOTAFOGO TV 02 SD
+http://163.172.103.202:8880/287994003710/287994003710/31176
+#EXTINF:-1,CAMPEONATO MINEIRO 01 HD
+http://163.172.103.202:8880/287994003710/287994003710/31177
+#EXTINF:-1,CAMPEONATO MINEIRO 02 HD
+http://163.172.103.202:8880/287994003710/287994003710/31178
+#EXTINF:-1,CAMPEONATO MINEIRO 02 SD
+http://163.172.103.202:8880/287994003710/287994003710/31179
+#EXTINF:-1,CARIOCÃO
+http://163.172.103.202:8880/287994003710/287994003710/31180
+#EXTINF:-1,CARIOCÃO 2
+http://163.172.103.202:8880/287994003710/287994003710/31181
+#EXTINF:-1,CARIOCÃO 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31182
+#EXTINF:-1,CARIOCÃO FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31183
+#EXTINF:-1,CARIOCÃO HD
+http://163.172.103.202:8880/287994003710/287994003710/31184
+#EXTINF:-1,CONMEBOL 1
+http://163.172.103.202:8880/287994003710/287994003710/31185
+#EXTINF:-1,CONMEBOL 1 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31186
+#EXTINF:-1,CONMEBOL 2
+http://163.172.103.202:8880/287994003710/287994003710/31187
+#EXTINF:-1,CONMEBOL 2 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31188
+#EXTINF:-1,CONMEBOL 3
+http://163.172.103.202:8880/287994003710/287994003710/31189
+#EXTINF:-1,CONMEBOL 3 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31190
+#EXTINF:-1,CONMEBOL 4
+http://163.172.103.202:8880/287994003710/287994003710/31191
+#EXTINF:-1,CONMEBOL 4 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31192
+#EXTINF:-1,COPA CATARINENSE
+http://163.172.103.202:8880/287994003710/287994003710/31193
+#EXTINF:-1,COPA CATARINENSE 2
+http://163.172.103.202:8880/287994003710/287994003710/31194
+#EXTINF:-1,COPA CATARINENSE 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31195
+#EXTINF:-1,COPA CATARINENSE 3
+http://163.172.103.202:8880/287994003710/287994003710/31196
+#EXTINF:-1,COPA CATARINENSE 3 HD
+http://163.172.103.202:8880/287994003710/287994003710/31197
+#EXTINF:-1,COPA CATARINENSE 4
+http://163.172.103.202:8880/287994003710/287994003710/31198
+#EXTINF:-1,COPA CATARINENSE 4 HD
+http://163.172.103.202:8880/287994003710/287994003710/31199
+#EXTINF:-1,COPA CATARINENSE HD
+http://163.172.103.202:8880/287994003710/287994003710/31200
+#EXTINF:-1,COPA DO NORDESTE
+http://163.172.103.202:8880/287994003710/287994003710/31201
+#EXTINF:-1,COPA DO NORDESTE 2
+http://163.172.103.202:8880/287994003710/287994003710/31202
+#EXTINF:-1,COPA DO NORDESTE 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31203
+#EXTINF:-1,COPA DO NORDESTE 3
+http://163.172.103.202:8880/287994003710/287994003710/31204
+#EXTINF:-1,COPA DO NORDESTE 3 HD
+http://163.172.103.202:8880/287994003710/287994003710/31205
+#EXTINF:-1,COPA DO NORDESTE HD
+http://163.172.103.202:8880/287994003710/287994003710/31206
+#EXTINF:-1,DAZN FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31207
+#EXTINF:-1,DAZN OFICIAL
+http://163.172.103.202:8880/287994003710/287994003710/31208
+#EXTINF:-1,DAZN2
+http://163.172.103.202:8880/287994003710/287994003710/31209
+#EXTINF:-1,DAZN2 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31210
+#EXTINF:-1,DAZN2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31211
+#EXTINF:-1,DAZN²
+http://163.172.103.202:8880/287994003710/287994003710/31212
+#EXTINF:-1,FLATV 01 HD
+http://163.172.103.202:8880/287994003710/287994003710/31213
+#EXTINF:-1,FLATV 01 SD
+http://163.172.103.202:8880/287994003710/287994003710/31214
+#EXTINF:-1,FLATV 02 HD
+http://163.172.103.202:8880/287994003710/287994003710/31215
+#EXTINF:-1,FLATV 02 SD
+http://163.172.103.202:8880/287994003710/287994003710/31216
+#EXTINF:-1,LIGA FUTSAL 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31217
+#EXTINF:-1,LIGA FUTSAL 2 SD
+http://163.172.103.202:8880/287994003710/287994003710/31218
+#EXTINF:-1,LIGA FUTSAL HD
+http://163.172.103.202:8880/287994003710/287994003710/31219
+#EXTINF:-1,LIGA FUTSAL SD
+http://163.172.103.202:8880/287994003710/287994003710/31220
+#EXTINF:-1,ONE FOOTBALL 03 HD
+http://163.172.103.202:8880/287994003710/287994003710/31221
+#EXTINF:-1,TNT SPORTS
+http://163.172.103.202:8880/287994003710/287994003710/31222
+#EXTINF:-1,TNT SPORTS 2
+http://163.172.103.202:8880/287994003710/287994003710/31223
+#EXTINF:-1,TNT SPORTS 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31224
+#EXTINF:-1,TNT SPORTS 3
+http://163.172.103.202:8880/287994003710/287994003710/31225
+#EXTINF:-1,TNT SPORTS 3 HD
+http://163.172.103.202:8880/287994003710/287994003710/31226
+#EXTINF:-1,TNT SPORTS 4 HD
+http://163.172.103.202:8880/287994003710/287994003710/31227
+#EXTINF:-1,TNT SPORTS 4 SD
+http://163.172.103.202:8880/287994003710/287994003710/31228
+#EXTINF:-1,TNT SPORTS 5 HD
+http://163.172.103.202:8880/287994003710/287994003710/31229
+#EXTINF:-1,TNT SPORTS 5 SD
+http://163.172.103.202:8880/287994003710/287994003710/31230
+#EXTINF:-1,TNT SPORTS 6 HD
+http://163.172.103.202:8880/287994003710/287994003710/31231
+#EXTINF:-1,TNT SPORTS 6 SD
+http://163.172.103.202:8880/287994003710/287994003710/31232
+#EXTINF:-1,TNT SPORTS 7 HD
+http://163.172.103.202:8880/287994003710/287994003710/31233
+#EXTINF:-1,TNT SPORTS 7 SD
+http://163.172.103.202:8880/287994003710/287994003710/31234
+#EXTINF:-1,TNT SPORTS 8 HD
+http://163.172.103.202:8880/287994003710/287994003710/31235
+#EXTINF:-1,TNT SPORTS 8 SD
+http://163.172.103.202:8880/287994003710/287994003710/31236
+#EXTINF:-1,TNT SPORTS HD
+http://163.172.103.202:8880/287994003710/287994003710/31237
+#EXTINF:-1,VASCO TV 01 HD
+http://163.172.103.202:8880/287994003710/287994003710/31238
+#EXTINF:-1,VASCO TV 01 SD
+http://163.172.103.202:8880/287994003710/287994003710/31239
+#EXTINF:-1,VASCO TV 02 HD
+http://163.172.103.202:8880/287994003710/287994003710/31240
+#EXTINF:-1,VASCO TV 02 SD
+http://163.172.103.202:8880/287994003710/287994003710/31241
+#EXTINF:-1,BTV
+http://163.172.103.202:8880/287994003710/287994003710/31242
+#EXTINF:-1,ELEVEN SPORTS 1
+http://163.172.103.202:8880/287994003710/287994003710/31243
+#EXTINF:-1,ELEVEN SPORTS 2
+http://163.172.103.202:8880/287994003710/287994003710/31244
+#EXTINF:-1,ELEVEN SPORTS 3
+http://163.172.103.202:8880/287994003710/287994003710/31245
+#EXTINF:-1,GOLF CHANNEL
+http://163.172.103.202:8880/287994003710/287994003710/31246
+#EXTINF:-1,MLB NETWORK
+http://163.172.103.202:8880/287994003710/287994003710/31247
+#EXTINF:-1,NBA TV
+http://163.172.103.202:8880/287994003710/287994003710/31248
+#EXTINF:-1,NFL NETWORK HD
+http://163.172.103.202:8880/287994003710/287994003710/31249
+#EXTINF:-1,RED BULL TV
+http://163.172.103.202:8880/287994003710/287994003710/31250
+#EXTINF:-1,SPORT TV +
+http://163.172.103.202:8880/287994003710/287994003710/31251
+#EXTINF:-1,SPORT TV 1
+http://163.172.103.202:8880/287994003710/287994003710/31252
+#EXTINF:-1,SPORT TV 2
+http://163.172.103.202:8880/287994003710/287994003710/31253
+#EXTINF:-1,SPORT TV 3
+http://163.172.103.202:8880/287994003710/287994003710/31254
+#EXTINF:-1,SPORT TV 4
+http://163.172.103.202:8880/287994003710/287994003710/31255
+#EXTINF:-1,SPORT TV 5
+http://163.172.103.202:8880/287994003710/287994003710/31256
+#EXTINF:-1,SPORT TV NBA
+http://163.172.103.202:8880/287994003710/287994003710/31257
+#EXTINF:-1,SPORTING TV
+http://163.172.103.202:8880/287994003710/287994003710/31258
+#EXTINF:-1,ABU DHABI SPORTS 01
+http://163.172.103.202:8880/287994003710/287994003710/31259
+#EXTINF:-1,ABU DHABI SPORTS 02
+http://163.172.103.202:8880/287994003710/287994003710/31260
+#EXTINF:-1,ABU DHABI SPORTS 03
+http://163.172.103.202:8880/287994003710/287994003710/31261
+#EXTINF:-1,ABU DHABI SPORTS 04
+http://163.172.103.202:8880/287994003710/287994003710/31262
+#EXTINF:-1,AL KASS SPORTS 01
+http://163.172.103.202:8880/287994003710/287994003710/31263
+#EXTINF:-1,AL KASS SPORTS 02
+http://163.172.103.202:8880/287994003710/287994003710/31264
+#EXTINF:-1,AL KASS SPORTS 03
+http://163.172.103.202:8880/287994003710/287994003710/31265
+#EXTINF:-1,AL KASS SPORTS 04
+http://163.172.103.202:8880/287994003710/287994003710/31266
+#EXTINF:-1,AL KASS SPORTS 05
+http://163.172.103.202:8880/287994003710/287994003710/31267
+#EXTINF:-1,A&E FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31268
+#EXTINF:-1,AMC HD
+http://163.172.103.202:8880/287994003710/287994003710/31269
+#EXTINF:-1,AXN FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31270
+#EXTINF:-1,AXN HD
+http://163.172.103.202:8880/287994003710/287994003710/31271
+#EXTINF:-1,CANAL SONY FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31272
+#EXTINF:-1,CANAL SONY HD
+http://163.172.103.202:8880/287994003710/287994003710/31273
+#EXTINF:-1,CINEMAX FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31274
+#EXTINF:-1,CINEMAX HD
+http://163.172.103.202:8880/287994003710/287994003710/31275
+#EXTINF:-1,FX FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31276
+#EXTINF:-1,FX HD
+http://163.172.103.202:8880/287994003710/287994003710/31277
+#EXTINF:-1,MEGAPIX FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31278
+#EXTINF:-1,MEGAPIX HD
+http://163.172.103.202:8880/287994003710/287994003710/31279
+#EXTINF:-1,PARAMOUNT CHANNEL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31280
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://163.172.103.202:8880/287994003710/287994003710/31281
+#EXTINF:-1,SPACE FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31282
+#EXTINF:-1,SPACE HD
+http://163.172.103.202:8880/287994003710/287994003710/31283
+#EXTINF:-1,SPACE HD*
+http://163.172.103.202:8880/287994003710/287994003710/31284
+#EXTINF:-1,STAR CHANNEL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31285
+#EXTINF:-1,STAR CHANNEL HD
+http://163.172.103.202:8880/287994003710/287994003710/31286
+#EXTINF:-1,STAR HITS 1 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31287
+#EXTINF:-1,STAR HITS 2 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31288
+#EXTINF:-1,STAR HITS 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31289
+#EXTINF:-1,STAR HITS HD
+http://163.172.103.202:8880/287994003710/287994003710/31290
+#EXTINF:-1,STUDIO UNIVERSAL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31291
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://163.172.103.202:8880/287994003710/287994003710/31292
+#EXTINF:-1,SYFY FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31293
+#EXTINF:-1,SYFY HD
+http://163.172.103.202:8880/287994003710/287994003710/31294
+#EXTINF:-1,TBS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31295
+#EXTINF:-1,TBS HD
+http://163.172.103.202:8880/287994003710/287994003710/31296
+#EXTINF:-1,TCM FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31297
+#EXTINF:-1,TCM HD
+http://163.172.103.202:8880/287994003710/287994003710/31298
+#EXTINF:-1,TNT FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31299
+#EXTINF:-1,TNT HD
+http://163.172.103.202:8880/287994003710/287994003710/31300
+#EXTINF:-1,TNT SERIES FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31301
+#EXTINF:-1,TNT SERIES HD
+http://163.172.103.202:8880/287994003710/287994003710/31302
+#EXTINF:-1,UNIVERSAL CHANNEL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31303
+#EXTINF:-1,UNIVERSAL TV HD
+http://163.172.103.202:8880/287994003710/287994003710/31304
+#EXTINF:-1,WARNER CHANNEL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31305
+#EXTINF:-1,CINE DISNEY HD
+http://163.172.103.202:8880/287994003710/287994003710/31306
+#EXTINF:-1,CINE FAROESTE HD
+http://163.172.103.202:8880/287994003710/287994003710/31307
+#EXTINF:-1,CINE LIGA DA JUSTIÇA HD
+http://163.172.103.202:8880/287994003710/287994003710/31308
+#EXTINF:-1,CINE MARVEL HD
+http://163.172.103.202:8880/287994003710/287994003710/31309
+#EXTINF:-1,CINE PIPOCA 1
+http://163.172.103.202:8880/287994003710/287994003710/31310
+#EXTINF:-1,CINE PIPOCA 2
+http://163.172.103.202:8880/287994003710/287994003710/31311
+#EXTINF:-1,CINE PIPOCA 3
+http://163.172.103.202:8880/287994003710/287994003710/31312
+#EXTINF:-1,CINE PIPOCA 4
+http://163.172.103.202:8880/287994003710/287994003710/31313
+#EXTINF:-1,CINE PIPOCA 5
+http://163.172.103.202:8880/287994003710/287994003710/31314
+#EXTINF:-1,CINE SESSÃO DA TARDE HD
+http://163.172.103.202:8880/287994003710/287994003710/31315
+#EXTINF:-1,CINE SKY 01 HD
+http://163.172.103.202:8880/287994003710/287994003710/31316
+#EXTINF:-1,CINE SKY 02 HD
+http://163.172.103.202:8880/287994003710/287994003710/31317
+#EXTINF:-1,CINE SKY 03 HD
+http://163.172.103.202:8880/287994003710/287994003710/31318
+#EXTINF:-1,CINE SKY 04 HD
+http://163.172.103.202:8880/287994003710/287994003710/31319
+#EXTINF:-1,CINE SKY 05 HD
+http://163.172.103.202:8880/287994003710/287994003710/31320
+#EXTINF:-1,CINE SKY 06 HD
+http://163.172.103.202:8880/287994003710/287994003710/31321
+#EXTINF:-1,CINE SKY 07 HD
+http://163.172.103.202:8880/287994003710/287994003710/31322
+#EXTINF:-1,CINE SKY 10 HD
+http://163.172.103.202:8880/287994003710/287994003710/31323
+#EXTINF:-1,CINE SKY 8 HD
+http://163.172.103.202:8880/287994003710/287994003710/31324
+#EXTINF:-1,CINE SKY 9 HD
+http://163.172.103.202:8880/287994003710/287994003710/31325
+#EXTINF:-1,CINE TRAPALHÕES HD
+http://163.172.103.202:8880/287994003710/287994003710/31326
+#EXTINF:-1,CLASSIC FILMES
+http://163.172.103.202:8880/287994003710/287994003710/31327
+#EXTINF:-1,GOSPEL MOVIE
+http://163.172.103.202:8880/287994003710/287994003710/31328
+#EXTINF:-1,NOVA CINEMA
+http://163.172.103.202:8880/287994003710/287994003710/31329
+#EXTINF:-1,TVSÉRIES
+http://163.172.103.202:8880/287994003710/287994003710/31330
+#EXTINF:-1,VINTAGE MOVIES
+http://163.172.103.202:8880/287994003710/287994003710/31331
+#EXTINF:-1,GLOBO BAHIA HD¹
+http://163.172.103.202:8880/287994003710/287994003710/31332
+#EXTINF:-1,GLOBO BELEM HD
+http://163.172.103.202:8880/287994003710/287994003710/31333
+#EXTINF:-1,GLOBO BRASILIA FHD H265
+http://163.172.103.202:8880/287994003710/287994003710/31334
+#EXTINF:-1,GLOBO BRASILIA HD²
+http://163.172.103.202:8880/287994003710/287994003710/31335
+#EXTINF:-1,GLOBO BRASILIA HD¹
+http://163.172.103.202:8880/287994003710/287994003710/31336
+#EXTINF:-1,GLOBO CENTRO AMERICA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31337
+#EXTINF:-1,GLOBO CENTRO AMÉRICA HD²
+http://163.172.103.202:8880/287994003710/287994003710/31338
+#EXTINF:-1,GLOBO CURITIBA HD
+http://163.172.103.202:8880/287994003710/287994003710/31339
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://163.172.103.202:8880/287994003710/287994003710/31340
+#EXTINF:-1,GLOBO EPTV CAMPINAS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31341
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://163.172.103.202:8880/287994003710/287994003710/31342
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO
+http://163.172.103.202:8880/287994003710/287994003710/31343
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO
+http://163.172.103.202:8880/287994003710/287994003710/31344
+#EXTINF:-1,GLOBO EPTV SAO CARLOS
+http://163.172.103.202:8880/287994003710/287994003710/31345
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31346
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://163.172.103.202:8880/287994003710/287994003710/31347
+#EXTINF:-1,GLOBO FLORIANOPOLIS
+http://163.172.103.202:8880/287994003710/287994003710/31348
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD
+http://163.172.103.202:8880/287994003710/287994003710/31349
+#EXTINF:-1,GLOBO GAZETA SUL ALEGRE ES HD
+http://163.172.103.202:8880/287994003710/287994003710/31350
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
+http://163.172.103.202:8880/287994003710/287994003710/31351
+#EXTINF:-1,GLOBO INTER TV CABUGI
+http://163.172.103.202:8880/287994003710/287994003710/31352
+#EXTINF:-1,GLOBO INTER TV CABUGI HD²
+http://163.172.103.202:8880/287994003710/287994003710/31353
+#EXTINF:-1,GLOBO INTER TV CABUGI²
+http://163.172.103.202:8880/287994003710/287994003710/31354
+#EXTINF:-1,GLOBO INTER TV DOS VALES HD²
+http://163.172.103.202:8880/287994003710/287994003710/31355
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31356
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://163.172.103.202:8880/287994003710/287994003710/31357
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://163.172.103.202:8880/287994003710/287994003710/31358
+#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
+http://163.172.103.202:8880/287994003710/287994003710/31359
+#EXTINF:-1,GLOBO INTERTV ALTO LITORAL HD²
+http://163.172.103.202:8880/287994003710/287994003710/31360
+#EXTINF:-1,GLOBO MINAS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31361
+#EXTINF:-1,GLOBO MINAS HD
+http://163.172.103.202:8880/287994003710/287994003710/31362
+#EXTINF:-1,GLOBO MINAS HD²
+http://163.172.103.202:8880/287994003710/287994003710/31363
+#EXTINF:-1,GLOBO MINAS HD¹
+http://163.172.103.202:8880/287994003710/287994003710/31364
+#EXTINF:-1,GLOBO MINAS²
+http://163.172.103.202:8880/287994003710/287994003710/31365
+#EXTINF:-1,GLOBO NACIONAL HD
+http://163.172.103.202:8880/287994003710/287994003710/31366
+#EXTINF:-1,GLOBO NORDESTE
+http://163.172.103.202:8880/287994003710/287994003710/31367
+#EXTINF:-1,GLOBO NORDESTE FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31368
+#EXTINF:-1,GLOBO NORDESTE HD
+http://163.172.103.202:8880/287994003710/287994003710/31369
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31370
+#EXTINF:-1,GLOBO NSC JOINVILLE HD
+http://163.172.103.202:8880/287994003710/287994003710/31371
+#EXTINF:-1,GLOBO NSC TV BLUMENAL HD
+http://163.172.103.202:8880/287994003710/287994003710/31372
+#EXTINF:-1,GLOBO NSC TV BLUMENAU HD
+http://163.172.103.202:8880/287994003710/287994003710/31373
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD
+http://163.172.103.202:8880/287994003710/287994003710/31374
+#EXTINF:-1,GLOBO NSC TV CRICIUMA HD
+http://163.172.103.202:8880/287994003710/287994003710/31375
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
+http://163.172.103.202:8880/287994003710/287994003710/31376
+#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
+http://163.172.103.202:8880/287994003710/287994003710/31377
+#EXTINF:-1,GLOBO PARAIBA HD¹
+http://163.172.103.202:8880/287994003710/287994003710/31378
+#EXTINF:-1,GLOBO RBS HD¹
+http://163.172.103.202:8880/287994003710/287994003710/31379
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE²
+http://163.172.103.202:8880/287994003710/287994003710/31380
+#EXTINF:-1,GLOBO RBS SANTA MARIA HD
+http://163.172.103.202:8880/287994003710/287994003710/31381
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://163.172.103.202:8880/287994003710/287994003710/31382
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://163.172.103.202:8880/287994003710/287994003710/31383
+#EXTINF:-1,GLOBO RBS TV PELOTAS HD
+http://163.172.103.202:8880/287994003710/287994003710/31384
+#EXTINF:-1,GLOBO RBS TV POA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31385
+#EXTINF:-1,GLOBO RBS TV POÁ FHD H265
+http://163.172.103.202:8880/287994003710/287994003710/31386
+#EXTINF:-1,GLOBO RECIFE HD
+http://163.172.103.202:8880/287994003710/287994003710/31387
+#EXTINF:-1,GLOBO REDE AMAZONICA
+http://163.172.103.202:8880/287994003710/287994003710/31388
+#EXTINF:-1,GLOBO REDE AMAZONICA HD
+http://163.172.103.202:8880/287994003710/287994003710/31389
+#EXTINF:-1,GLOBO RIO
+http://163.172.103.202:8880/287994003710/287994003710/31390
+#EXTINF:-1,GLOBO RIO FHD H265
+http://163.172.103.202:8880/287994003710/287994003710/31391
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL
+http://163.172.103.202:8880/287994003710/287994003710/31392
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL HD
+http://163.172.103.202:8880/287994003710/287994003710/31393
+#EXTINF:-1,GLOBO RIO HD²
+http://163.172.103.202:8880/287994003710/287994003710/31394
+#EXTINF:-1,GLOBO RIO INTERIOR HD
+http://163.172.103.202:8880/287994003710/287994003710/31395
+#EXTINF:-1,GLOBO RJ FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31396
+#EXTINF:-1,GLOBO RJ HD+
+http://163.172.103.202:8880/287994003710/287994003710/31397
+#EXTINF:-1,GLOBO RJ HD¹
+http://163.172.103.202:8880/287994003710/287994003710/31398
+#EXTINF:-1,GLOBO RPC CURITIBA HD²
+http://163.172.103.202:8880/287994003710/287994003710/31399
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU HD
+http://163.172.103.202:8880/287994003710/287994003710/31400
+#EXTINF:-1,GLOBO RPC MARINGA HD
+http://163.172.103.202:8880/287994003710/287994003710/31401
+#EXTINF:-1,GLOBO RPC PARANAENSE FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31402
+#EXTINF:-1,GLOBO RPC PARANAVAI HD
+http://163.172.103.202:8880/287994003710/287994003710/31403
+#EXTINF:-1,GLOBO RPC PONTA GROSSA HD
+http://163.172.103.202:8880/287994003710/287994003710/31404
+#EXTINF:-1,GLOBO RPC TV CURITIBA
+http://163.172.103.202:8880/287994003710/287994003710/31405
+#EXTINF:-1,GLOBO SERGIPE FHD H265
+http://163.172.103.202:8880/287994003710/287994003710/31406
+#EXTINF:-1,GLOBO SJRP
+http://163.172.103.202:8880/287994003710/287994003710/31407
+#EXTINF:-1,GLOBO SP
+http://163.172.103.202:8880/287994003710/287994003710/31408
+#EXTINF:-1,GLOBO SP FHD
+http://163.172.103.202:8880/287994003710/287994003710/31409
+#EXTINF:-1,GLOBO SP FHD H265
+http://163.172.103.202:8880/287994003710/287994003710/31410
+#EXTINF:-1,GLOBO SP FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31411
+#EXTINF:-1,GLOBO SP HD+
+http://163.172.103.202:8880/287994003710/287994003710/31412
+#EXTINF:-1,GLOBO SP HD¹
+http://163.172.103.202:8880/287994003710/287994003710/31413
+#EXTINF:-1,GLOBO SP²
+http://163.172.103.202:8880/287994003710/287994003710/31414
+#EXTINF:-1,GLOBO SÃO JOSÉ DO RIO PRETO
+http://163.172.103.202:8880/287994003710/287994003710/31415
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA
+http://163.172.103.202:8880/287994003710/287994003710/31416
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD
+http://163.172.103.202:8880/287994003710/287994003710/31417
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD²
+http://163.172.103.202:8880/287994003710/287994003710/31418
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA²
+http://163.172.103.202:8880/287994003710/287994003710/31419
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://163.172.103.202:8880/287994003710/287994003710/31420
+#EXTINF:-1,GLOBO TV BAHIA
+http://163.172.103.202:8880/287994003710/287994003710/31421
+#EXTINF:-1,GLOBO TV BAHIA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31422
+#EXTINF:-1,GLOBO TV BAHIA HD+
+http://163.172.103.202:8880/287994003710/287994003710/31423
+#EXTINF:-1,GLOBO TV BAHIA HD²
+http://163.172.103.202:8880/287994003710/287994003710/31424
+#EXTINF:-1,GLOBO TV BELEM FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31425
+#EXTINF:-1,GLOBO TV BRASILIA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31426
+#EXTINF:-1,GLOBO TV CENTRO AMERICA HD
+http://163.172.103.202:8880/287994003710/287994003710/31427
+#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIABÁ HD
+http://163.172.103.202:8880/287994003710/287994003710/31428
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31429
+#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS HD
+http://163.172.103.202:8880/287994003710/287994003710/31430
+#EXTINF:-1,GLOBO TV GAZETA FHD H265
+http://163.172.103.202:8880/287994003710/287994003710/31431
+#EXTINF:-1,GLOBO TV GAZETA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31432
+#EXTINF:-1,GLOBO TV GAZETA SUL HD
+http://163.172.103.202:8880/287994003710/287994003710/31433
+#EXTINF:-1,GLOBO TV INTEGRACAO ARAXA HD
+http://163.172.103.202:8880/287994003710/287994003710/31434
+#EXTINF:-1,GLOBO TV LIBERAL BELEM
+http://163.172.103.202:8880/287994003710/287994003710/31435
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://163.172.103.202:8880/287994003710/287994003710/31436
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD²
+http://163.172.103.202:8880/287994003710/287994003710/31437
+#EXTINF:-1,GLOBO TV MIRANTE FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31438
+#EXTINF:-1,GLOBO TV MIRANTE MARANHÃO HD
+http://163.172.103.202:8880/287994003710/287994003710/31439
+#EXTINF:-1,GLOBO TV MORENA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31440
+#EXTINF:-1,GLOBO TV RIO SUL
+http://163.172.103.202:8880/287994003710/287994003710/31441
+#EXTINF:-1,GLOBO TV RIO SUL HD²
+http://163.172.103.202:8880/287994003710/287994003710/31442
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://163.172.103.202:8880/287994003710/287994003710/31443
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://163.172.103.202:8880/287994003710/287994003710/31444
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+http://163.172.103.202:8880/287994003710/287994003710/31445
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
+http://163.172.103.202:8880/287994003710/287994003710/31446
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
+http://163.172.103.202:8880/287994003710/287994003710/31447
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
+http://163.172.103.202:8880/287994003710/287994003710/31448
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
+http://163.172.103.202:8880/287994003710/287994003710/31449
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
+http://163.172.103.202:8880/287994003710/287994003710/31450
+#EXTINF:-1,GLOBO TV VERDES MARES FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31451
+#EXTINF:-1,GLOBOTV ANHANGUERA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31452
+#EXTINF:-1,INTER TV DOS VALES FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31453
+#EXTINF:-1,NSC TV BLUMENAU FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31454
+#EXTINF:-1,REDE AMAZÔNICA PORTO VELHO HD
+http://163.172.103.202:8880/287994003710/287994003710/31455
+#EXTINF:-1,TV MORENA PONTA PORA HD
+http://163.172.103.202:8880/287994003710/287994003710/31456
+#EXTINF:-1,TV SANTA CRUZ FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31457
+#EXTINF:-1,TV SERGIPE FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31458
+#EXTINF:-1,TV VANGUARDA HD (SAO JOSE DOS CAMPOS)
+http://163.172.103.202:8880/287994003710/287994003710/31459
+#EXTINF:-1,HBO 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31460
+#EXTINF:-1,HBO FAMILY FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31461
+#EXTINF:-1,HBO FAMILY HD
+http://163.172.103.202:8880/287994003710/287994003710/31462
+#EXTINF:-1,HBO FAMILY HD*
+http://163.172.103.202:8880/287994003710/287994003710/31463
+#EXTINF:-1,HBO FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31464
+#EXTINF:-1,HBO HD
+http://163.172.103.202:8880/287994003710/287994003710/31465
+#EXTINF:-1,HBO MUNDI FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31466
+#EXTINF:-1,HBO MUNDI HD
+http://163.172.103.202:8880/287994003710/287994003710/31467
+#EXTINF:-1,HBO PLUS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31468
+#EXTINF:-1,HBO PLUS HD
+http://163.172.103.202:8880/287994003710/287994003710/31469
+#EXTINF:-1,HBO POP FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31470
+#EXTINF:-1,HBO POP HD
+http://163.172.103.202:8880/287994003710/287994003710/31471
+#EXTINF:-1,HBO SIGNATURE FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31472
+#EXTINF:-1,HBO SIGNATURE HD
+http://163.172.103.202:8880/287994003710/287994003710/31473
+#EXTINF:-1,HBO XTREAME HD
+http://163.172.103.202:8880/287994003710/287994003710/31474
+#EXTINF:-1,HBO XTREME FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31475
+#EXTINF:-1,BABY TV FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31476
+#EXTINF:-1,BABY TV HD
+http://163.172.103.202:8880/287994003710/287994003710/31477
+#EXTINF:-1,BOOMERANG FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31478
+#EXTINF:-1,CARTOON NETWORK FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31479
+#EXTINF:-1,CARTOON NETWORK HD
+http://163.172.103.202:8880/287994003710/287994003710/31480
+#EXTINF:-1,DISCOVERY KIDS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31481
+#EXTINF:-1,DISCOVERY KIDS HD
+http://163.172.103.202:8880/287994003710/287994003710/31482
+#EXTINF:-1,DISNEY CHANNEL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31483
+#EXTINF:-1,DISNEY CHANNEL HD
+http://163.172.103.202:8880/287994003710/287994003710/31484
+#EXTINF:-1,DISNEY JUNIOR FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31485
+#EXTINF:-1,DISNEY JUNIOR HD
+http://163.172.103.202:8880/287994003710/287994003710/31486
+#EXTINF:-1,DISNEY XD FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31487
+#EXTINF:-1,DISNEY XD HD
+http://163.172.103.202:8880/287994003710/287994003710/31488
+#EXTINF:-1,GLOBINHO FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31489
+#EXTINF:-1,GLOBINHO HD
+http://163.172.103.202:8880/287994003710/287994003710/31490
+#EXTINF:-1,GLOOB FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31491
+#EXTINF:-1,GLOOB HD
+http://163.172.103.202:8880/287994003710/287994003710/31492
+#EXTINF:-1,KURIAKOS KIDS
+http://163.172.103.202:8880/287994003710/287994003710/31493
+#EXTINF:-1,LOADING TV
+http://163.172.103.202:8880/287994003710/287994003710/31494
+#EXTINF:-1,NATGEO KIDS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31495
+#EXTINF:-1,NATGEO KIDS HD
+http://163.172.103.202:8880/287994003710/287994003710/31496
+#EXTINF:-1,NICK JR FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31497
+#EXTINF:-1,NICK JR HD
+http://163.172.103.202:8880/287994003710/287994003710/31498
+#EXTINF:-1,NICKELODEON FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31499
+#EXTINF:-1,NICKELODEON HD
+http://163.172.103.202:8880/287994003710/287994003710/31500
+#EXTINF:-1,TOONCAST FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31501
+#EXTINF:-1,TV RA TIM BUM FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31502
+#EXTINF:-1,TV RA TIM BUM HD
+http://163.172.103.202:8880/287994003710/287994003710/31503
+#EXTINF:-1,ZOOMOO HD
+http://163.172.103.202:8880/287994003710/287994003710/31504
+#EXTINF:-1,3ABN KIDS
+http://163.172.103.202:8880/287994003710/287994003710/31505
+#EXTINF:-1,BAND NEWS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31506
+#EXTINF:-1,BLOOMBERG USA *
+http://163.172.103.202:8880/287994003710/287994003710/31507
+#EXTINF:-1,CNN BRASIL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31508
+#EXTINF:-1,CNN BRASIL HD
+http://163.172.103.202:8880/287994003710/287994003710/31509
+#EXTINF:-1,CNN ESPANHOL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31510
+#EXTINF:-1,CNN INTERNACIONAL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31511
+#EXTINF:-1,DW DEUTSCHE
+http://163.172.103.202:8880/287994003710/287994003710/31512
+#EXTINF:-1,DW ESPANHOL
+http://163.172.103.202:8880/287994003710/287994003710/31513
+#EXTINF:-1,FOX NEWS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31514
+#EXTINF:-1,FOX NEWS HD
+http://163.172.103.202:8880/287994003710/287994003710/31515
+#EXTINF:-1,GLOBO NEWS
+http://163.172.103.202:8880/287994003710/287994003710/31516
+#EXTINF:-1,GLOBO NEWS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31517
+#EXTINF:-1,GLOBO NEWS HD
+http://163.172.103.202:8880/287994003710/287994003710/31518
+#EXTINF:-1,GLOBO NEWS HD DUAL
+http://163.172.103.202:8880/287994003710/287994003710/31519
+#EXTINF:-1,NHK JAPÃO  HD
+http://163.172.103.202:8880/287994003710/287994003710/31520
+#EXTINF:-1,RAI INTERNACIONAL HD
+http://163.172.103.202:8880/287994003710/287994003710/31521
+#EXTINF:-1,RECORD NEWS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31522
+#EXTINF:-1,RECORD NEWS HD
+http://163.172.103.202:8880/287994003710/287994003710/31523
+#EXTINF:-1,SIC INTERNACIONAL²
+http://163.172.103.202:8880/287994003710/287994003710/31524
+#EXTINF:-1,PREMIERE CLUBES FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31525
+#EXTINF:-1,PREMIERE CLUBES HD
+http://163.172.103.202:8880/287994003710/287994003710/31526
+#EXTINF:-1,PREMIERE CLUBES HD²
+http://163.172.103.202:8880/287994003710/287994003710/31527
+#EXTINF:-1,PREMIERE 2 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31528
+#EXTINF:-1,PREMIERE 2 HD
+http://163.172.103.202:8880/287994003710/287994003710/31529
+#EXTINF:-1,PREMIERE 2 HD²
+http://163.172.103.202:8880/287994003710/287994003710/31530
+#EXTINF:-1,PREMIERE 2 UHD
+http://163.172.103.202:8880/287994003710/287994003710/31531
+#EXTINF:-1,PREMIERE 3 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31532
+#EXTINF:-1,PREMIERE 3 HD
+http://163.172.103.202:8880/287994003710/287994003710/31533
+#EXTINF:-1,PREMIERE 3 HD²
+http://163.172.103.202:8880/287994003710/287994003710/31534
+#EXTINF:-1,PREMIERE 3 UHD
+http://163.172.103.202:8880/287994003710/287994003710/31535
+#EXTINF:-1,PREMIERE 4 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31536
+#EXTINF:-1,PREMIERE 4 HD
+http://163.172.103.202:8880/287994003710/287994003710/31537
+#EXTINF:-1,PREMIERE 4 HD²
+http://163.172.103.202:8880/287994003710/287994003710/31538
+#EXTINF:-1,PREMIERE 5 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31539
+#EXTINF:-1,PREMIERE 5 HD
+http://163.172.103.202:8880/287994003710/287994003710/31540
+#EXTINF:-1,PREMIERE 5 HD²
+http://163.172.103.202:8880/287994003710/287994003710/31541
+#EXTINF:-1,PREMIERE 6 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31542
+#EXTINF:-1,PREMIERE 6 HD
+http://163.172.103.202:8880/287994003710/287994003710/31543
+#EXTINF:-1,PREMIERE 7 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31544
+#EXTINF:-1,PREMIERE 7 HD
+http://163.172.103.202:8880/287994003710/287994003710/31545
+#EXTINF:-1,PREMIERE 7 HD²
+http://163.172.103.202:8880/287994003710/287994003710/31546
+#EXTINF:-1,POWER COUPLE BRASIL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31547
+#EXTINF:-1,POWER COUPLE BRASIL HD²
+http://163.172.103.202:8880/287994003710/287994003710/31548
+#EXTINF:-1,POWER COUPLE BRASIL HD³
+http://163.172.103.202:8880/287994003710/287994003710/31549
+#EXTINF:-1,POWER COUPLE BRASIL HD
+http://163.172.103.202:8880/287994003710/287994003710/31550
+#EXTINF:-1,TV CIDADE CEARÁ FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31551
+#EXTINF:-1,RECORD CABRALIA
+http://163.172.103.202:8880/287994003710/287994003710/31552
+#EXTINF:-1,BR: RECORD CAMPINAS HD²
+http://163.172.103.202:8880/287994003710/287994003710/31553
+#EXTINF:-1,BR: RECORD NORDESTE HD²
+http://163.172.103.202:8880/287994003710/287994003710/31554
+#EXTINF:-1,BR: RECORD RJ HD²
+http://163.172.103.202:8880/287994003710/287994003710/31555
+#EXTINF:-1,BR: RECORD SP HD²
+http://163.172.103.202:8880/287994003710/287994003710/31556
+#EXTINF:-1,RECORD
+http://163.172.103.202:8880/287994003710/287994003710/31557
+#EXTINF:-1,RECORD BAHIA HD
+http://163.172.103.202:8880/287994003710/287994003710/31558
+#EXTINF:-1,RECORD BELEM
+http://163.172.103.202:8880/287994003710/287994003710/31559
+#EXTINF:-1,RECORD BRASILIA
+http://163.172.103.202:8880/287994003710/287994003710/31560
+#EXTINF:-1,RECORD BRASILIA HD¹
+http://163.172.103.202:8880/287994003710/287994003710/31561
+#EXTINF:-1,RECORD FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31562
+#EXTINF:-1,RECORD GOIAS
+http://163.172.103.202:8880/287994003710/287994003710/31563
+#EXTINF:-1,RECORD ITAPOAN - BAHIA
+http://163.172.103.202:8880/287994003710/287994003710/31564
+#EXTINF:-1,RECORD MINAS HD
+http://163.172.103.202:8880/287994003710/287994003710/31565
+#EXTINF:-1,RECORD RJ HD
+http://163.172.103.202:8880/287994003710/287994003710/31566
+#EXTINF:-1,RECORD RS HD
+http://163.172.103.202:8880/287994003710/287994003710/31567
+#EXTINF:-1,RECORD SP HD
+http://163.172.103.202:8880/287994003710/287994003710/31568
+#EXTINF:-1,RECORD¹
+http://163.172.103.202:8880/287994003710/287994003710/31569
+#EXTINF:-1,TV EVANGELIZAR
+http://163.172.103.202:8880/287994003710/287994003710/31570
+#EXTINF:-1,CANCAO NOVA
+http://163.172.103.202:8880/287994003710/287994003710/31571
+#EXTINF:-1,GOSPEL MOVIE TV
+http://163.172.103.202:8880/287994003710/287994003710/31572
+#EXTINF:-1,NOVO TEMPO
+http://163.172.103.202:8880/287994003710/287994003710/31573
+#EXTINF:-1,REDE GENISIS FHULLD
+http://163.172.103.202:8880/287994003710/287994003710/31574
+#EXTINF:-1,REDE GOSPEL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31575
+#EXTINF:-1,REDE SUPER FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31576
+#EXTINF:-1,REDE VIDA
+http://163.172.103.202:8880/287994003710/287994003710/31577
+#EXTINF:-1,RIT FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31578
+#EXTINF:-1,TV APARECIDA LIVRE
+http://163.172.103.202:8880/287994003710/287994003710/31579
+#EXTINF:-1,TV GOSPEL CEARÁ
+http://163.172.103.202:8880/287994003710/287994003710/31580
+#EXTINF:-1,CBTV Now
+http://163.172.103.202:8880/287994003710/287994003710/31581
+#EXTINF:-1,TELECINE ACTION FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31582
+#EXTINF:-1,TELECINE ACTION HD
+http://163.172.103.202:8880/287994003710/287994003710/31583
+#EXTINF:-1,TELECINE CULT FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31584
+#EXTINF:-1,TELECINE CULT HD
+http://163.172.103.202:8880/287994003710/287994003710/31585
+#EXTINF:-1,TELECINE CULT HD
+http://163.172.103.202:8880/287994003710/287994003710/31586
+#EXTINF:-1,TELECINE FUN FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31587
+#EXTINF:-1,TELECINE FUN HD
+http://163.172.103.202:8880/287994003710/287994003710/31588
+#EXTINF:-1,TELECINE PIPOCA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31589
+#EXTINF:-1,TELECINE PIPOCA HD
+http://163.172.103.202:8880/287994003710/287994003710/31590
+#EXTINF:-1,TELECINE PREMIUM FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31591
+#EXTINF:-1,TELECINE PREMIUM HD
+http://163.172.103.202:8880/287994003710/287994003710/31592
+#EXTINF:-1,TELECINE TOUCH FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31593
+#EXTINF:-1,TELECINE TOUCH HD
+http://163.172.103.202:8880/287994003710/287994003710/31594
+#EXTINF:-1,Arte 1 FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31595
+#EXTINF:-1,BIS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31596
+#EXTINF:-1,BIS HD
+http://163.172.103.202:8880/287994003710/287994003710/31597
+#EXTINF:-1,CHEF TV FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31598
+#EXTINF:-1,COMEDY CENTRAL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31599
+#EXTINF:-1,COMEDY CENTRAL HD
+http://163.172.103.202:8880/287994003710/287994003710/31600
+#EXTINF:-1,CURTA! FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31601
+#EXTINF:-1,CURTA! HD*
+http://163.172.103.202:8880/287994003710/287994003710/31602
+#EXTINF:-1,DOG TV HD
+http://163.172.103.202:8880/287994003710/287994003710/31603
+#EXTINF:-1,E! FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31604
+#EXTINF:-1,E! HD
+http://163.172.103.202:8880/287994003710/287994003710/31605
+#EXTINF:-1,FOOD NETWORK FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31606
+#EXTINF:-1,FOOD NETWORK HD
+http://163.172.103.202:8880/287994003710/287994003710/31607
+#EXTINF:-1,GNT FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31608
+#EXTINF:-1,GNT HD
+http://163.172.103.202:8880/287994003710/287994003710/31609
+#EXTINF:-1,ISAT FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31610
+#EXTINF:-1,LIFETIME FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31611
+#EXTINF:-1,LIFETIME HD
+http://163.172.103.202:8880/287994003710/287994003710/31612
+#EXTINF:-1,MAIS GLOBOSAT
+http://163.172.103.202:8880/287994003710/287994003710/31613
+#EXTINF:-1,MAIS GLOBOSAT FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31614
+#EXTINF:-1,MTV FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31615
+#EXTINF:-1,MTV HD
+http://163.172.103.202:8880/287994003710/287994003710/31616
+#EXTINF:-1,MULTISHOW FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31617
+#EXTINF:-1,MULTSHOW HD
+http://163.172.103.202:8880/287994003710/287994003710/31618
+#EXTINF:-1,MUSIC BOX BRASIL FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31619
+#EXTINF:-1,PLAY TV FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31620
+#EXTINF:-1,PRIME BOX BRASIL FULL HD
+http://163.172.103.202:8880/287994003710/287994003710/31621
+#EXTINF:-1,SHOPTIME HD
+http://163.172.103.202:8880/287994003710/287994003710/31622
+#EXTINF:-1,STAR LIFE FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31623
+#EXTINF:-1,STAR LIFE HD
+http://163.172.103.202:8880/287994003710/287994003710/31624
+#EXTINF:-1,TERRA VIVA HD
+http://163.172.103.202:8880/287994003710/287994003710/31625
+#EXTINF:-1,TRU TV FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31626
+#EXTINF:-1,TRUTV HD
+http://163.172.103.202:8880/287994003710/287994003710/31627
+#EXTINF:-1,VH1 HD
+http://163.172.103.202:8880/287994003710/287994003710/31628
+#EXTINF:-1,VH1 MEGA HITS FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31629
+#EXTINF:-1,VIVA FULLHD
+http://163.172.103.202:8880/287994003710/287994003710/31630
+#EXTINF:-1,VIVA HD
+http://163.172.103.202:8880/287994003710/287994003710/31631
+#EXTINF:-1,THE BIG BANG THEORY
+http://163.172.103.202:8880/287994003710/287994003710/31632
+#EXTINF:-1,Tom & Jerry
+http://163.172.103.202:8880/287994003710/287994003710/31633
+#EXTINF:-1,3 ESPIÃS DEMAIS
+http://163.172.103.202:8880/287994003710/287994003710/31634
+#EXTINF:-1,3 PALAVRINHAS
+http://163.172.103.202:8880/287994003710/287994003710/31635
+#EXTINF:-1,A TURMA DO ZÉ COLMÉIA
+http://163.172.103.202:8880/287994003710/287994003710/31636
+#EXTINF:-1,A PANTERA COR-DE-ROSA
+http://163.172.103.202:8880/287994003710/287994003710/31637
+#EXTINF:-1,A PEQUENA SEREIA
+http://163.172.103.202:8880/287994003710/287994003710/31638
+#EXTINF:-1,A PEQUENA SEREIA
+http://163.172.103.202:8880/287994003710/287994003710/31639
+#EXTINF:-1,A TURMA DO MANDA CHUVA
+http://163.172.103.202:8880/287994003710/287994003710/31640
+#EXTINF:-1,A VACA E O FRANGO
+http://163.172.103.202:8880/287994003710/287994003710/31641
+#EXTINF:-1,ALADDIN
+http://163.172.103.202:8880/287994003710/287994003710/31642
+#EXTINF:-1,ALF, O ETEIMOSO
+http://163.172.103.202:8880/287994003710/287994003710/31643
+#EXTINF:-1,ANIMANIACS
+http://163.172.103.202:8880/287994003710/287994003710/31644
+#EXTINF:-1,AS AVENTURAS DE JACKIE CHAN
+http://163.172.103.202:8880/287994003710/287994003710/31645
+#EXTINF:-1,AS AVENTURAS DE JACKIE CHAN
+http://163.172.103.202:8880/287994003710/287994003710/31646
+#EXTINF:-1,AS AVENTURAS DE TINTIM
+http://163.172.103.202:8880/287994003710/287994003710/31647
+#EXTINF:-1,AS MENINAS SUPERPODEROSAS
+http://163.172.103.202:8880/287994003710/287994003710/31648
+#EXTINF:-1,AS TARTARUGAS NINJAS
+http://163.172.103.202:8880/287994003710/287994003710/31649
+#EXTINF:-1,BABY LOONEY TUNES
+http://163.172.103.202:8880/287994003710/287994003710/31650
+#EXTINF:-1,BABY LOONEY TUNES
+http://163.172.103.202:8880/287994003710/287994003710/31651
+#EXTINF:-1,BATMAN - SÉRIE ANIMADA
+http://163.172.103.202:8880/287994003710/287994003710/31652
+#EXTINF:-1,BEN 10
+http://163.172.103.202:8880/287994003710/287994003710/31653
+#EXTINF:-1,BEN 10 (2005)
+http://163.172.103.202:8880/287994003710/287994003710/31654
+#EXTINF:-1,BEN 10 OMNIVERSE
+http://163.172.103.202:8880/287994003710/287994003710/31655
+#EXTINF:-1,BIBO PAI E BOBI FILHO
+http://163.172.103.202:8880/287994003710/287994003710/31656
+#EXTINF:-1,BANANAS DE PIJAMAS
+http://163.172.103.202:8880/287994003710/287994003710/31657
+#EXTINF:-1,OS THUNDERMANS
+http://163.172.103.202:8880/287994003710/287994003710/31658
+#EXTINF:-1,BLACK KAMEN RIDER
+http://163.172.103.202:8880/287994003710/287994003710/31659
+#EXTINF:-1,BOB ESPONJA
+http://163.172.103.202:8880/287994003710/287994003710/31660
+#EXTINF:-1,BOB ZOOM
+http://163.172.103.202:8880/287994003710/287994003710/31661
+#EXTINF:-1,AS MENINAS SUPER PODEROSAS
+http://163.172.103.202:8880/287994003710/287994003710/31662
+#EXTINF:-1,BREAKING BAD ¹
+http://163.172.103.202:8880/287994003710/287994003710/31663
+#EXTINF:-1,LULUZINHA
+http://163.172.103.202:8880/287994003710/287994003710/31664
+#EXTINF:-1,CARANGOS E MOTOCAS
+http://163.172.103.202:8880/287994003710/287994003710/31665
+#EXTINF:-1,CASA DO MICKEY
+http://163.172.103.202:8880/287994003710/287994003710/31666
+#EXTINF:-1,SCOOBY DOO
+http://163.172.103.202:8880/287994003710/287994003710/31667
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS
+http://163.172.103.202:8880/287994003710/287994003710/31668
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE ASGARD
+http://163.172.103.202:8880/287994003710/287994003710/31669
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE HADES
+http://163.172.103.202:8880/287994003710/287994003710/31670
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON
+http://163.172.103.202:8880/287994003710/287994003710/31671
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO
+http://163.172.103.202:8880/287994003710/287994003710/31672
+#EXTINF:-1,CAVALO DE FOGO
+http://163.172.103.202:8880/287994003710/287994003710/31673
+#EXTINF:-1,CAVERNA DO DRAGÃO
+http://163.172.103.202:8880/287994003710/287994003710/31674
+#EXTINF:-1,CHAPOLIN
+http://163.172.103.202:8880/287994003710/287994003710/31675
+#EXTINF:-1,CHAVES
+http://163.172.103.202:8880/287994003710/287994003710/31676
+#EXTINF:-1,CHAVES DESENHO
+http://163.172.103.202:8880/287994003710/287994003710/31677
+#EXTINF:-1,Os Padrinhos Mágicos
+http://163.172.103.202:8880/287994003710/287994003710/31678
+#EXTINF:-1,COMÉDIA SELVAGEM
+http://163.172.103.202:8880/287994003710/287994003710/31679
+#EXTINF:-1,CORAGEM CAO COVARDE
+http://163.172.103.202:8880/287994003710/287994003710/31680
+#EXTINF:-1,DE VOLTA PARA O FUTURO
+http://163.172.103.202:8880/287994003710/287994003710/31681
+#EXTINF:-1,BORUTO
+http://163.172.103.202:8880/287994003710/287994003710/31682
+#EXTINF:-1,DESENHOS BÍBLICOS
+http://163.172.103.202:8880/287994003710/287994003710/31683
+#EXTINF:-1,DOIS HOMENS E MEIO
+http://163.172.103.202:8880/287994003710/287994003710/31684
+#EXTINF:-1,SÍTIO DO PICA-PAU AMARELO
+http://163.172.103.202:8880/287994003710/287994003710/31685
+#EXTINF:-1,DRAGON BALL - SAGA MAJIN BOO
+http://163.172.103.202:8880/287994003710/287994003710/31686
+#EXTINF:-1,DRAGON BALL GT
+http://163.172.103.202:8880/287994003710/287994003710/31687
+#EXTINF:-1,DRAGON BALL SUPER¹
+http://163.172.103.202:8880/287994003710/287994003710/31688
+#EXTINF:-1,DRAGON BALL²
+http://163.172.103.202:8880/287994003710/287994003710/31689
+#EXTINF:-1,DRAKE E JOSH
+http://163.172.103.202:8880/287994003710/287994003710/31690
+#EXTINF:-1,DUCK DODGERS
+http://163.172.103.202:8880/287994003710/287994003710/31691
+#EXTINF:-1,DUCKTALES
+http://163.172.103.202:8880/287994003710/287994003710/31692
+#EXTINF:-1,ESPECIAL BABY
+http://163.172.103.202:8880/287994003710/287994003710/31693
+#EXTINF:-1,EU A PATROA E AS CRIANÇAS
+http://163.172.103.202:8880/287994003710/287994003710/31694
+#EXTINF:-1,EU SOU O MÁXIMO
+http://163.172.103.202:8880/287994003710/287994003710/31695
+#EXTINF:-1,FALCÃO AZUL E BIONICÃO
+http://163.172.103.202:8880/287994003710/287994003710/31696
+#EXTINF:-1,FAMILÍA DINOSSAUROS
+http://163.172.103.202:8880/287994003710/287994003710/31697
+#EXTINF:-1,FAMÍLIA DINOSSAUROS
+http://163.172.103.202:8880/287994003710/287994003710/31698
+#EXTINF:-1,FORMIGA ATOMICA
+http://163.172.103.202:8880/287994003710/287994003710/31699
+#EXTINF:-1,FUTURAMA
+http://163.172.103.202:8880/287994003710/287994003710/31700
+#EXTINF:-1,GALINHA PINTADINHA¹
+http://163.172.103.202:8880/287994003710/287994003710/31701
+#EXTINF:-1,GARFIELD
+http://163.172.103.202:8880/287994003710/287994003710/31702
+#EXTINF:-1,KIDS TV
+http://163.172.103.202:8880/287994003710/287994003710/31703
+#EXTINF:-1,GATO FELIX
+http://163.172.103.202:8880/287994003710/287994003710/31704
+#EXTINF:-1,X-MEN - WOLVERINE
+http://163.172.103.202:8880/287994003710/287994003710/31705
+#EXTINF:-1,HE-MAN
+http://163.172.103.202:8880/287994003710/287994003710/31706
+#EXTINF:-1,MICKEY MOUSE, PATO DONALD E TICO E TECO
+http://163.172.103.202:8880/287994003710/287994003710/31707
+#EXTINF:-1,ICARLY
+http://163.172.103.202:8880/287994003710/287994003710/31708
+#EXTINF:-1,IRMÃO DE JOREL
+http://163.172.103.202:8880/287994003710/287994003710/31709
+#EXTINF:-1,JIRAIYA - O INCRÍVEL NINJA
+http://163.172.103.202:8880/287994003710/287994003710/31710
+#EXTINF:-1,JOHNNY BRAVO
+http://163.172.103.202:8880/287994003710/287994003710/31711
+#EXTINF:-1,JOHNNY TEST
+http://163.172.103.202:8880/287994003710/287994003710/31712
+#EXTINF:-1,CARTOON GOSPEL
+http://163.172.103.202:8880/287994003710/287994003710/31713
+#EXTINF:-1,POKEMON
+http://163.172.103.202:8880/287994003710/287994003710/31714
+#EXTINF:-1,LEÃO DA MONTANHA
+http://163.172.103.202:8880/287994003710/287994003710/31715
+#EXTINF:-1,LIGA DA JUSTIÇA
+http://163.172.103.202:8880/287994003710/287994003710/31716
+#EXTINF:-1,LIGA DA JUSTIÇA
+http://163.172.103.202:8880/287994003710/287994003710/31717
+#EXTINF:-1,LIGA DOS SUPER MALVADOS
+http://163.172.103.202:8880/287994003710/287994003710/31718
+#EXTINF:-1,LIGEIRINHO
+http://163.172.103.202:8880/287994003710/287994003710/31719
+#EXTINF:-1,LOONEY TUNES
+http://163.172.103.202:8880/287994003710/287994003710/31720
+#EXTINF:-1,LOONEY TUNES
+http://163.172.103.202:8880/287994003710/287994003710/31721
+#EXTINF:-1,BIBO PAI, BOB FILHO
+http://163.172.103.202:8880/287994003710/287994003710/31722
+#EXTINF:-1,MARINHEIRO POPEYE
+http://163.172.103.202:8880/287994003710/287994003710/31723
+#EXTINF:-1,MASHA E O URSO
+http://163.172.103.202:8880/287994003710/287994003710/31724
+#EXTINF:-1,MASTERCHEF
+http://163.172.103.202:8880/287994003710/287994003710/31725
+#EXTINF:-1,MOSQUITO, MOSQUETE e MOSCARDO
+http://163.172.103.202:8880/287994003710/287994003710/31726
+#EXTINF:-1,MUNDO BITA
+http://163.172.103.202:8880/287994003710/287994003710/31727
+#EXTINF:-1,NARUTO
+http://163.172.103.202:8880/287994003710/287994003710/31728
+#EXTINF:-1,NARUTO SHIPPUDEN
+http://163.172.103.202:8880/287994003710/287994003710/31729
+#EXTINF:-1,O FANTASTICO MUNDO DE BOBBY
+http://163.172.103.202:8880/287994003710/287994003710/31730
+#EXTINF:-1,O INCRÍVEL MUNDO DE GUMBALL
+http://163.172.103.202:8880/287994003710/287994003710/31731
+#EXTINF:-1,O MUNDO DE BITA
+http://163.172.103.202:8880/287994003710/287994003710/31732
+#EXTINF:-1,SAKURA CARDS CAPTORS - ANIME
+http://163.172.103.202:8880/287994003710/287994003710/31733
+#EXTINF:-1,OS CAÇA FANTASMAS
+http://163.172.103.202:8880/287994003710/287994003710/31734
+#EXTINF:-1,OS FLINTSTONES
+http://163.172.103.202:8880/287994003710/287994003710/31735
+#EXTINF:-1,OS FLINTSTONES
+http://163.172.103.202:8880/287994003710/287994003710/31736
+#EXTINF:-1,OS HERCULÓIDES
+http://163.172.103.202:8880/287994003710/287994003710/31737
+#EXTINF:-1,OS JETSONS
+http://163.172.103.202:8880/287994003710/287994003710/31738
+#EXTINF:-1,OS JETSONS
+http://163.172.103.202:8880/287994003710/287994003710/31739
+#EXTINF:-1,OS JOVENS TITÃS EM AÇÃO
+http://163.172.103.202:8880/287994003710/287994003710/31740
+#EXTINF:-1,OS SIMPSONS
+http://163.172.103.202:8880/287994003710/287994003710/31741
+#EXTINF:-1,OS SMURFS
+http://163.172.103.202:8880/287994003710/287994003710/31742
+#EXTINF:-1,X-MEN EVOLUTION
+http://163.172.103.202:8880/287994003710/287994003710/31743
+#EXTINF:-1,PADRINHOS MÁGICOS
+http://163.172.103.202:8880/287994003710/287994003710/31744
+#EXTINF:-1,PAPA-LÉGUAS
+http://163.172.103.202:8880/287994003710/287994003710/31745
+#EXTINF:-1,PATRULHA CANINA 24H
+http://163.172.103.202:8880/287994003710/287994003710/31746
+#EXTINF:-1,PEPPA PIG
+http://163.172.103.202:8880/287994003710/287994003710/31747
+#EXTINF:-1,A CASA DO MICKEY MOUSE
+http://163.172.103.202:8880/287994003710/287994003710/31748
+#EXTINF:-1,PICA-PAU
+http://163.172.103.202:8880/287994003710/287994003710/31749
+#EXTINF:-1,PINK E O CÉREBRO
+http://163.172.103.202:8880/287994003710/287994003710/31750
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - ÔMEGA
+http://163.172.103.202:8880/287994003710/287994003710/31751
+#EXTINF:-1,PODEROSO CHEFINHO
+http://163.172.103.202:8880/287994003710/287994003710/31752
+#EXTINF:-1,POPEYE
+http://163.172.103.202:8880/287994003710/287994003710/31753
+#EXTINF:-1,POWER RANGERS
+http://163.172.103.202:8880/287994003710/287994003710/31754
+#EXTINF:-1,SCOOBY DOO!
+http://163.172.103.202:8880/287994003710/287994003710/31755
+#EXTINF:-1,SHE-RA
+http://163.172.103.202:8880/287994003710/287994003710/31756
+#EXTINF:-1,DIGIMON
+http://163.172.103.202:8880/287994003710/287994003710/31757
+#EXTINF:-1,SOBRENATURAL
+http://163.172.103.202:8880/287994003710/287994003710/31758
+#EXTINF:-1,SPEED RACER 24H
+http://163.172.103.202:8880/287994003710/287994003710/31759
+#EXTINF:-1,STAND-UP
+http://163.172.103.202:8880/287994003710/287994003710/31760
+#EXTINF:-1,STREET FIGTHER
+http://163.172.103.202:8880/287994003710/287994003710/31761
+#EXTINF:-1,SUPER AMIGOS
+http://163.172.103.202:8880/287994003710/287994003710/31762
+#EXTINF:-1,SUPER CHOQUE
+http://163.172.103.202:8880/287994003710/287994003710/31763
+#EXTINF:-1,THUNDERCATS
+http://163.172.103.202:8880/287994003710/287994003710/31764
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS
+http://163.172.103.202:8880/287994003710/287994003710/31765
+#EXTINF:-1,TOMA LA DA CÁ
+http://163.172.103.202:8880/287994003710/287994003710/31766
+#EXTINF:-1,TURMA DO MANDA-CHUVA
+http://163.172.103.202:8880/287994003710/287994003710/31767
+#EXTINF:-1,FÁBULAS DA DISNEY
+http://163.172.103.202:8880/287994003710/287994003710/31768
+#EXTINF:-1,UM MALUCO NO PEDAÇO
+http://163.172.103.202:8880/287994003710/287994003710/31769
+#EXTINF:-1,URSINHOS CARINHOSOS
+http://163.172.103.202:8880/287994003710/287994003710/31770
+#EXTINF:-1,PIRATAS DO ESPAÇO
+http://163.172.103.202:8880/287994003710/287994003710/31771
+#EXTINF:-1,VAI QUE COLA
+http://163.172.103.202:8880/287994003710/287994003710/31772
+#EXTINF:-1,X-MAN
+http://163.172.103.202:8880/287994003710/287994003710/31773
+#EXTINF:-1,X-MEN
+http://163.172.103.202:8880/287994003710/287994003710/31774
+#EXTINF:-1,YU-GI-OH
+http://163.172.103.202:8880/287994003710/287994003710/31775
