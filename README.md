@@ -1,17 +1,9 @@
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTM3U #EXTINF:-1, [B][COLOR yellow] RAMALHOTV[/B][/COLOR] [B][COLOR lime] -SERVIDOR 01[/B][/COLOR] 
 http://canais.servidor 
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.seuip.tv/0.png" group-title="CANAIS GLOBO",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://tv1.cs10.tv:80/leopoldo/leopoldo/3
 #EXTINF:-1,A&E HD+
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003822/287994003822/16691
 #EXTINF:-1,AMC HD+
