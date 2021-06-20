@@ -13,10 +13,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&st
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/236
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://maxptv.net:25500/assets/images/logoscanais/ae_br%20(1).jpg" group-title="Canais | FILMES E SÉRIES ",A&E SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/235
-#EXTINF:-1 tvg-id="" tvg-name="Adultos - 2 / 24h" tvg-logo="" group-title="Canais | [XXX] ADULTO",Adultos - 2 / 24h
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/28741
-#EXTINF:-1 tvg-id="" tvg-name="Adultos-1" tvg-logo="" group-title="Canais | [XXX] ADULTO",Adultos-1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/32146
 #EXTINF:-1 tvg-id="" tvg-name="Alem da Imaginação - 24h" tvg-logo="" group-title="Canais |  24 HORAS",Alem da Imaginação - 24h
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/28241
 #EXTINF:-1 tvg-id="" tvg-name="Alem da Imaginação 2020 / 24h" tvg-logo="" group-title="Canais |  24 HORAS",Alem da Imaginação 2020 / 24h
@@ -75,30 +71,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&st
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/216
 #EXTINF:-1 tvg-id="" tvg-name="BUBU E AS CORUJINHAS - 24h" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",BUBU E AS CORUJINHAS - 24h
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/25627
-#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 01 FHD (CANAL EXTRA)" tvg-logo="" group-title="Canais I BUNDESLIGA",BUNDESLIGA 01 FHD (CANAL EXTRA)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/28471
-#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 02 FHD (CANAL EXTRA)" tvg-logo="" group-title="Canais I BUNDESLIGA",BUNDESLIGA 02 FHD (CANAL EXTRA)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/28472
-#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 03 FHD (CANAL EXTRA)" tvg-logo="" group-title="Canais I BUNDESLIGA",BUNDESLIGA 03 FHD (CANAL EXTRA)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/28473
-#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 04 FHD (CANAL EXTRA)" tvg-logo="" group-title="Canais I BUNDESLIGA",BUNDESLIGA 04 FHD (CANAL EXTRA)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/28474
-#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 05 FHD (CANAL EXTRA)" tvg-logo="" group-title="Canais I BUNDESLIGA",BUNDESLIGA 05 FHD (CANAL EXTRA)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/28475
-#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 06 FHD (CANAL EXTRA)" tvg-logo="" group-title="Canais I BUNDESLIGA",BUNDESLIGA 06 FHD (CANAL EXTRA)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/28470
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 01 HD" tvg-logo="" group-title="Canais I CAMPEONATOS ESTADUAIS 2021",CAMPEONATO CARIOCA 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/27693
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 02 HD" tvg-logo="" group-title="Canais I CAMPEONATOS ESTADUAIS 2021",CAMPEONATO CARIOCA 02 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/27694
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/02/record_carioca.png" group-title="Canais I CAMPEONATOS ESTADUAIS 2021",Campeonato Carioca 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/22945
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2" tvg-logo="https://www.mktesportivo.com/wp-content/uploads/2021/02/record_carioca.png" group-title="Canais I CAMPEONATOS ESTADUAIS 2021",Campeonato Carioca 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/22946
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA HD 03" tvg-logo="" group-title="Canais I CAMPEONATOS ESTADUAIS 2021",CAMPEONATO CARIOCA HD 03
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/27695
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA HD 04" tvg-logo="" group-title="Canais I CAMPEONATOS ESTADUAIS 2021",CAMPEONATO CARIOCA HD 04
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/27696
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Canal Band News HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | NOTÍCIAS ",Canal Band News HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B] SERVIDOR 01[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Ricardo1/123456/224
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Canal Band News SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | NOTÍCIAS ",Canal Band News SD
